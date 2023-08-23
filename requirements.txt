@@ -3,3 +3,5 @@ netCDF4==1.6.4
 numpy==1.25.2
 paho-mqtt==1.6.1
 jsonschema==4.19.0
+eccodes==1.4.0
+
