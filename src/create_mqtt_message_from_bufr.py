@@ -25,7 +25,8 @@ def bufr2mqtt(bufr_file) -> str :
         "properties" : ["edition","masterTableNumber","bufrHeaderCentre","bufrHeaderSubCentre","updateSequenceNumber","dataCategory","internationalDataSubCategory","dataSubcategory",
                     "masterTablesVersionNumber","localTablesVersionNumber","numberOfSubsets","observedData","compressedData","unexpandedDescriptors"],
         "datetime" : ["year","month","day","hour","minute","second","secondsWithinAMinuteMicrosecond"],
-        "station_id" : ["blockNumber","stationNumber","stationOrSiteName","stateIdentifier","nationalStationNumber","aircraftFlightNumber","aircraftRegistrationNumberOrOtherIdentification","observationSequenceNumber","aircraftTailNumber","originationAirport","destinationAirport","shipOrMobileLandStationIdentifier"]
+        "station_id" : ["blockNumber","stationNumber","stationOrSiteName","stateIdentifier","nationalStationNumber","aircraftFlightNumber","aircraftRegistrationNumberOrOtherIdentification","observationSequenceNumber","aircraftTailNumber","originationAirport","destinationAirport","shipOrMobileLandStationIdentifier"],
+        "measure" : ["nonCoordinatePressure","pressureReducedToMeanSeaLevel","airTemperatureAt2M","dewpointTemperatureAt2M","airTemperature","dewpointTemperature"]
 
         }
 
@@ -38,7 +39,7 @@ def bufr2mqtt(bufr_file) -> str :
 
         "type" : "Feature",
         "geometry" : "null",
-        "properties" : { "station_id" : {}  }
+        "properties" : { "station_id" : {} , "measure" : {} }
 
         }
 
@@ -107,6 +108,12 @@ def bufr2mqtt(bufr_file) -> str :
             if codes_is_defined(bufr,s_field) :
                 st_id[s_field] = codes_get_array(bufr, s_field)
 
+        # measure
+        meas = {}
+        for m_field in bufr_keys["measure"] :
+            if codes_is_defined(bufr,m_field) :
+                meas[m_field] = codes_get_array(bufr, m_field)
+
         for s in range(0,subsets) :
             ret_messages = message_template.copy()
 
@@ -144,6 +151,10 @@ def bufr2mqtt(bufr_file) -> str :
             #station_id
             for sid in st_id :
                 ret_messages['properties']['station_id'].update({ str(sid) : str(st_id[sid][s]) })
+
+            #measure
+            for m in meas :
+                ret_messages['properties']['measure'].update({ str(m) : str(meas[m][s]) })
 
             ret_str += "\n" + json.dumps(ret_messages,indent=2)
 
