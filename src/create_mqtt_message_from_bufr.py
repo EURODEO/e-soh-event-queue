@@ -23,7 +23,9 @@ def bufr2mqtt(bufr_file) -> str :
         "metadata_id": ["blockNumber","stationNumber","stateIdentifier","nationalStationNumber"],
         "height" : ["heightOfStationGroundAboveMeanSeaLevel","heightOfBarometerAboveMeanSeaLevel","heightOfStation","height"],
         "properties" : ["edition","masterTableNumber","bufrHeaderCentre","bufrHeaderSubCentre","updateSequenceNumber","dataCategory","internationalDataSubCategory","dataSubcategory",
-                    "masterTablesVersionNumber","localTablesVersionNumber","numberOfSubsets","observedData","compressedData","unexpandedDescriptors"]
+                    "masterTablesVersionNumber","localTablesVersionNumber","numberOfSubsets","observedData","compressedData","unexpandedDescriptors"],
+        "datetime" : ["year","month","day","hour","minute","second","secondsWithinAMinuteMicrosecond"]
+
         }
 
 
@@ -89,11 +91,18 @@ def bufr2mqtt(bufr_file) -> str :
                         hei = codes_get_array(bufr,desc)
                         break
 
+        # datetime
+        dt = {}
+        for d_field in bufr_keys["datetime"] :
+            if codes_is_defined(bufr,d_field) :
+                dt[d_field] = codes_get_array(bufr, d_field)
+            else :
+                if d_field not in dt :
+                    dt[d_field] = [0.0] * subsets
 
         for s in range(0,subsets) :
             ret_messages = message_template.copy()
 
-            #if s > 0 :
             ret_messages.update(id=str(uuid.uuid4()))
 
             if lat[s] < 90 and lat[s] > -90 and lon[s] < 180 and lon[s] > -180 :
@@ -103,6 +112,28 @@ def bufr2mqtt(bufr_file) -> str :
                     ret_messages['geometry'] = { 'type' : 'Point', 'coordinates' : [ round(lat[s],6) , round(lon[s],6) ]  }
 
             ret_messages['properties'].update({ 'dataSubset' : s })
+
+            # datetime
+            if dt["year"][s] > 1900 and dt["year"][s] < 3000 and dt["month"][s] >= 1 and  dt["month"][s] <= 12 and dt["day"] >= 1 and dt["day"] <= 31 :
+                datetime_str = f'{dt["year"][s]:04}-{dt["month"][s]:02}-{dt["day"][s]:02}'
+                if dt["hour"][s] >= 0 and dt["hour"] <= 23 :
+                    datetime_str += f'T{dt["hour"][s]:02}'
+                    if dt["minute"][s] >= 0 and dt["minute"] <= 59 :
+                        datetime_str += f':{dt["minute"][s]:02}'
+                        if dt["second"][s] >= 0 and dt["second"][s] <= 59 :
+                            dt_sec = float(dt["second"][s])
+                            if dt["secondsWithinAMinuteMicrosecond"][s] < 1.0 :
+                                dt_sec += dt["secondsWithinAMinuteMicrosecond"][s]
+                            datetime_str += f':{dt_sec:04.6}'
+                        else :
+                            datetime_str += ":00.0"
+                    else :
+                        datetime_str += ":00:00.0"
+                else :
+                    datetime_str += "T00:00:00.0"
+
+            ret_messages['properties'].update({ 'datetime' : datetime_str })
+
             ret_str += "\n" + json.dumps(ret_messages,indent=2)
 
     return ret_str
