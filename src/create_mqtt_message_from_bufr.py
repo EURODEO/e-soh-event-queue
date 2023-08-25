@@ -105,13 +105,13 @@ def bufr2mqtt(bufr_file) -> str :
         # station_id
         st_id = {}
         for s_field in bufr_keys["station_id"] :
-            if codes_is_defined(bufr,s_field) :
+            if codes_is_defined(bufr,s_field) and not codes_is_missing(bufr,s_field) :
                 st_id[s_field] = codes_get_array(bufr, s_field)
 
         # measure
         meas = {}
         for m_field in bufr_keys["measure"] :
-            if codes_is_defined(bufr,m_field) :
+            if codes_is_defined(bufr,m_field) and not codes_is_missing(bufr,m_field) :
                 meas[m_field] = codes_get_array(bufr, m_field)
 
         for s in range(0,subsets) :
@@ -128,6 +128,7 @@ def bufr2mqtt(bufr_file) -> str :
             ret_messages['properties'].update({ 'dataSubset' : s })
 
             # datetime
+            datetime_str = ""
             if dt["year"][s] > 1900 and dt["year"][s] < 3000 and dt["month"][s] >= 1 and  dt["month"][s] <= 12 and dt["day"][s] >= 1 and dt["day"][s] <= 31 :
                 datetime_str = f'{dt["year"][s]:04}-{dt["month"][s]:02}-{dt["day"][s]:02}'
                 if dt["hour"][s] >= 0 and dt["hour"][s] <= 23 :
