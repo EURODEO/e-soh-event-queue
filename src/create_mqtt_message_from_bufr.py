@@ -24,7 +24,8 @@ def bufr2mqtt(bufr_file) -> str :
         "height" : ["heightOfStationGroundAboveMeanSeaLevel","heightOfBarometerAboveMeanSeaLevel","heightOfStation","height"],
         "properties" : ["edition","masterTableNumber","bufrHeaderCentre","bufrHeaderSubCentre","updateSequenceNumber","dataCategory","internationalDataSubCategory","dataSubcategory",
                     "masterTablesVersionNumber","localTablesVersionNumber","numberOfSubsets","observedData","compressedData","unexpandedDescriptors"],
-        "datetime" : ["year","month","day","hour","minute","second","secondsWithinAMinuteMicrosecond"]
+        "datetime" : ["year","month","day","hour","minute","second","secondsWithinAMinuteMicrosecond"],
+        "station_id" : ["blockNumber","stationNumber","stationOrSiteName","stateIdentifier","nationalStationNumber","aircraftFlightNumber","aircraftRegistrationNumberOrOtherIdentification","observationSequenceNumber","aircraftTailNumber","originationAirport","destinationAirport","shipOrMobileLandStationIdentifier"]
 
         }
 
@@ -37,7 +38,7 @@ def bufr2mqtt(bufr_file) -> str :
 
         "type" : "Feature",
         "geometry" : "null",
-        "properties" : {}
+        "properties" : { "station_id" : {}  }
 
         }
 
@@ -100,6 +101,12 @@ def bufr2mqtt(bufr_file) -> str :
                 if d_field not in dt :
                     dt[d_field] = [0.0] * subsets
 
+        # station_id
+        st_id = {}
+        for s_field in bufr_keys["station_id"] :
+            if codes_is_defined(bufr,s_field) :
+                st_id[s_field] = codes_get_array(bufr, s_field)
+
         for s in range(0,subsets) :
             ret_messages = message_template.copy()
 
@@ -114,11 +121,11 @@ def bufr2mqtt(bufr_file) -> str :
             ret_messages['properties'].update({ 'dataSubset' : s })
 
             # datetime
-            if dt["year"][s] > 1900 and dt["year"][s] < 3000 and dt["month"][s] >= 1 and  dt["month"][s] <= 12 and dt["day"] >= 1 and dt["day"] <= 31 :
+            if dt["year"][s] > 1900 and dt["year"][s] < 3000 and dt["month"][s] >= 1 and  dt["month"][s] <= 12 and dt["day"][s] >= 1 and dt["day"][s] <= 31 :
                 datetime_str = f'{dt["year"][s]:04}-{dt["month"][s]:02}-{dt["day"][s]:02}'
-                if dt["hour"][s] >= 0 and dt["hour"] <= 23 :
+                if dt["hour"][s] >= 0 and dt["hour"][s] <= 23 :
                     datetime_str += f'T{dt["hour"][s]:02}'
-                    if dt["minute"][s] >= 0 and dt["minute"] <= 59 :
+                    if dt["minute"][s] >= 0 and dt["minute"][s] <= 59 :
                         datetime_str += f':{dt["minute"][s]:02}'
                         if dt["second"][s] >= 0 and dt["second"][s] <= 59 :
                             dt_sec = float(dt["second"][s])
@@ -133,6 +140,10 @@ def bufr2mqtt(bufr_file) -> str :
                     datetime_str += "T00:00:00.0"
 
             ret_messages['properties'].update({ 'datetime' : datetime_str })
+
+            #station_id
+            for sid in st_id :
+                ret_messages['properties']['station_id'].update({ str(sid) : str(st_id[sid][s]) })
 
             ret_str += "\n" + json.dumps(ret_messages,indent=2)
 
