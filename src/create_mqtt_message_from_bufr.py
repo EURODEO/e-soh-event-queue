@@ -110,9 +110,11 @@ def bufr2mqtt(bufr_file) -> str :
 
         # measure
         meas = {}
+        meas_unit = {}
         for m_field in bufr_keys["measure"] :
             if codes_is_defined(bufr,m_field) and not codes_is_missing(bufr,m_field) :
                 meas[m_field] = codes_get_array(bufr, m_field)
+                meas_unit[m_field] =codes_get_array(bufr, m_field + "->units")
 
         for s in range(0,subsets) :
             ret_messages = message_template.copy()
@@ -155,7 +157,7 @@ def bufr2mqtt(bufr_file) -> str :
 
             #measure
             for m in meas :
-                ret_messages['properties']['measure'].update({ str(m) : str(meas[m][s]) })
+                ret_messages['properties']['measure'].update({ str(m) : str(meas[m][s]) + " " + str(meas_unit[m][s]) })
 
             ret_str += "\n" + json.dumps(ret_messages,indent=2)
 
