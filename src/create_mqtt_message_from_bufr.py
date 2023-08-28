@@ -2,6 +2,7 @@ import sys
 import os
 import uuid
 import json
+import numpy
 from eccodes import *
 
 
@@ -69,13 +70,19 @@ def bufr2mqtt(bufr_file) -> str :
         data_category = -1
         for prop in bufr_keys["properties"] :
             if codes_is_defined(bufr,prop) :
-                # API bug, skip unexpandedDescriptors
-                if data_category == 4 and prop == "unexpandedDescriptors" :
-                    continue
-                upd_str = prop + "=" + str(codes_get(bufr,prop))
+                if prop == "unexpandedDescriptors" :
+                    codes = codes_get_array(bufr,prop)
+                else :
+                    codes = codes_get(bufr,prop)
                 if prop == "dataCategory" :
                     data_category = codes_get(bufr,prop)
-                message_template['properties'].update({ prop : codes_get(bufr,prop) })
+                if type(codes) is numpy.ndarray :
+                    ct = []
+                    for c in codes :
+                        ct.append(int(c))
+                    message_template['properties'].update({ prop : [ ct ] })
+                else :
+                    message_template['properties'].update({ prop : codes })
 
         codes_set(bufr, 'unpack', 1)
 
