@@ -138,16 +138,52 @@ def bufr2mqtt(bufr_file) -> str :
 
             # datetime
             datetime_str = ""
-            if dt["year"][s] > 1900 and dt["year"][s] < 3000 and dt["month"][s] >= 1 and  dt["month"][s] <= 12 and dt["day"][s] >= 1 and dt["day"][s] <= 31 :
-                datetime_str = f'{dt["year"][s]:04}-{dt["month"][s]:02}-{dt["day"][s]:02}'
-                if dt["hour"][s] >= 0 and dt["hour"][s] <= 23 :
-                    datetime_str += f'T{dt["hour"][s]:02}'
-                    if dt["minute"][s] >= 0 and dt["minute"][s] <= 59 :
-                        datetime_str += f':{dt["minute"][s]:02}'
-                        if dt["second"][s] >= 0 and dt["second"][s] <= 59 :
-                            dt_sec = float(dt["second"][s])
-                            if dt["secondsWithinAMinuteMicrosecond"][s] < 1.0 :
-                                dt_sec += dt["secondsWithinAMinuteMicrosecond"][s]
+
+            if len(dt["year"]) == 1 :
+                dt_year = dt["year"][0]
+            else :
+                dt_year = dt["year"][s]
+
+            if len(dt["month"]) == 1 :
+                dt_month = dt["month"][0]
+            else :
+                dt_month = dt["month"][s]
+
+            if len(dt["day"]) == 1 :
+                dt_day = dt["day"][0]
+            else :
+                dt_day = dt["day"][s]
+
+            if len(dt["hour"]) == 1 :
+                dt_hour = dt["hour"][0]
+            else :
+                dt_hour = dt["hour"][s]
+
+            if len(dt["minute"]) == 1 :
+                dt_minute = dt["minute"][0]
+            else :
+                dt_minute = dt["minute"][s]
+
+            if len(dt["second"]) == 1 :
+                dt_second = dt["second"][0]
+            else :
+                dt_second = dt["second"][s]
+
+            if len(dt["secondsWithinAMinuteMicrosecond"]) == 1 :
+                dt_microsecond = dt["secondsWithinAMinuteMicrosecond"][0]
+            else :
+                dt_microsecond = dt["secondsWithinAMinuteMicrosecond"][s]
+
+            if dt_year > 1900 and dt_year < 3000 and dt_month >= 1 and  dt_month <= 12 and dt_day >= 1 and dt_day <= 31 :
+                datetime_str = f'{dt_year:04}-{dt_month:02}-{dt_day:02}'
+                if dt_hour >= 0 and dt_hour <= 23 :
+                    datetime_str += f'T{dt_hour:02}'
+                    if dt_minute >= 0 and dt_minute <= 59 :
+                        datetime_str += f':{dt_minute:02}'
+                        if dt_second >= 0 and dt_second <= 59 :
+                            dt_sec = float(dt_second)
+                            if dt_microsecond < 1.0 :
+                                dt_sec += dt_microsecond
                             datetime_str += f':{dt_sec:04.6}'
                         else :
                             datetime_str += ":00.0"
