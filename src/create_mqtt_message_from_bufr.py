@@ -130,7 +130,7 @@ def bufr2mqtt(bufr_file) -> str :
 
             if lat[s] < 90 and lat[s] > -90 and lon[s] < 180 and lon[s] > -180 :
                 if height_exists :
-                    ret_messages['geometry'] = { 'type' : 'Point', 'coordinates' : [ round(lat[s],6) , round(lon[s],6) , round(hei[s],6) ]  }
+                    ret_messages['geometry'] = { 'type' : 'Point', 'coordinates' : [ round(lat[s],6) , round(lon[s],6) , round(float(hei[s]),6) ]  }
                 else :
                     ret_messages['geometry'] = { 'type' : 'Point', 'coordinates' : [ round(lat[s],6) , round(lon[s],6) ]  }
 
