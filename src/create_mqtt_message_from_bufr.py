@@ -95,7 +95,7 @@ def bufr2mqtt(bufr_file) -> str :
                 lon = codes_get_array(bufr, 'longitude')
                 height_exists = False
                 for desc in bufr_keys["height"] :
-                    if codes_is_defined(bufr,desc) :
+                    if codes_is_defined(bufr,desc) and not codes_is_missing(bufr,desc) :
                         height_exists = True
                         hei = codes_get_array(bufr,desc)
                         break
