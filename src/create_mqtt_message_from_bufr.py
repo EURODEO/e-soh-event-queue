@@ -26,7 +26,7 @@ def bufr2mqtt(bufr_file) -> str :
         "properties" : ["edition","masterTableNumber","bufrHeaderCentre","bufrHeaderSubCentre","updateSequenceNumber","dataCategory","internationalDataSubCategory","dataSubcategory",
                     "masterTablesVersionNumber","localTablesVersionNumber","numberOfSubsets","observedData","compressedData","unexpandedDescriptors"],
         "datetime" : ["year","month","day","hour","minute","second","secondsWithinAMinuteMicrosecond"],
-        "station_id" : ["blockNumber","stationNumber","stationOrSiteName","stateIdentifier","nationalStationNumber","aircraftFlightNumber","aircraftRegistrationNumberOrOtherIdentification","observationSequenceNumber","aircraftTailNumber","originationAirport","destinationAirport","shipOrMobileLandStationIdentifier"],
+        "station_id" : ["blockNumber","stationNumber","stationOrSiteName","stateIdentifier","nationalStationNumber","aircraftFlightNumber","aircraftRegistrationNumberOrOtherIdentification","observationSequenceNumber","aircraftTailNumber","originationAirport","destinationAirport","shipOrMobileLandStationIdentifier","shortStationName","longStationName","wigosIdentifierSeries","wigosIssuerOfIdentifier","wigosIssueNumber","wigosLocalIdentifierCharacter"],
         "measure" : ["nonCoordinatePressure","pressureReducedToMeanSeaLevel","airTemperatureAt2M","dewpointTemperatureAt2M","airTemperature","dewpointTemperature"]
 
         }
@@ -196,11 +196,23 @@ def bufr2mqtt(bufr_file) -> str :
 
             #station_id
             for sid in st_id :
-                ret_messages['properties']['station_id'].update({ str(sid) : str(st_id[sid][s]) })
+                if st_id :
+                    if subsets > 1 and len(st_id[sid]) == 1 :
+                        ret_messages['properties']['station_id'].update({ str(sid) : str(st_id[sid][0]) })
+                    else :
+                        ret_messages['properties']['station_id'].update({ str(sid) : str(st_id[sid][s]) })
 
             #measure
             for m in meas :
-                ret_messages['properties']['measure'].update({ str(m) : str(meas[m][s]) + " " + str(meas_unit[m][s]) })
+                if subsets > 1 and len(meas[m]) == 1 :
+                    meas_str = str(meas[m][0])
+                else :
+                    meas_str = str(meas[m][s])
+                if subsets > 1 and len(meas_unit[m]) == 1 :
+                    meas_unit_str = str(meas_unit[m][0])
+                else :
+                    meas_unit_str = str(meas_unit[m][s])
+                ret_messages['properties']['measure'].update({ str(m) : meas_str + " " + meas_unit_str })
 
             ret_str += "\n" + json.dumps(ret_messages,indent=2)
 
