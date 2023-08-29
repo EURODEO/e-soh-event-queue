@@ -205,9 +205,9 @@ def bufr2mqtt(bufr_file) -> str :
             #measure
             for m in meas :
                 if subsets > 1 and len(meas[m]) == 1 :
-                    meas_str = str(meas[m][0])
+                    meas_str = f'{meas[m][0]:0.8}'
                 else :
-                    meas_str = str(meas[m][s])
+                    meas_str = f'{meas[m][s]:0.8}'
                 if subsets > 1 and len(meas_unit[m]) == 1 :
                     meas_unit_str = str(meas_unit[m][0])
                 else :
