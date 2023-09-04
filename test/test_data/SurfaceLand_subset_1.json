@@ -1,0 +1,53 @@
+
+{
+  "id": "e462d6c8-69f3-4f6c-accc-e82ec7ca994a",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      69.9363,
+      28.3773,
+      418.0
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "stationOrSiteName": "KORGAASEN           ",
+      "stateIdentifier": "633",
+      "nationalStationNumber": "96890"
+    },
+    "measure": {
+      "nonCoordinatePressure": "96460.0 Pa",
+      "pressureReducedToMeanSeaLevel": "101480.0 Pa",
+      "airTemperature": "279.15 K",
+      "dewpointTemperature": "277.48 K",
+      "windDirection": "116 deg",
+      "windSpeed": "3.3 m/s"
+    },
+    "data_id": "SurfaceLand_subset_1.buf",
+    "pubtime": "2023-08-23T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 88,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 31,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        301089,
+        307079,
+        4025,
+        11042
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-08-23T00:00:00.0"
+  }
+}

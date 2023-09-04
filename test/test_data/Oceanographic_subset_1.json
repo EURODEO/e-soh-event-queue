@@ -1,0 +1,42 @@
+
+{
+  "id": "2dee1afc-36d8-44e8-a388-f64bd8c1a225",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      56.85,
+      -9.73
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "shipOrMobileLandStationIdentifier": "6800987  "
+    },
+    "measure": {
+      "oceanographicWaterTemperature": "284.78 K"
+    },
+    "data_id": "Oceanographic_subset_1.bufr",
+    "pubtime": "2023-05-22T18:47:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 88,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 31,
+    "internationalDataSubCategory": 5,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        315002
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-05-22T18:47:00.0"
+  }
+}

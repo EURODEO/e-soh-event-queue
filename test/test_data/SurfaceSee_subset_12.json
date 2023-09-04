@@ -1,0 +1,505 @@
+
+{
+  "id": "1ebc07e1-dff3-4e04-9b3f-51aed6d3f69d",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.1,
+      -130.0
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "shipOrMobileLandStationIdentifier": "46059    "
+    },
+    "measure": {
+      "airTemperature": "292.55 K",
+      "oceanographicWaterTemperature": "293.35 K"
+    },
+    "data_id": "SurfaceSee_subset_12.buf",
+    "pubtime": "2023-08-23T04:30:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 74,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 1,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 22,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 12,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        308009
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-08-23T04:30:00.0"
+  }
+}
+{
+  "id": "72231e68-12bf-48fe-8a1e-6ba7d6a7fedc",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -14.3,
+      -170.5
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "shipOrMobileLandStationIdentifier": "51209    "
+    },
+    "measure": {
+      "airTemperature": "-1e+100 K",
+      "oceanographicWaterTemperature": "301.45 K"
+    },
+    "data_id": "SurfaceSee_subset_12.buf",
+    "pubtime": "2023-08-23T04:30:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 74,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 1,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 22,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 12,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        308009
+      ]
+    ],
+    "dataSubset": 1,
+    "datetime": "2023-08-23T04:26:00.0"
+  }
+}
+{
+  "id": "0fe83664-ffbe-4ddf-84ab-673eb1b1d6e7",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      45.9,
+      -125.8
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "shipOrMobileLandStationIdentifier": "46089    "
+    },
+    "measure": {
+      "airTemperature": "290.75 K",
+      "oceanographicWaterTemperature": "291.45 K"
+    },
+    "data_id": "SurfaceSee_subset_12.buf",
+    "pubtime": "2023-08-23T04:30:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 74,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 1,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 22,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 12,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        308009
+      ]
+    ],
+    "dataSubset": 2,
+    "datetime": "2023-08-23T04:20:00.0"
+  }
+}
+{
+  "id": "3c5ab1bc-787a-48c1-8e3d-dd65e2ce7ddf",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      45.9,
+      -125.8
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "shipOrMobileLandStationIdentifier": "46089    "
+    },
+    "measure": {
+      "airTemperature": "290.75 K",
+      "oceanographicWaterTemperature": "291.45 K"
+    },
+    "data_id": "SurfaceSee_subset_12.buf",
+    "pubtime": "2023-08-23T04:30:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 74,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 1,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 22,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 12,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        308009
+      ]
+    ],
+    "dataSubset": 3,
+    "datetime": "2023-08-23T04:30:00.0"
+  }
+}
+{
+  "id": "de626760-73d7-42ce-828a-79998ae42ff2",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.4,
+      -119.5
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "shipOrMobileLandStationIdentifier": "46047    "
+    },
+    "measure": {
+      "airTemperature": "292.55 K",
+      "oceanographicWaterTemperature": "293.95 K"
+    },
+    "data_id": "SurfaceSee_subset_12.buf",
+    "pubtime": "2023-08-23T04:30:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 74,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 1,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 22,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 12,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        308009
+      ]
+    ],
+    "dataSubset": 4,
+    "datetime": "2023-08-23T04:20:00.0"
+  }
+}
+{
+  "id": "0960d192-53c2-4d2f-b9be-a37b4c75ae35",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.4,
+      -119.5
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "shipOrMobileLandStationIdentifier": "46047    "
+    },
+    "measure": {
+      "airTemperature": "292.55 K",
+      "oceanographicWaterTemperature": "293.85 K"
+    },
+    "data_id": "SurfaceSee_subset_12.buf",
+    "pubtime": "2023-08-23T04:30:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 74,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 1,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 22,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 12,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        308009
+      ]
+    ],
+    "dataSubset": 5,
+    "datetime": "2023-08-23T04:30:00.0"
+  }
+}
+{
+  "id": "20f0b6e3-3670-4aaa-ac12-94692ed11371",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.4,
+      144.8
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "shipOrMobileLandStationIdentifier": "52200    "
+    },
+    "measure": {
+      "airTemperature": "-1e+100 K",
+      "oceanographicWaterTemperature": "302.95 K"
+    },
+    "data_id": "SurfaceSee_subset_12.buf",
+    "pubtime": "2023-08-23T04:30:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 74,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 1,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 22,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 12,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        308009
+      ]
+    ],
+    "dataSubset": 6,
+    "datetime": "2023-08-23T04:26:00.0"
+  }
+}
+{
+  "id": "1049a112-ce38-4875-a85b-b908bb85f01b",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.2,
+      -119.9
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "shipOrMobileLandStationIdentifier": "46219    "
+    },
+    "measure": {
+      "airTemperature": "-1e+100 K",
+      "oceanographicWaterTemperature": "292.55 K"
+    },
+    "data_id": "SurfaceSee_subset_12.buf",
+    "pubtime": "2023-08-23T04:30:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 74,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 1,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 22,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 12,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        308009
+      ]
+    ],
+    "dataSubset": 7,
+    "datetime": "2023-08-23T04:26:00.0"
+  }
+}
+{
+  "id": "ff74095b-f96f-492c-8cda-c316c35f1d41",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.7,
+      -130.5
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "shipOrMobileLandStationIdentifier": "46002    "
+    },
+    "measure": {
+      "airTemperature": "291.75 K",
+      "oceanographicWaterTemperature": "-1e+100 K"
+    },
+    "data_id": "SurfaceSee_subset_12.buf",
+    "pubtime": "2023-08-23T04:30:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 74,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 1,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 22,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 12,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        308009
+      ]
+    ],
+    "dataSubset": 8,
+    "datetime": "2023-08-23T04:20:00.0"
+  }
+}
+{
+  "id": "efb6eba2-fce0-47ed-a1d7-1f0459b4d68a",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.7,
+      -130.5
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "shipOrMobileLandStationIdentifier": "46002    "
+    },
+    "measure": {
+      "airTemperature": "291.95 K",
+      "oceanographicWaterTemperature": "-1e+100 K"
+    },
+    "data_id": "SurfaceSee_subset_12.buf",
+    "pubtime": "2023-08-23T04:30:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 74,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 1,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 22,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 12,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        308009
+      ]
+    ],
+    "dataSubset": 9,
+    "datetime": "2023-08-23T04:30:00.0"
+  }
+}
+{
+  "id": "4238a6e2-1944-454f-8f26-168854134853",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1,
+      171.4
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "shipOrMobileLandStationIdentifier": "52201    "
+    },
+    "measure": {
+      "airTemperature": "301.15 K",
+      "oceanographicWaterTemperature": "303.05 K"
+    },
+    "data_id": "SurfaceSee_subset_12.buf",
+    "pubtime": "2023-08-23T04:30:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 74,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 1,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 22,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 12,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        308009
+      ]
+    ],
+    "dataSubset": 10,
+    "datetime": "2023-08-23T04:00:00.0"
+  }
+}
+{
+  "id": "073d3157-a898-4cb5-9048-de04bb04cfb0",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1,
+      171.4
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "shipOrMobileLandStationIdentifier": "52201    "
+    },
+    "measure": {
+      "airTemperature": "300.65 K",
+      "oceanographicWaterTemperature": "302.95 K"
+    },
+    "data_id": "SurfaceSee_subset_12.buf",
+    "pubtime": "2023-08-23T04:30:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 74,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 1,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 22,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 12,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        308009
+      ]
+    ],
+    "dataSubset": 11,
+    "datetime": "2023-08-23T04:30:00.0"
+  }
+}
