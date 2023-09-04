@@ -1,0 +1,95 @@
+
+{
+  "id": "afd59d49-3761-4aff-b1c1-98bfbc378a27",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.38,
+      7.83
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "stationOrSiteName": "BOUEE_COTE D'AZUR   ",
+      "marineObservingPlatformIdentifier": "6100001"
+    },
+    "measure": {
+      "nonCoordinatePressure": "101460.0 Pa",
+      "pressureReducedToMeanSeaLevel": "101480.0 Pa",
+      "airTemperature": "300.95 K",
+      "dewpointTemperature": "298.55 K",
+      "windDirection": "250 deg",
+      "windSpeed": "1.6 m/s"
+    },
+    "data_id": "SurfaceSee_subset_2.buf",
+    "pubtime": "2023-08-23T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 85,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 1,
+    "internationalDataSubCategory": 25,
+    "masterTablesVersionNumber": 22,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 2,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        315008
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-08-23T00:00:00.0"
+  }
+}
+{
+  "id": "6ead3c94-ce27-4bcc-bbd5-10991e783b9e",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.74,
+      7.59
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "stationOrSiteName": "BOUEE_AJACCIO       ",
+      "marineObservingPlatformIdentifier": "6101031"
+    },
+    "measure": {
+      "nonCoordinatePressure": "101530.0 Pa",
+      "pressureReducedToMeanSeaLevel": "101550.0 Pa",
+      "airTemperature": "299.85 K",
+      "dewpointTemperature": "298.05 K",
+      "windDirection": "330 deg",
+      "windSpeed": "1.6 m/s"
+    },
+    "data_id": "SurfaceSee_subset_2.buf",
+    "pubtime": "2023-08-23T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 85,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 1,
+    "internationalDataSubCategory": 25,
+    "masterTablesVersionNumber": 22,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 2,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        315008
+      ]
+    ],
+    "dataSubset": 1,
+    "datetime": "2023-08-23T00:00:00.0"
+  }
+}

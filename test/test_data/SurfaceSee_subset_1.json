@@ -1,0 +1,48 @@
+
+{
+  "id": "908298c5-8d40-4e94-81da-044287c419fb",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      49.9081,
+      -2.8948
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "stationOrSiteName": "Channel             ",
+      "marineObservingPlatformIdentifier": "6200103"
+    },
+    "measure": {
+      "nonCoordinatePressure": "102100.0 Pa",
+      "pressureReducedToMeanSeaLevel": "102120.0 Pa",
+      "airTemperature": "290.15 K",
+      "dewpointTemperature": "289.28 K",
+      "windDirection": "286 deg",
+      "windSpeed": "2.4 m/s"
+    },
+    "data_id": "SurfaceSee_subset_1.buf",
+    "pubtime": "2023-08-23T00:02:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 74,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 1,
+    "internationalDataSubCategory": 25,
+    "masterTablesVersionNumber": 25,
+    "localTablesVersionNumber": 255,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        315008
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-08-23T00:02:00.0"
+  }
+}

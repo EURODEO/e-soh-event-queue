@@ -1,0 +1,76 @@
+
+{
+  "id": "2d0934f6-7164-498b-aa85-cbaa90752700",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      57.35,
+      -7.37,
+      4.0
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "3",
+      "stationNumber": "21"
+    },
+    "measure": {
+      "#3#windDirection": "229 deg",
+      "#3#windSpeed": "9.2 m/s"
+    },
+    "data_id": "VerticalSoundings_WindProfiler.buf",
+    "pubtime": "2023-08-23T04:45:00.0",
+    "edition": 3,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 74,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 2,
+    "masterTablesVersionNumber": 9,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        301032,
+        2003,
+        2101,
+        201130,
+        2106,
+        201000,
+        201132,
+        202131,
+        2121,
+        202000,
+        201000,
+        201133,
+        202129,
+        25001,
+        202000,
+        201000,
+        25020,
+        25021,
+        8021,
+        4025,
+        111000,
+        31001,
+        7007,
+        204001,
+        31021,
+        11001,
+        204000,
+        11002,
+        204001,
+        31021,
+        11006,
+        204000,
+        21030
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-08-23T04:45:00.0"
+  }
+}

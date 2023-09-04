@@ -1,0 +1,2989 @@
+
+{
+  "id": "0e05ffac-a812-43f8-8307-25eb181b20db",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      54.32567,
+      2.93575,
+      42.7
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "201",
+      "stationOrSiteName": "Platform D15-FA-1   "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102920.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103370.0 Pa",
+      "airTemperature": "278.95 K",
+      "windDirection": "19 deg",
+      "windSpeed": "4.0 m/s"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "a8ac7e51-ffaf-4196-90a2-4ff0905c2e28",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.36,
+      3.34167,
+      41.8
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "203",
+      "stationOrSiteName": "Platform P11-B      "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102880.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103180.0 Pa",
+      "airTemperature": "279.65 K",
+      "windDirection": "46 deg",
+      "windSpeed": "10.0 m/s",
+      "dewpointTemperature": "272.95 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "a0c208bf-ad9a-4c8c-942b-b398f80a8e79",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      53.26944,
+      3.62778,
+      41.8
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "204",
+      "stationOrSiteName": "Platform K14-FA-1C  "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102920.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103270.0 Pa",
+      "airTemperature": "279.35 K",
+      "windDirection": "39 deg",
+      "windSpeed": "7.0 m/s",
+      "dewpointTemperature": "275.75 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "4d717f01-e869-4b87-b3a6-3169752972b9",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      55.39917,
+      3.81028,
+      48.3
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "205",
+      "stationOrSiteName": "Platform A12-CPP    "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102950.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103380.0 Pa",
+      "airTemperature": "278.95 K",
+      "windDirection": "45 deg",
+      "windSpeed": "4.0 m/s",
+      "dewpointTemperature": "278.75 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "70b9dd3a-99ca-4a65-bc09-39eed65f5577",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      53.61444,
+      4.96028,
+      44.0
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "207",
+      "stationOrSiteName": "Platform L9-FF-1    "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102960.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103350.0 Pa",
+      "airTemperature": "279.45 K",
+      "windDirection": "38 deg",
+      "windSpeed": "6.0 m/s",
+      "dewpointTemperature": "276.05 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "ab723020-f1f0-4323-b1c4-2ad4cae90d7a",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      53.49167,
+      5.94167,
+      40.5
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "208",
+      "stationOrSiteName": "Platform AWG-1      "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102880.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103210.0 Pa",
+      "airTemperature": "279.35 K",
+      "windDirection": "31 deg",
+      "windSpeed": "5.0 m/s",
+      "dewpointTemperature": "275.55 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "e0c10f2a-1959-4c45-91b8-33074265dcba",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.46375,
+      4.51736,
+      0.0
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "209",
+      "stationOrSiteName": "IJmond              "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102880.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103210.0 Pa",
+      "airTemperature": "279.35 K",
+      "windDirection": "39 deg",
+      "windSpeed": "7.0 m/s",
+      "dewpointTemperature": "275.55 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "b6567a0e-7bd7-4a0c-acae-204f0cf63c80",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      53.82389,
+      2.94528,
+      45.7
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "211",
+      "stationOrSiteName": "Platform J6-A       "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102890.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103320.0 Pa",
+      "airTemperature": "279.45 K",
+      "windDirection": "46 deg",
+      "windSpeed": "5.0 m/s",
+      "dewpointTemperature": "275.85 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "c1205060-ae1f-48bf-bae2-40bcc16d10b3",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      54.03697,
+      6.04161,
+      42.5
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "214",
+      "stationOrSiteName": "Platform BG-OHVS2   "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102780.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103240.0 Pa",
+      "airTemperature": "279.55 K",
+      "windDirection": "46 deg",
+      "windSpeed": "4.0 m/s",
+      "dewpointTemperature": "275.85 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "c3ea97fe-34bd-413c-8ded-2a9eace11465",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.13964,
+      4.43637,
+      -1.1
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "215",
+      "stationOrSiteName": "Voorschoten         "
+    },
+    "measure": {
+      "nonCoordinatePressure": "103090.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103100.0 Pa",
+      "airTemperature": "277.75 K",
+      "windDirection": "42 deg",
+      "windSpeed": "4.0 m/s",
+      "dewpointTemperature": "271.55 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "ef770111-c962-4fee-be24-436c82a9b97a",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.46225,
+      4.55496,
+      4.0
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "225",
+      "stationOrSiteName": "IJmuiden            "
+    },
+    "measure": {
+      "nonCoordinatePressure": "103090.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103100.0 Pa",
+      "airTemperature": "277.75 K",
+      "windDirection": "25 deg",
+      "windSpeed": "6.0 m/s",
+      "dewpointTemperature": "271.55 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "0c66bad0-4988-47d1-bf33-dae91cba9181",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      53.0,
+      4.71667,
+      1.0
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "229",
+      "stationOrSiteName": "Texelhors           "
+    },
+    "measure": {
+      "nonCoordinatePressure": "103090.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103100.0 Pa",
+      "airTemperature": "277.75 K",
+      "windDirection": "25 deg",
+      "windSpeed": "2.0 m/s",
+      "dewpointTemperature": "271.55 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "df576e78-cf33-4a68-b09a-f43f94b8f359",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.92687,
+      4.78114,
+      0.6
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "235",
+      "stationOrSiteName": "De Kooy             "
+    },
+    "measure": {
+      "nonCoordinatePressure": "103180.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103190.0 Pa",
+      "airTemperature": "278.15 K",
+      "windDirection": "40 deg",
+      "windSpeed": "4.0 m/s",
+      "dewpointTemperature": "274.85 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "ab2f657c-a8d6-4829-a6d4-cf3cb88db812",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      54.85389,
+      4.69611,
+      50.6
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "239",
+      "stationOrSiteName": "Platform F3-FB-1    "
+    },
+    "measure": {
+      "nonCoordinatePressure": "103000.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103330.0 Pa",
+      "airTemperature": "279.05 K",
+      "windDirection": "337 deg",
+      "windSpeed": "3.0 m/s",
+      "dewpointTemperature": "276.95 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "61988e7f-503c-4e16-bc48-c5b34a95b1c1",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.31718,
+      4.78979,
+      -3.9
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "240",
+      "stationOrSiteName": "Amsterdam           "
+    },
+    "measure": {
+      "nonCoordinatePressure": "103140.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103110.0 Pa",
+      "airTemperature": "278.35 K",
+      "windDirection": "37 deg",
+      "windSpeed": "5.0 m/s",
+      "dewpointTemperature": "272.35 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "95b8e107-25d4-4bc0-850d-d1be4ef1261a",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      53.24003,
+      4.92079,
+      2.8
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "242",
+      "stationOrSiteName": "Vlieland            "
+    },
+    "measure": {
+      "nonCoordinatePressure": "103080.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103200.0 Pa",
+      "airTemperature": "278.05 K",
+      "windDirection": "43 deg",
+      "windSpeed": "6.0 m/s",
+      "dewpointTemperature": "274.35 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "831680b8-1451-4a80-b668-e1e70dd592fd",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.63243,
+      5.17347,
+      0.8
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "248",
+      "stationOrSiteName": "Wijdenes            "
+    },
+    "measure": {
+      "nonCoordinatePressure": "103080.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103200.0 Pa",
+      "airTemperature": "278.05 K",
+      "windDirection": "30 deg",
+      "windSpeed": "3.0 m/s",
+      "dewpointTemperature": "274.35 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "fb1aac74-0849-4ca7-aec6-8e2bc82b894d",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.6427,
+      4.97876,
+      -2.4
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "249",
+      "stationOrSiteName": "Berkhout            "
+    },
+    "measure": {
+      "nonCoordinatePressure": "103080.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103200.0 Pa",
+      "airTemperature": "277.35 K",
+      "windDirection": "34 deg",
+      "windSpeed": "4.0 m/s",
+      "dewpointTemperature": "273.55 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "86b833ca-4d58-4566-85e2-1a8bce51c768",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      53.39127,
+      5.3458,
+      0.7
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "251",
+      "stationOrSiteName": "Terschelling Hoorn  "
+    },
+    "measure": {
+      "nonCoordinatePressure": "103190.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103220.0 Pa",
+      "airTemperature": "276.45 K",
+      "windDirection": "33 deg",
+      "windSpeed": "3.0 m/s",
+      "dewpointTemperature": "273.85 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "f7ee36ae-fc0c-4330-b4b6-9136bef4138e",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      53.21778,
+      3.22028,
+      37.7
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "252",
+      "stationOrSiteName": "K13-Alpha Platform  "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102910.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103300.0 Pa",
+      "airTemperature": "279.45 K",
+      "windDirection": "43 deg",
+      "windSpeed": "7.0 m/s",
+      "dewpointTemperature": "275.65 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "4b09df82-afaa-4782-a7b0-3d6ebffd73ca",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.50528,
+      4.60306,
+      8.5
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "257",
+      "stationOrSiteName": "Wijk aan Zee        "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102910.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103300.0 Pa",
+      "airTemperature": "276.95 K",
+      "windDirection": "43 deg",
+      "windSpeed": "7.0 m/s",
+      "dewpointTemperature": "272.15 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "8ce3d4e6-37dd-4a3b-966b-14b6f35dc87a",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.64806,
+      5.40056,
+      7.3
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "258",
+      "stationOrSiteName": "Houtribdijk         "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102910.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103300.0 Pa",
+      "airTemperature": "276.95 K",
+      "windDirection": "44 deg",
+      "windSpeed": "6.0 m/s",
+      "dewpointTemperature": "272.15 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "1eb4bc1f-88c0-43cd-977c-e12c96aeacf5",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.09882,
+      5.1797,
+      1.9
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "260",
+      "stationOrSiteName": "De Bilt             "
+    },
+    "measure": {
+      "nonCoordinatePressure": "103030.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103080.0 Pa",
+      "airTemperature": "277.35 K",
+      "windDirection": "42 deg",
+      "windSpeed": "3.0 m/s",
+      "dewpointTemperature": "271.45 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "28509882-71fd-4e11-83ab-3a34972b37e1",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.89667,
+      5.38333,
+      -1.3
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "267",
+      "stationOrSiteName": "Stavoren            "
+    },
+    "measure": {
+      "nonCoordinatePressure": "103030.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103080.0 Pa",
+      "airTemperature": "277.55 K",
+      "windDirection": "35 deg",
+      "windSpeed": "5.0 m/s",
+      "dewpointTemperature": "274.75 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "0cbecc21-6567-4d00-9329-a24a2f798ad3",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.45728,
+      5.51963,
+      -4.4
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "269",
+      "stationOrSiteName": "Lelystad            "
+    },
+    "measure": {
+      "nonCoordinatePressure": "103130.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103080.0 Pa",
+      "airTemperature": "275.55 K",
+      "windDirection": "31 deg",
+      "windSpeed": "3.0 m/s",
+      "dewpointTemperature": "272.05 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "440d8103-4fb9-46a2-a669-c992af4ff968",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      53.223,
+      5.75166,
+      0.3
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "270",
+      "stationOrSiteName": "Leeuwarden          "
+    },
+    "measure": {
+      "nonCoordinatePressure": "103180.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103190.0 Pa",
+      "airTemperature": "276.45 K",
+      "windDirection": "35 deg",
+      "windSpeed": "3.0 m/s",
+      "dewpointTemperature": "274.25 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "8990325e-2957-4b67-a106-b93ada1eb7a9",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.70194,
+      5.8875,
+      -3.3
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "273",
+      "stationOrSiteName": "Marknesse           "
+    },
+    "measure": {
+      "nonCoordinatePressure": "103180.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103190.0 Pa",
+      "airTemperature": "277.25 K",
+      "windDirection": "38 deg",
+      "windSpeed": "3.0 m/s",
+      "dewpointTemperature": "272.75 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "2de24b5f-ec29-4120-a451-0e802cdcc2ed",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.05486,
+      5.87232,
+      45.2
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "275",
+      "stationOrSiteName": "Deelen              "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102460.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103060.0 Pa",
+      "airTemperature": "274.25 K",
+      "windDirection": "39 deg",
+      "windSpeed": "3.0 m/s",
+      "dewpointTemperature": "269.95 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "3f3cac7f-324c-46db-82a4-b1d27c46c014",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      53.41167,
+      6.19917,
+      2.9
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "277",
+      "stationOrSiteName": "Lauwersoog          "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102460.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103060.0 Pa",
+      "airTemperature": "278.65 K",
+      "windDirection": "38 deg",
+      "windSpeed": "5.0 m/s",
+      "dewpointTemperature": "276.45 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "0c81d8bb-4914-44bd-8384-4cfde56dcd19",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.43444,
+      6.25889,
+      3.6
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "278",
+      "stationOrSiteName": "Heino               "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102460.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103060.0 Pa",
+      "airTemperature": "276.45 K",
+      "windDirection": "35 deg",
+      "windSpeed": "2.0 m/s",
+      "dewpointTemperature": "271.55 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "d27bc96e-1b82-4f56-bbb1-384d8167240f",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.74906,
+      6.57296,
+      15.8
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "279",
+      "stationOrSiteName": "Hoogeveen           "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102900.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103120.0 Pa",
+      "airTemperature": "276.05 K",
+      "windDirection": "35 deg",
+      "windSpeed": "4.0 m/s",
+      "dewpointTemperature": "272.75 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "64e49524-a6bf-4d92-8960-42b158ba3ab6",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      53.12368,
+      6.58485,
+      3.2
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "280",
+      "stationOrSiteName": "Groningen           "
+    },
+    "measure": {
+      "nonCoordinatePressure": "103100.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103150.0 Pa",
+      "airTemperature": "277.25 K",
+      "windDirection": "33 deg",
+      "windSpeed": "3.0 m/s",
+      "dewpointTemperature": "273.75 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "f4fbba4e-5b5a-439a-bb4c-88221a6cad76",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.06778,
+      6.65667,
+      29.1
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "283",
+      "stationOrSiteName": "Hupsel              "
+    },
+    "measure": {
+      "nonCoordinatePressure": "103100.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103150.0 Pa",
+      "airTemperature": "275.45 K",
+      "windDirection": "54 deg",
+      "windSpeed": "2.0 m/s",
+      "dewpointTemperature": "269.45 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "97deb7c8-0a98-460c-ad7f-1bf3070f9fb0",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      53.57375,
+      6.39844,
+      0.0
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "285",
+      "stationOrSiteName": "Huibertgat          "
+    },
+    "measure": {
+      "nonCoordinatePressure": "103100.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103150.0 Pa",
+      "airTemperature": "275.45 K",
+      "windDirection": "31 deg",
+      "windSpeed": "6.0 m/s",
+      "dewpointTemperature": "269.45 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "957ef797-f913-4ff8-af0b-c3b8416310ed",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      53.19444,
+      7.14917,
+      -0.2
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "286",
+      "stationOrSiteName": "Nieuw Beerta        "
+    },
+    "measure": {
+      "nonCoordinatePressure": "103100.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103150.0 Pa",
+      "airTemperature": "274.95 K",
+      "windDirection": "34 deg",
+      "windSpeed": "4.0 m/s",
+      "dewpointTemperature": "273.45 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "69f43c6a-1965-4cdc-b02e-e213c75d5c3f",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      52.27315,
+      6.89087,
+      33.0
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "290",
+      "stationOrSiteName": "Twenthe             "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102640.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103100.0 Pa",
+      "airTemperature": "274.65 K",
+      "windDirection": "73 deg",
+      "windSpeed": "1.0 m/s",
+      "dewpointTemperature": "269.05 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "d343bdbb-cc26-4c07-8339-d1f4b83f309a",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.3799,
+      3.37909,
+      0.0
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "308",
+      "stationOrSiteName": "Cadzand             "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102640.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103100.0 Pa",
+      "airTemperature": "274.65 K",
+      "windDirection": "45 deg",
+      "windSpeed": "8.0 m/s",
+      "dewpointTemperature": "269.05 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "ce468efd-9c09-4630-b679-aea5766ee4f6",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.44134,
+      3.59582,
+      8.0
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "310",
+      "stationOrSiteName": "Vlissingen          "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102910.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103030.0 Pa",
+      "airTemperature": "278.15 K",
+      "windDirection": "26 deg",
+      "windSpeed": "5.0 m/s",
+      "dewpointTemperature": "272.25 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "6fa5fe51-1246-46a6-b37c-4e098a94bae0",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.76667,
+      3.62175,
+      0.0
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "312",
+      "stationOrSiteName": "Oosterschelde       "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102910.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103030.0 Pa",
+      "airTemperature": "278.15 K",
+      "windDirection": "50 deg",
+      "windSpeed": "9.0 m/s",
+      "dewpointTemperature": "272.25 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "11ff93a5-0607-4856-b806-30285d852f4d",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.50372,
+      3.24206,
+      0.0
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "313",
+      "stationOrSiteName": "Vlakte van de Raan  "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102910.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103030.0 Pa",
+      "airTemperature": "278.15 K",
+      "windDirection": "56 deg",
+      "windSpeed": "10.0 m/s",
+      "dewpointTemperature": "272.25 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "24184b5f-7a9c-4c29-a775-54d792c066d1",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.44578,
+      3.99753,
+      0.0
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "315",
+      "stationOrSiteName": "Hansweert           "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102910.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103030.0 Pa",
+      "airTemperature": "278.15 K",
+      "windDirection": "41 deg",
+      "windSpeed": "4.0 m/s",
+      "dewpointTemperature": "272.25 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "95d77e1f-ec89-4977-92a2-82930dae0ddd",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.65589,
+      3.69394,
+      0.0
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "316",
+      "stationOrSiteName": "Schaar              "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102910.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103030.0 Pa",
+      "airTemperature": "278.15 K",
+      "windDirection": "50 deg",
+      "windSpeed": "7.0 m/s",
+      "dewpointTemperature": "272.25 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "2292c45d-d595-4e0c-a868-b2d4afd9c4d3",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.69992,
+      3.0567,
+      43.4
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "317",
+      "stationOrSiteName": "Platform Borssele-A "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102550.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103080.0 Pa",
+      "airTemperature": "279.25 K",
+      "windDirection": "30 deg",
+      "windSpeed": "9.0 m/s",
+      "dewpointTemperature": "272.45 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "99be4a8c-b0e3-4178-b408-0535ed01eff9",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.22476,
+      3.86098,
+      1.7
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "319",
+      "stationOrSiteName": "Westdorpe           "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102940.0 Pa",
+      "pressureReducedToMeanSeaLevel": "102990.0 Pa",
+      "airTemperature": "276.05 K",
+      "windDirection": "44 deg",
+      "windSpeed": "3.0 m/s",
+      "dewpointTemperature": "271.25 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "f4571de6-0989-4ba0-95a1-79b7e7587d74",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.92575,
+      3.66986,
+      22.0
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "320",
+      "stationOrSiteName": "Lichteiland Goeree  "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102940.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103180.0 Pa",
+      "airTemperature": "279.45 K",
+      "windDirection": "45 deg",
+      "windSpeed": "9.0 m/s",
+      "dewpointTemperature": "273.65 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "a0dc29ec-ce9e-421c-ae76-25ef757c48a4",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.99781,
+      3.27508,
+      19.0
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "321",
+      "stationOrSiteName": "Euro Platform       "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102890.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103110.0 Pa",
+      "airTemperature": "279.55 K",
+      "windDirection": "36 deg",
+      "windSpeed": "10.0 m/s",
+      "dewpointTemperature": "273.05 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "ab3e15e6-e7ad-437f-887a-f56bedc888bd",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.52596,
+      3.88353,
+      1.6
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "323",
+      "stationOrSiteName": "Wilhelminadorp      "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102990.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103030.0 Pa",
+      "airTemperature": "278.05 K",
+      "windDirection": "44 deg",
+      "windSpeed": "6.0 m/s",
+      "dewpointTemperature": "272.55 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "e38399b6-0c4a-4572-81fb-78cc35e3e85e",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.59539,
+      4.00588,
+      0.0
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "324",
+      "stationOrSiteName": "Stavenisse          "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102990.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103030.0 Pa",
+      "airTemperature": "278.05 K",
+      "windDirection": "41 deg",
+      "windSpeed": "7.0 m/s",
+      "dewpointTemperature": "272.55 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "e5681ae9-f875-40a0-83dd-ce2c483bd22a",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.99095,
+      4.12185,
+      11.9
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "330",
+      "stationOrSiteName": "Hoek van Holland    "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102930.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103090.0 Pa",
+      "airTemperature": "278.05 K",
+      "windDirection": "49 deg",
+      "windSpeed": "7.0 m/s",
+      "dewpointTemperature": "271.05 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "bd75b00c-4d4b-4ccc-8f5d-0b540bf22f10",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.47861,
+      4.19244,
+      0.0
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "331",
+      "stationOrSiteName": "Tholen              "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102930.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103090.0 Pa",
+      "airTemperature": "278.05 K",
+      "windDirection": "47 deg",
+      "windSpeed": "5.0 m/s",
+      "dewpointTemperature": "271.05 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "44f18014-2932-42d8-8263-82fc6af9275c",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.44775,
+      4.34201,
+      15.0
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "340",
+      "stationOrSiteName": "Woensdrecht         "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102820.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103020.0 Pa",
+      "airTemperature": "275.05 K",
+      "windDirection": "57 deg",
+      "windSpeed": "3.0 m/s",
+      "dewpointTemperature": "269.95 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "addc67f0-c0d6-44f4-b83a-37150d1197da",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.89194,
+      4.3125,
+      3.5
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "343",
+      "stationOrSiteName": "Rotterdam Geulhaven "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102820.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103020.0 Pa",
+      "airTemperature": "275.05 K",
+      "windDirection": "35 deg",
+      "windSpeed": "4.0 m/s",
+      "dewpointTemperature": "269.95 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "666bdef7-b4ce-4db1-82a2-5c8123e1a7fc",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.96067,
+      4.44689,
+      -5.1
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "344",
+      "stationOrSiteName": "Rotterdam           "
+    },
+    "measure": {
+      "nonCoordinatePressure": "103140.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103080.0 Pa",
+      "airTemperature": "276.55 K",
+      "windDirection": "46 deg",
+      "windSpeed": "2.0 m/s",
+      "dewpointTemperature": "272.85 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "1308461d-2081-440d-87b6-f733b836760a",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.96904,
+      4.92592,
+      -0.7
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "348",
+      "stationOrSiteName": "Cabauw              "
+    },
+    "measure": {
+      "nonCoordinatePressure": "103040.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103060.0 Pa",
+      "airTemperature": "276.35 K",
+      "windDirection": "29 deg",
+      "windSpeed": "3.0 m/s",
+      "dewpointTemperature": "271.35 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "d71c18fb-e96a-409b-a8a7-7ee148f97dc9",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.56492,
+      4.93513,
+      11.9
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "350",
+      "stationOrSiteName": "Gilze Rijen         "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102860.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103030.0 Pa",
+      "airTemperature": "275.65 K",
+      "windDirection": "48 deg",
+      "windSpeed": "3.0 m/s",
+      "dewpointTemperature": "270.05 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "9f9a30c0-2777-473c-af98-4908339c6784",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.85763,
+      5.1454,
+      0.7
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "356",
+      "stationOrSiteName": "Herwijnen           "
+    },
+    "measure": {
+      "nonCoordinatePressure": "103020.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103060.0 Pa",
+      "airTemperature": "275.55 K",
+      "windDirection": "65 deg",
+      "windSpeed": "3.0 m/s",
+      "dewpointTemperature": "270.65 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "8085829d-9e4c-4fef-81ff-7ac223254a8b",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.44978,
+      5.37702,
+      20.7
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "370",
+      "stationOrSiteName": "Eindhoven           "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102730.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103020.0 Pa",
+      "airTemperature": "273.95 K",
+      "windDirection": "34 deg",
+      "windSpeed": "3.0 m/s",
+      "dewpointTemperature": "268.45 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "316dc655-b90f-4b6a-8fe7-2bef74e685f4",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.65861,
+      5.70656,
+      19.9
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "375",
+      "stationOrSiteName": "Volkel              "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102760.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103020.0 Pa",
+      "airTemperature": "276.55 K",
+      "windDirection": "38 deg",
+      "windSpeed": "3.0 m/s",
+      "dewpointTemperature": "269.45 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "5dd5fae3-4613-4ecb-87d9-bb9b12b9ff95",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.19667,
+      5.7625,
+      30.0
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "377",
+      "stationOrSiteName": "Ell                 "
+    },
+    "measure": {
+      "nonCoordinatePressure": "102760.0 Pa",
+      "pressureReducedToMeanSeaLevel": "103020.0 Pa",
+      "airTemperature": "275.15 K",
+      "windDirection": "36 deg",
+      "windSpeed": "2.0 m/s",
+      "dewpointTemperature": "270.15 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "bc1886a7-f8e1-43fb-a994-0d71e6e5f288",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      50.90526,
+      5.76178,
+      115.1
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "380",
+      "stationOrSiteName": "Maastricht          "
+    },
+    "measure": {
+      "nonCoordinatePressure": "101500.0 Pa",
+      "pressureReducedToMeanSeaLevel": "102960.0 Pa",
+      "airTemperature": "274.35 K",
+      "windDirection": "46 deg",
+      "windSpeed": "4.0 m/s",
+      "dewpointTemperature": "268.85 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}
+{
+  "id": "d1b2a695-3e06-4b2b-b064-290ee7aa83f2",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.4973,
+      6.19606,
+      19.5
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "blockNumber": "6",
+      "stationNumber": "391",
+      "stationOrSiteName": "Arcen               "
+    },
+    "measure": {
+      "nonCoordinatePressure": "101500.0 Pa",
+      "pressureReducedToMeanSeaLevel": "102960.0 Pa",
+      "airTemperature": "276.05 K",
+      "windDirection": "35 deg",
+      "windSpeed": "2.0 m/s",
+      "dewpointTemperature": "269.15 K"
+    },
+    "data_id": "SYNOP_BUFR_2718.bufr",
+    "pubtime": "2023-02-27T18:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 99,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 0,
+    "internationalDataSubCategory": 2,
+    "masterTablesVersionNumber": 14,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 1,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        307080
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-02-27T18:00:00.0"
+  }
+}

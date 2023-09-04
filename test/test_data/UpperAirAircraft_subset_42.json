@@ -1,0 +1,2101 @@
+
+{
+  "id": "39f36b4f-03b2-404c-8d56-ebf2e1a10dc9",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.245,
+      -99.82
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "TJQCERRA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0032  ",
+      "originationAirport": "LAS",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "262.2 K",
+      "windDirection": "102 deg",
+      "windSpeed": "7.7 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 0,
+    "datetime": "2023-07-20T00:01:00.0"
+  }
+}
+{
+  "id": "27233d3c-212d-4831-94b7-f0dc0fddd817",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.045,
+      -99.627
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "TJQCERRA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0032  ",
+      "originationAirport": "LAS",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "264.7 K",
+      "windDirection": "98 deg",
+      "windSpeed": "4.1 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 1,
+    "datetime": "2023-07-20T00:04:00.0"
+  }
+}
+{
+  "id": "c7e413e2-da40-4bfb-9a0d-72d28ba4c154",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.645,
+      -91.812
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "303.2 K",
+      "windDirection": "78 deg",
+      "windSpeed": "5.1 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 2,
+    "datetime": "2023-07-19T23:54:06.0"
+  }
+}
+{
+  "id": "adc52b53-cd54-443c-8aeb-f386f61d8e72",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.645,
+      -91.812
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "298.9 K",
+      "windDirection": "79 deg",
+      "windSpeed": "5.1 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 3,
+    "datetime": "2023-07-19T23:54:12.0"
+  }
+}
+{
+  "id": "e62083e1-8c5b-46a9-bad0-a9795a11ee7f",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.645,
+      -91.812
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "298.2 K",
+      "windDirection": "78 deg",
+      "windSpeed": "5.1 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 4,
+    "datetime": "2023-07-19T23:54:18.0"
+  }
+}
+{
+  "id": "a3020508-133a-4c85-9881-9b9388084e44",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.645,
+      -91.812
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "297.7 K",
+      "windDirection": "84 deg",
+      "windSpeed": "4.6 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 5,
+    "datetime": "2023-07-19T23:54:24.0"
+  }
+}
+{
+  "id": "8e054182-bcd0-4325-aa72-68f29d35d776",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.645,
+      -91.812
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "297.2 K",
+      "windDirection": "94 deg",
+      "windSpeed": "2.6 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 6,
+    "datetime": "2023-07-19T23:54:30.0"
+  }
+}
+{
+  "id": "3e090ff2-c9c1-41ed-b9fe-6bde6b7f8be3",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.645,
+      -91.812
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "296.9 K",
+      "windDirection": "67 deg",
+      "windSpeed": "2.6 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 7,
+    "datetime": "2023-07-19T23:54:36.0"
+  }
+}
+{
+  "id": "d7a94ace-b44f-4fde-93b1-2750910acc5c",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.645,
+      -91.812
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "296.7 K",
+      "windDirection": "66 deg",
+      "windSpeed": "4.1 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 8,
+    "datetime": "2023-07-19T23:54:42.0"
+  }
+}
+{
+  "id": "4bdfd141-72b2-4650-af05-cbcacefe8631",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.645,
+      -91.812
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "296.4 K",
+      "windDirection": "59 deg",
+      "windSpeed": "4.6 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 9,
+    "datetime": "2023-07-19T23:54:48.0"
+  }
+}
+{
+  "id": "6970303b-9265-4b6e-bc2f-9e382c83ac36",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.645,
+      -91.812
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "295.7 K",
+      "windDirection": "49 deg",
+      "windSpeed": "3.1 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 10,
+    "datetime": "2023-07-19T23:54:54.0"
+  }
+}
+{
+  "id": "e1ae8e81-2e10-462c-8324-93da4a271bca",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.645,
+      -91.812
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "295.7 K",
+      "windDirection": "18 deg",
+      "windSpeed": "5.7 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 11,
+    "datetime": "2023-07-19T23:55:00.0"
+  }
+}
+{
+  "id": "dafeb983-434b-4d12-b40c-7cd7446a0a2b",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.645,
+      -91.812
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "295.7 K",
+      "windDirection": "14 deg",
+      "windSpeed": "7.2 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 12,
+    "datetime": "2023-07-19T23:55:06.0"
+  }
+}
+{
+  "id": "8df71b97-1317-4a2f-bf76-e628384d0cf2",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.645,
+      -91.812
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "295.9 K",
+      "windDirection": "14 deg",
+      "windSpeed": "9.8 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 13,
+    "datetime": "2023-07-19T23:55:12.0"
+  }
+}
+{
+  "id": "70fc2663-0765-4f7a-850d-8341e53a0f13",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.645,
+      -91.812
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "296.2 K",
+      "windDirection": "30 deg",
+      "windSpeed": "8.2 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 14,
+    "datetime": "2023-07-19T23:55:18.0"
+  }
+}
+{
+  "id": "4cb960a1-30d1-4a4b-b14f-3b4ff5246518",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.645,
+      -91.812
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "294.9 K",
+      "windDirection": "61 deg",
+      "windSpeed": "6.7 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 15,
+    "datetime": "2023-07-19T23:55:24.0"
+  }
+}
+{
+  "id": "9259e243-ac12-41e9-b78d-d236eae89174",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.645,
+      -91.812
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "294.9 K",
+      "windDirection": "74 deg",
+      "windSpeed": "8.7 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 16,
+    "datetime": "2023-07-19T23:55:30.0"
+  }
+}
+{
+  "id": "5d883732-554b-4b17-84d2-2d34c5f6e3e5",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.595,
+      -91.857
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "295.7 K",
+      "windDirection": "79 deg",
+      "windSpeed": "8.2 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 17,
+    "datetime": "2023-07-19T23:55:50.0"
+  }
+}
+{
+  "id": "4a95eebb-15a2-4200-b6b8-5b07ff8995e7",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.602,
+      -91.883
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "294.2 K",
+      "windDirection": "82 deg",
+      "windSpeed": "9.3 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 18,
+    "datetime": "2023-07-19T23:56:10.0"
+  }
+}
+{
+  "id": "03ba5676-4af8-400d-a8dd-3b8d3c9856e5",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.612,
+      -91.91
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "292.9 K",
+      "windDirection": "90 deg",
+      "windSpeed": "11.8 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 19,
+    "datetime": "2023-07-19T23:56:30.0"
+  }
+}
+{
+  "id": "c17c1528-1ac1-4eab-b9dc-df36a2e94e10",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.618,
+      -91.937
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "291.7 K",
+      "windDirection": "89 deg",
+      "windSpeed": "12.9 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 20,
+    "datetime": "2023-07-19T23:56:50.0"
+  }
+}
+{
+  "id": "650c2e0a-91c5-432b-9aae-0abeed129d69",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.632,
+      -91.965
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "289.9 K",
+      "windDirection": "95 deg",
+      "windSpeed": "13.4 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 21,
+    "datetime": "2023-07-19T23:57:10.0"
+  }
+}
+{
+  "id": "13e3d6fa-a944-4676-ad81-647558510b91",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.638,
+      -91.993
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "288.7 K",
+      "windDirection": "94 deg",
+      "windSpeed": "11.8 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 22,
+    "datetime": "2023-07-19T23:57:30.0"
+  }
+}
+{
+  "id": "4561b5e1-ccf1-4eae-a89b-97b420adee11",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.65,
+      -92.022
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "286.2 K",
+      "windDirection": "88 deg",
+      "windSpeed": "13.4 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 23,
+    "datetime": "2023-07-19T23:57:50.0"
+  }
+}
+{
+  "id": "cbf6d8a6-aaf0-45bc-b608-a8e25cf7360d",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.655,
+      -92.052
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "284.9 K",
+      "windDirection": "97 deg",
+      "windSpeed": "11.8 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 24,
+    "datetime": "2023-07-19T23:58:10.0"
+  }
+}
+{
+  "id": "549f6cd8-f017-492d-a085-a11424667edf",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.667,
+      -92.08
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "282.7 K",
+      "windDirection": "95 deg",
+      "windSpeed": "10.3 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 25,
+    "datetime": "2023-07-19T23:58:30.0"
+  }
+}
+{
+  "id": "5e06c126-8578-442f-825f-0bf4633a5b94",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.675,
+      -92.11
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "280.7 K",
+      "windDirection": "79 deg",
+      "windSpeed": "11.3 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 26,
+    "datetime": "2023-07-19T23:58:50.0"
+  }
+}
+{
+  "id": "f42cd4a8-ac00-4162-ae98-1fa35b94345d",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.683,
+      -92.142
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "280.7 K",
+      "windDirection": "76 deg",
+      "windSpeed": "14.4 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 27,
+    "datetime": "2023-07-19T23:59:10.0"
+  }
+}
+{
+  "id": "200e7c79-0bb6-4990-935a-216b2e3f69da",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.692,
+      -92.177
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "278.4 K",
+      "windDirection": "70 deg",
+      "windSpeed": "13.9 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 28,
+    "datetime": "2023-07-19T23:59:30.0"
+  }
+}
+{
+  "id": "c43f7217-56da-433d-ac36-ebbbfb1bc975",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.7,
+      -92.21
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "276.4 K",
+      "windDirection": "62 deg",
+      "windSpeed": "12.3 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 29,
+    "datetime": "2023-07-19T23:59:50.0"
+  }
+}
+{
+  "id": "79594cb5-3dfe-4cea-8b02-51cb988e1fed",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.712,
+      -92.245
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "274.7 K",
+      "windDirection": "70 deg",
+      "windSpeed": "9.8 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 30,
+    "datetime": "2023-07-20T00:00:10.0"
+  }
+}
+{
+  "id": "adb0461a-f1d3-4692-b864-23ed428461a6",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.717,
+      -92.28
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "272.7 K",
+      "windDirection": "72 deg",
+      "windSpeed": "8.7 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 31,
+    "datetime": "2023-07-20T00:00:30.0"
+  }
+}
+{
+  "id": "c36cdcab-025b-44df-baff-7c54c0f2b994",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.722,
+      -92.315
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "271.0 K",
+      "windDirection": "76 deg",
+      "windSpeed": "8.2 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 32,
+    "datetime": "2023-07-20T00:00:50.0"
+  }
+}
+{
+  "id": "1467f66a-6bf8-4fe9-937f-0fe76e4351d8",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.725,
+      -92.352
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "269.5 K",
+      "windDirection": "71 deg",
+      "windSpeed": "7.2 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 33,
+    "datetime": "2023-07-20T00:01:10.0"
+  }
+}
+{
+  "id": "51bf6d11-2573-47ae-9d40-f6e03aec070b",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.732,
+      -92.388
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "267.5 K",
+      "windDirection": "72 deg",
+      "windSpeed": "6.7 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 34,
+    "datetime": "2023-07-20T00:01:30.0"
+  }
+}
+{
+  "id": "c61816e4-f196-4788-b8ec-362d9d9baa20",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.733,
+      -92.427
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "266.0 K",
+      "windDirection": "79 deg",
+      "windSpeed": "10.3 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 35,
+    "datetime": "2023-07-20T00:01:50.0"
+  }
+}
+{
+  "id": "c012f576-dca5-404b-9fe3-72ae3d4ece3a",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.738,
+      -92.465
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "265.2 K",
+      "windDirection": "79 deg",
+      "windSpeed": "10.8 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 36,
+    "datetime": "2023-07-20T00:02:10.0"
+  }
+}
+{
+  "id": "b4f85b46-4465-47a2-83c5-3a69759148a6",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.745,
+      -92.503
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "263.7 K",
+      "windDirection": "72 deg",
+      "windSpeed": "9.3 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 37,
+    "datetime": "2023-07-20T00:02:30.0"
+  }
+}
+{
+  "id": "f211dccd-6127-4704-9d59-453824efa062",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.75,
+      -92.543
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "263.5 K",
+      "windDirection": "80 deg",
+      "windSpeed": "5.1 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 38,
+    "datetime": "2023-07-20T00:02:50.0"
+  }
+}
+{
+  "id": "8e8cf318-3cf5-4720-9128-bbc988c69112",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.752,
+      -92.582
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "262.0 K",
+      "windDirection": "97 deg",
+      "windSpeed": "5.1 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 39,
+    "datetime": "2023-07-20T00:03:10.0"
+  }
+}
+{
+  "id": "286050ed-110b-4df7-9ae6-23d4708338aa",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.758,
+      -92.622
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "261.0 K",
+      "windDirection": "90 deg",
+      "windSpeed": "5.7 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 40,
+    "datetime": "2023-07-20T00:03:30.0"
+  }
+}
+{
+  "id": "8ed9449c-6ef6-4184-80fd-6f959161aad8",
+  "version": "v04",
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.765,
+      -92.662
+    ]
+  },
+  "properties": {
+    "station_id": {
+      "aircraftFlightNumber": "NS5DOZZA",
+      "aircraftRegistrationNumberOrOtherIdentification": "MX0036  ",
+      "originationAirport": "CME",
+      "destinationAirport": "MEX"
+    },
+    "measure": {
+      "airTemperature": "259.0 K",
+      "windDirection": "84 deg",
+      "windSpeed": "6.2 m/s"
+    },
+    "data_id": "UpperAirAircraft_subset_42.buf",
+    "pubtime": "2023-07-20T00:00:00.0",
+    "edition": 4,
+    "masterTableNumber": 0,
+    "bufrHeaderCentre": 56,
+    "bufrHeaderSubCentre": 0,
+    "updateSequenceNumber": 0,
+    "dataCategory": 4,
+    "internationalDataSubCategory": 0,
+    "masterTablesVersionNumber": 18,
+    "localTablesVersionNumber": 0,
+    "numberOfSubsets": 42,
+    "observedData": 1,
+    "compressedData": 0,
+    "unexpandedDescriptors": [
+      [
+        311010,
+        4015,
+        102004,
+        4032,
+        11037
+      ]
+    ],
+    "dataSubset": 41,
+    "datetime": "2023-07-20T00:03:50.0"
+  }
+}
