@@ -26,10 +26,12 @@ def bufr2mqtt(bufr_file) -> str :
         "properties" : ["edition","masterTableNumber","bufrHeaderCentre","bufrHeaderSubCentre","updateSequenceNumber","dataCategory","internationalDataSubCategory","dataSubcategory",
                     "masterTablesVersionNumber","localTablesVersionNumber","numberOfSubsets","observedData","compressedData","unexpandedDescriptors"],
         "datetime" : ["year","month","day","hour","minute","second","secondsWithinAMinuteMicrosecond"],
-        "station_id" : ["blockNumber","stationNumber","stationOrSiteName","stateIdentifier","nationalStationNumber","aircraftFlightNumber","aircraftRegistrationNumberOrOtherIdentification","observationSequenceNumber","aircraftTailNumber","originationAirport","destinationAirport","shipOrMobileLandStationIdentifier","shortStationName","longStationName","wigosIdentifierSeries","wigosIssuerOfIdentifier","wigosIssueNumber","wigosLocalIdentifierCharacter"],
-        "measure" : ["nonCoordinatePressure","pressureReducedToMeanSeaLevel","airTemperatureAt2M","dewpointTemperatureAt2M","airTemperature","dewpointTemperature"]
+        "station_id" : ["blockNumber","stationNumber","stationOrSiteName","stateIdentifier","nationalStationNumber","aircraftFlightNumber","aircraftRegistrationNumberOrOtherIdentification","observationSequenceNumber","aircraftTailNumber","originationAirport","destinationAirport","shipOrMobileLandStationIdentifier","shortStationName","longStationName","wigosIdentifierSeries","wigosIssuerOfIdentifier","wigosIssueNumber","wigosLocalIdentifierCharacter","marineObservingPlatformIdentifier"],
+        "measure" : ["nonCoordinatePressure","pressure","pressureReducedToMeanSeaLevel","airTemperatureAt2M","dewpointTemperatureAt2M","airTemperature","dewpointTemperature","windDirection","windSpeed","oceanographicWaterTemperature"]
 
         }
+
+    vertical_fields = [ 'airTemperature', 'dewpointTemperature', 'windSpeed', 'windDirection', 'pressure' ]
 
 
     version_str = "v04"
@@ -119,9 +121,14 @@ def bufr2mqtt(bufr_file) -> str :
         meas = {}
         meas_unit = {}
         for m_field in bufr_keys["measure"] :
-            if codes_is_defined(bufr,m_field) and not codes_is_missing(bufr,m_field) :
-                meas[m_field] = codes_get_array(bufr, m_field)
-                meas_unit[m_field] =codes_get_array(bufr, m_field + "->units")
+            # Vertical soundings: add the third level
+            if data_category == 2 and  m_field in vertical_fields :
+                mfield_prefix = "#3#"
+            else :
+                mfield_prefix = ""
+            if codes_is_defined(bufr,mfield_prefix+m_field) and not codes_is_missing(bufr,mfield_prefix+m_field) :
+                meas[mfield_prefix+m_field] = codes_get_array(bufr, mfield_prefix+m_field)
+                meas_unit[mfield_prefix+m_field] =codes_get_array(bufr, m_field + "->units")
 
         for s in range(0,subsets) :
             ret_messages = message_template.copy()
@@ -205,9 +212,15 @@ def bufr2mqtt(bufr_file) -> str :
             #measure
             for m in meas :
                 if subsets > 1 and len(meas[m]) == 1 :
-                    meas_str = f'{meas[m][0]:0.8}'
+                    if type(meas[m][s]) is numpy.int64 :
+                        meas_str = str(meas[m][0])
+                    else :
+                        meas_str = f'{meas[m][0]:0.8}'
                 else :
-                    meas_str = f'{meas[m][s]:0.8}'
+                    if type(meas[m][s]) is numpy.int64 :
+                        meas_str = str(meas[m][s])
+                    else :
+                        meas_str = f'{meas[m][s]:0.8}'
                 if subsets > 1 and len(meas_unit[m]) == 1 :
                     meas_unit_str = str(meas_unit[m][0])
                 else :
