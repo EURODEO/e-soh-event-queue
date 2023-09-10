@@ -5,6 +5,7 @@ import json
 import numpy
 import hashlib
 from eccodes import *
+from datetime import *
 
 
 def bufr2mqtt(bufr_file) -> str :
@@ -28,30 +29,47 @@ def bufr2mqtt(bufr_file) -> str :
                     "masterTablesVersionNumber","localTablesVersionNumber","numberOfSubsets","observedData","compressedData","unexpandedDescriptors"],
         "datetime" : ["year","month","day","hour","minute","second","secondsWithinAMinuteMicrosecond"],
         "station_id" : ["blockNumber","stationNumber","stationOrSiteName","stateIdentifier","nationalStationNumber","aircraftFlightNumber","aircraftRegistrationNumberOrOtherIdentification","observationSequenceNumber","aircraftTailNumber","originationAirport","destinationAirport","shipOrMobileLandStationIdentifier","shortStationName","longStationName","wigosIdentifierSeries","wigosIssuerOfIdentifier","wigosIssueNumber","wigosLocalIdentifierCharacter","marineObservingPlatformIdentifier"],
-        "measure" : ["nonCoordinatePressure","pressure","pressureReducedToMeanSeaLevel","airTemperatureAt2M","dewpointTemperatureAt2M","airTemperature","dewpointTemperature","windDirection","windSpeed","oceanographicWaterTemperature"]
+        "content" : ["nonCoordinatePressure","pressure","pressureReducedToMeanSeaLevel","airTemperatureAt2M","dewpointTemperatureAt2M","airTemperature","dewpointTemperature","windDirection","windSpeed","oceanographicWaterTemperature"]
 
         }
 
-    vertical_fields = [ 'airTemperature', 'dewpointTemperature', 'windSpeed', 'windDirection', 'pressure' ]
-
+    vertical_fields = {
+        "timePeriod" : [],
+        "pressure" : [],
+        "extendedVerticalSoundingSignificance" : [],
+        "geopotentialHeight" : [],
+        "nonCoordinateGeopotentialHeight" : [],
+        "latitudeDisplacement" : [],
+        "longitudeDisplacement" : [],
+        "airTemperature" : [],
+        "dewpointTemperature" : [],
+        "windDirection" : [],
+        "windSpeed" : []
+        }
 
     version_str = "v04"
 
     message_template = {
         "id" : "",
-        "bufr_msg_id": "hash of BUFR message",
         "version" : version_str,
-
         "type" : "Feature",
         "geometry" : "null",
-        "properties" : { "station_id" : {} , "measure" : {} }
-
+        "properties" : {
+            "bufr_msg_id": "hash of BUFR message",
+            "station_id" : {} ,
+            "content" : {
+                "encoding": "utf-8",
+                "standard_name": "",
+                "unit": "",
+                "size": 0,
+                "value": ""}
+             }
         }
 
     bufr_msg_sha1 = hashlib.sha1()
 
     # data_id
-    message_template['properties'].update(data_id="From DB: "+ os.path.basename(bufr_file))
+    message_template['properties'].update(data_id="From DB, source: "+ os.path.basename(bufr_file))
 
     bf = open(bufr_file,'rb')
 
@@ -67,7 +85,7 @@ def bufr2mqtt(bufr_file) -> str :
 
         raw_msg = codes_get_message(bufr)
         bufr_msg_sha1.update(raw_msg)
-        message_template.update(bufr_msg_id=bufr_msg_sha1.hexdigest())
+        message_template['properties'].update(bufr_msg_id=bufr_msg_sha1.hexdigest())
 
         # Prod date from Section0
         if codes_is_defined(bufr,'typicalDate') :
@@ -125,18 +143,15 @@ def bufr2mqtt(bufr_file) -> str :
             if codes_is_defined(bufr,s_field) and not codes_is_missing(bufr,s_field) :
                 st_id[s_field] = codes_get_array(bufr, s_field)
 
-        # measure
-        meas = {}
-        meas_unit = {}
-        for m_field in bufr_keys["measure"] :
-            # Vertical soundings: add the third level
-            if data_category == 2 and  m_field in vertical_fields :
-                mfield_prefix = "#3#"
-            else :
-                mfield_prefix = ""
-            if codes_is_defined(bufr,mfield_prefix+m_field) and not codes_is_missing(bufr,mfield_prefix+m_field) :
-                meas[mfield_prefix+m_field] = codes_get_array(bufr, mfield_prefix+m_field)
-                meas_unit[mfield_prefix+m_field] =codes_get_array(bufr, m_field + "->units")
+        # content
+        # Vertical soundings
+        if data_category == 2 :
+            for vf in vertical_fields :
+                if codes_is_defined(bufr,vf) and not codes_is_missing(bufr,vf) :
+                    vertical_fields[vf] = codes_get_array(bufr, vf)
+
+        else :
+            nop
 
         for s in range(0,subsets) :
             ret_messages = message_template.copy()
@@ -217,25 +232,59 @@ def bufr2mqtt(bufr_file) -> str :
                     else :
                         ret_messages['properties']['station_id'].update({ str(sid) : str(st_id[sid][s]) })
 
-            #measure
-            for m in meas :
-                if subsets > 1 and len(meas[m]) == 1 :
-                    if type(meas[m][s]) is numpy.int64 :
-                        meas_str = str(meas[m][0])
-                    else :
-                        meas_str = f'{meas[m][0]:0.8}'
-                else :
-                    if type(meas[m][s]) is numpy.int64 :
-                        meas_str = str(meas[m][s])
-                    else :
-                        meas_str = f'{meas[m][s]:0.8}'
-                if subsets > 1 and len(meas_unit[m]) == 1 :
-                    meas_unit_str = str(meas_unit[m][0])
-                else :
-                    meas_unit_str = str(meas_unit[m][s])
-                ret_messages['properties']['measure'].update({ str(m) : meas_str + " " + meas_unit_str })
+            if data_category == 2 :
+                for vf in vertical_fields :
+                    if len(vertical_fields[vf]) :
+                        meas_unit = codes_get(bufr,vf+"->units")
+                        if vf in [ "timePeriod", "geopotentialHeight", "latitudeDisplacement", "longitudeDisplacement" ] :
+                            continue
 
-            ret_str += "\n" + json.dumps(ret_messages,indent=2)
+                        for vi in range(0, len(vertical_fields[vf]) - 1):
+                            ret_profile_messages = ret_messages.copy()
+                            ret_profile_messages.update(id=str(uuid.uuid4()))
+                            ret_profile_messages['properties']['content'].update({ "standard_name" : vf })
+                            # Range Check, drop missing Temperature
+                            if vf == 'airTemperature' and vertical_fields[vf][vi] < 0 :
+                                continue
+                            ret_profile_messages['properties']['content'].update({ "unit" : meas_unit })
+                            if type(vertical_fields[vf][vi]) is numpy.int64 :
+                                value_str = str(vertical_fields[vf][vi])
+                            else :
+                                value_str = f'{vertical_fields[vf][vi]:0.8}'
+
+                            ret_profile_messages['properties']['content'].update({ "value" : value_str })
+                            ret_profile_messages['properties']['content'].update({ "size" : len(value_str) })
+
+                            # update profile datetime
+                            release_time = datetime.strptime(datetime_str+" UTC","%Y-%m-%dT%H:%M:%S.%f %Z")
+                            # Datetime range check
+                            if( int(vertical_fields['timePeriod'][vi]) ) > 100000 :
+                                continue
+                            delta = timedelta(seconds = int(vertical_fields['timePeriod'][vi]))
+                            measure_time = release_time + delta
+                            ret_profile_messages['properties'].update({ 'datetime' : measure_time.strftime("%Y-%m-%dT%H:%M:%S.%f %Z") })
+
+                            # update profile location(point)
+                            lat_profile = lat[s] + vertical_fields['latitudeDisplacement'][vi]
+                            lon_profile = lon[s] + vertical_fields['longitudeDisplacement'][vi]
+
+                            if len(vertical_fields['geopotentialHeight']) :
+                                hei_profile = vertical_fields['geopotentialHeight'][vi]
+                            else :
+                                hei_profile = vertical_fields['nonCoordinateGeopotentialHeight'][vi]
+
+                            # Position range check
+                            if lat_profile < 90 and lat_profile > -90 and lon_profile < 180 and lon_profile > -180 :
+                                # Height in gpm !!!!
+                                ret_messages['geometry'] = { 'type' : 'Point', 'coordinates' : [ round(lat_profile,6) , round(lon_profile,6) , round(float(hei_profile),6) ]  }
+                            else :
+                                continue
+
+
+
+                            ret_str += "\n" + json.dumps(ret_profile_messages,indent=2)
+            else :
+                ret_str += "\n" + json.dumps(ret_messages,indent=2)
 
     return ret_str
 
