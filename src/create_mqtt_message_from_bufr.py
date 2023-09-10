@@ -3,6 +3,7 @@ import os
 import uuid
 import json
 import numpy
+import hashlib
 from eccodes import *
 
 
@@ -38,6 +39,7 @@ def bufr2mqtt(bufr_file) -> str :
 
     message_template = {
         "id" : "",
+        "bufr_msg_id": "hash of BUFR message",
         "version" : version_str,
 
         "type" : "Feature",
@@ -46,8 +48,10 @@ def bufr2mqtt(bufr_file) -> str :
 
         }
 
+    bufr_msg_sha1 = hashlib.sha1()
+
     # data_id
-    message_template['properties'].update(data_id=os.path.basename(bufr_file))
+    message_template['properties'].update(data_id="From DB: "+ os.path.basename(bufr_file))
 
     bf = open(bufr_file,'rb')
 
@@ -60,6 +64,10 @@ def bufr2mqtt(bufr_file) -> str :
         # Error ?
         if bufr is None:
             return ret_str
+
+        raw_msg = codes_get_message(bufr)
+        bufr_msg_sha1.update(raw_msg)
+        message_template.update(bufr_msg_id=bufr_msg_sha1.hexdigest())
 
         # Prod date from Section0
         if codes_is_defined(bufr,'typicalDate') :
