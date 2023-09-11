@@ -236,7 +236,7 @@ def bufr2mqtt(bufr_file) -> str :
                 for vf in vertical_fields :
                     if len(vertical_fields[vf]) :
                         meas_unit = codes_get(bufr,vf+"->units")
-                        if vf in [ "timePeriod", "geopotentialHeight", "latitudeDisplacement", "longitudeDisplacement" ] :
+                        if vf in [ "timePeriod", "geopotentialHeight", "nonCoordinateGeopotentialHeight","latitudeDisplacement", "longitudeDisplacement", "extendedVerticalSoundingSignificance" ] :
                             continue
 
                         for vi in range(0, len(vertical_fields[vf]) - 1):
@@ -279,6 +279,7 @@ def bufr2mqtt(bufr_file) -> str :
                                 ret_messages['geometry'] = { 'type' : 'Point', 'coordinates' : [ round(lat_profile,6) , round(lon_profile,6) , round(float(hei_profile),6) ]  }
                             else :
                                 continue
+                            ret_profile_messages['properties']['content'].update({  'extendedVerticalSoundingSignificance' : str(vertical_fields['extendedVerticalSoundingSignificance'][vi]) })
 
 
 
