@@ -1,9 +1,6 @@
 from typing import Callable
-from xml.dom import minidom
 
 import kafka
-import datetime
-import xmltodict
 import json
 
 import xml.etree.ElementTree as ET
@@ -16,7 +13,6 @@ import xarray as xr
 from parse_kfaka_messages import stinfosys_decoder
 
 from ingest.send_mqtt import mqtt_connection
-from ingest.netCDF.extract_metadata_netcdf import build_all_json_payloads_from_netCDF
 from ingest.main import ingest_to_pipeline
 
 
