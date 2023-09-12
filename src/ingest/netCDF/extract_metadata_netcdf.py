@@ -239,15 +239,6 @@ def build_all_json_payloads_from_netCDF(ds: xr.Dataset,
 
             json_msg["content"] = content
 
-            # Set message publication time in RFC3339 format
-            # Create UUID for the message, and state message format version
-            json_msg["id"] = str(uuid.uuid4())
-            current_time = datetime.utcnow().replace(microsecond=0)
-            current_time_str = current_time.strftime('%Y-%m-%dT%H:%M:%S.%f')
-
-            json_msg["properties"][
-                "pubtime"] = f"{current_time_str[:-3]}{current_time_str[-3:].zfill(6)}Z"
-
             messages.append(copy.deepcopy(json_msg))
 
     # Returns all complete messages
