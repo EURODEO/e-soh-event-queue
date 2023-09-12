@@ -17,6 +17,7 @@ from parse_kfaka_messages import stinfosys_decoder
 
 from ingest.send_mqtt import mqtt_connection
 from ingest.netCDF.extract_metadata_netcdf import build_all_json_payloads_from_netCDF
+from ingest.main import ingest_to_pipeline
 
 
 class read_kvalobs_topic():
@@ -42,11 +43,6 @@ class read_kvalobs_topic():
                 message_handler(data)
 
 
-def parse_observation(single_obs: dict):
-    for param in single_obs["level"]["kvdata"]:
-        param["metadata"] = decoder.getParamData(param["@paramid"])
-
-
 def parse_kvalobs_ids(xml_doc: ET):
 
     parsed_observation = []
@@ -63,54 +59,57 @@ def parse_kvalobs_ids(xml_doc: ET):
                 if obs.attrib["paramid"] == 0:
                     continue
                 obs_metadata = decoder.getParamData(obs.attrib["paramid"])[0]
-            # [print(i, j) for i, j in enumerate(obs_metadata)]
-            observations[obs_metadata[1]] = (["time"],
-                                             [float(obs.find("corrected").text)],
-                                             {"units": obs_metadata[3],
-                                             "standard_name": obs_metadata[14],
-                                              })
+                if obs_metadata[0] == 0:
+                    continue
+                # [print(i, j) for i, j in enumerate(obs_metadata)]
+                observations[obs_metadata[1]] = (["time"],
+                                                 [float(obs.find("corrected").text)],
+                                                 {"units": obs_metadata[3],
+                                                 "standard_name": obs_metadata[14],
+                                                  })
 
-            netcdf_payload = xr.Dataset(observations,
-                                        coords={"time": [np.datetime64(obstime.get("val"))]},
-                                        attrs={
-                                            "license": "http//spdx.org/licenses/CC-BY-4.0(CC-BY-4.0)",
-                                            "Conventions": "CF-1.10, ACDD-1.3",
-                                            "naming_authority": "no.met",
-                                            "institution": "Norwegian Meteorological Institute (MET Norway)",
-                                            "institution_short_name": "MET Norway",
-                                            "spatial_representation": "point",
-                                            "access_constraint": "Open",
-                                            "featureType": "point",
-                                            "creator_institution": "Norwegian Meteorological Institute",
-                                            "creator_name": "Norwegian Meteorological Institute",
-                                            "creator_role": "Investigator",
-                                            "creator_type": "institution",
-                                            "creator_url": "https//www.met.no",
-                                            "creator_email": "info@met.no",
-                                            "processing_level": "Operational",
-                                            "publisher_name": "Norwegian Meteorological Institute",
-                                            "publisher_type": "institution",
-                                            "publisher_email": "csw-services@met.no",
-                                            "publisher_url": "https//www.met.no/",
-                                            "geospatial_lat_min": station_metadata[2],
-                                            "geospatial_lat_max": station_metadata[2],
-                                            "geospatial_lon_min": station_metadata[3],
-                                            "geospatial_lon_max": station_metadata[3],
-                                            "source ": "In Situ Land-based station",
-                                            "platform": station_metadata[11],
-                                            "wmono": station_metadata[13],
-                                            "wigos": station_metadata[0],
-                                            "history": obstime.get("val") + ": Created from kvalobs.",
-                                            "id": "no.met:placeholder",
-                                            "title": station_metadata[10],
-                                            "keywords": "Meteoroligical observations from ground stations",
-                                            "summary": "Ground observation from kvalobs, station" + station_metadata[10],
-                                            "source": "kvalobs",
-                                            "references": "Insert documentation about E-SOH datastore"
-                                        }
-                                        )
+                netcdf_payload = xr.Dataset(observations,
+                                            coords={"time": [np.datetime64(
+                                                obstime.get("val")).astype('datetime64[ns]')]},
+                                            attrs={
+                                                "license": "http//spdx.org/licenses/CC-BY-4.0(CC-BY-4.0)",
+                                                "Conventions": "CF-1.10, ACDD-1.3",
+                                                "naming_authority": "no.met",
+                                                "institution": "Norwegian Meteorological Institute (MET Norway)",
+                                                "institution_short_name": "MET Norway",
+                                                "spatial_representation": "point",
+                                                "access_constraint": "Open",
+                                                "featureType": "point",
+                                                "creator_institution": "Norwegian Meteorological Institute",
+                                                "creator_name": "Norwegian Meteorological Institute",
+                                                "creator_role": "Investigator",
+                                                "creator_type": "institution",
+                                                "creator_url": "https//www.met.no",
+                                                "creator_email": "info@met.no",
+                                                "processing_level": "Operational",
+                                                "publisher_name": "Norwegian Meteorological Institute",
+                                                "publisher_type": "institution",
+                                                "publisher_email": "csw-services@met.no",
+                                                "publisher_url": "https//www.met.no/",
+                                                "geospatial_lat_min": station_metadata[2],
+                                                "geospatial_lat_max": station_metadata[2],
+                                                "geospatial_lon_min": station_metadata[3],
+                                                "geospatial_lon_max": station_metadata[3],
+                                                "source ": "In Situ Land-based station",
+                                                "platform": station_metadata[11],
+                                                "wmono": station_metadata[13],
+                                                "wigos": station_metadata[0],
+                                                "history": obstime.get("val") + ": Created from kvalobs.",
+                                                "id": "no.met:placeholder",
+                                                "title": station_metadata[10],
+                                                "keywords": "Meteoroligical observations from ground stations",
+                                                "summary": "Ground observation from kvalobs, station" + station_metadata[10],
+                                                "source": "kvalobs",
+                                                "references": "Insert documentation about E-SOH datastore"
+                                            }
+                                            )
 
-            parsed_observation.append(netcdf_payload)
+                parsed_observation.append(netcdf_payload)
             # print(parsed_observation)
 
     return parsed_observation
@@ -121,34 +120,17 @@ def process_consumer_record(record):
 
     for Topic_partition in record:
         for consumer_record in record[Topic_partition]:
-            # print(consumer_record.value.decode())
-            # print(json.dumps(xmltodict.parse(consumer_record.value.decode()), indent=4))
 
             observations.append(parse_kvalobs_ids(ET.fromstring(
                 consumer_record.value.decode().replace("\n", ""))))
-            # print(observations)
-            # exit()
+
     for i in observations:
         for df in i:
-            for msg in build_all_json_payloads_from_netCDF(df, json_map):
+            for msg in main_ingest.ingest_message(df, "netCDF"):
                 # print(msg)
                 publisher_rabbit.send_message(json.dumps(msg))
                 publisher_verne.send_message(json.dumps(msg))
     return observations
-
-
-def count_message_from_queue(data):
-    for topicpart in data:
-        print(topicpart)
-        for consumer_records in data[topicpart]:
-            print("\t", "topic:", consumer_records.topic,
-                  ", partition: ", consumer_records.partition, ", timepstamp: ",
-                  datetime.datetime.fromtimestamp(int(consumer_records.timestamp)/1000))
-
-            print(json.dumps(xmltodict.parse(consumer_records.value.decode()), indent=4))
-
-            input("Enter to continue")
-            print("\n\n\n\n\n\n\n\n\n\n")
 
 
 if __name__ == "__main__":
@@ -159,6 +141,10 @@ if __name__ == "__main__":
 
     publisher_rabbit = mqtt_connection("157.249.73.113", "topic/test")
     publisher_verne = mqtt_connection("157.249.72.58", "topic/test")
+
+    main_ingest = ingest_to_pipeline(
+        {"host": "157.249.73.113", "topic": "topic/test"}, "urn:x-wmo:md:norway:no.met")
+    main_ingest.setup_netcdf("schemas/netcdf_to_e_soh_message_metno.json")
 
     decoder = stinfosys_decoder(db="stinfosys", host="stinfodb",
                                 user=sys.argv[1], port=5432,  password=sys.argv[2])

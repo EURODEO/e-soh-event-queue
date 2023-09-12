@@ -5,11 +5,11 @@ import xarray as xr
 import uuid
 
 
-def build_message(file: [object], input_type: str, uuid_prefix: str):
+def build_message(file: [object], input_type: str, json_map: dict, uuid_prefix: str):
     match input_type:
         case "netCDF":
             from ingest.netCDF.extract_metadata_netcdf import build_all_json_payloads_from_netCDF
-            unfinnished_messages = build_all_json_payloads_from_netCDF(file)
+            unfinnished_messages = build_all_json_payloads_from_netCDF(file, json_map)
 
             # Set message publication time in RFC3339 format
             # Create UUID for the message, and state message format version
@@ -28,9 +28,8 @@ def build_message(file: [object], input_type: str, uuid_prefix: str):
             return unfinnished_messages  # now populated with timestamps and uuids
 
 
-def load_files(file: str, input_type: str, uuid_prefix: str):
+def load_files(file: str, input_type: str, json_map: dict, uuid_prefix: str):
     match input_type:
         case "netCDF":
             ds = xr.load_dataset(file)
-            build_message(ds, input_type, uuid_prefix)
-            return
+            return build_message(ds, input_type, json_map, uuid_prefix)
