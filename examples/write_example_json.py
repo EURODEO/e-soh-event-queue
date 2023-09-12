@@ -1,4 +1,4 @@
-from esoh.ingest.main import ingest_to_pipeline
+from ingest.netCDF.extract_metadata_netcdf import build_all_json_payloads_from_netCDF
 import xarray as xr
 import json
 
