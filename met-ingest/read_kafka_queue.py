@@ -48,7 +48,18 @@ def parse_kvalobs_ids(xml_doc: ET):
 
     for station in stations:
         for obstime in station.findall(".//obstime"):
-            station_metadata = decoder.getStationWigos(station.attrib["val"])[0]
+            station_metadata = decoder.getStationWigos(station.attrib["val"])
+            if not station_metadata:
+                station_metadata = decoder.getStationMetadata(station.attrib["val"])
+                if not station_metadata:
+                    print(f"Stationid {station.attrib['val']} not found")
+                    continue
+                station_metadata = station_metadata[0]
+                print(f"Stationid {station_metadata[0]} not found in wigos_station view.\n"
+                      f"Station info:\n\tstation name: {station_metadata[9]}\n\t" +
+                      f"station wmono: {station_metadata[11]}")
+                continue
+            station_metadata = station_metadata[0]
             observations = {}
 
             for obs in obstime.findall(".//kvdata"):
@@ -99,7 +110,7 @@ def parse_kvalobs_ids(xml_doc: ET):
                                                 "id": "no.met:placeholder",
                                                 "title": station_metadata[10],
                                                 "keywords": "Meteoroligical observations from ground stations",
-                                                "summary": "Ground observation from kvalobs, station" + station_metadata[10],
+                                                "summary": "Ground observation from kvalobs, station " + station_metadata[10],
                                                 "source": "kvalobs",
                                                 "references": "Insert documentation about E-SOH datastore"
                                             }
