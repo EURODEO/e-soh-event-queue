@@ -1,6 +1,9 @@
 from ingest.send_mqtt import mqtt_connection
 from ingest.messages import load_files, build_message
 
+from pathlib import Path
+
+
 import xarray as xr
 
 
@@ -25,3 +28,5 @@ class ingest_to_pipline():
                 else:
                     raise TypeError(
                         f"Unknown netCDF type, expected path or xarray.Dataset, got {type(message)}")
+            case "bufr":
+                raise NotImplementedError("Handeling of bufr not implemented")
