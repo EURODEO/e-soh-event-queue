@@ -1,7 +1,7 @@
-from src.netCDF.extract_metadata_netcdf import build_all_json_payloads_from_netCDF
-from src.netCDF.mapper import mapper
+from esoh.ingest.netCDF.extract_metadata_netcdf import build_all_json_payloads_from_netCDF
+from esoh.ingest.netCDF.mapper import mapper
 
-from e_soh_ingest.mapper import mapper
+from esoh.ingest.netCDF import mapper
 
 import pytest
 import glob
