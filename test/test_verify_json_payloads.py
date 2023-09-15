@@ -1,6 +1,6 @@
 from esoh.ingest.main import ingest_to_pipeline
 
-from e_soh_ingest.mapper import mapper
+from esoh.ingest.netCDF import mapper
 
 import pytest
 import glob
