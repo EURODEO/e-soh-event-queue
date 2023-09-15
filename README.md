@@ -2,4 +2,5 @@
 
 
 ## Dev install
-To install in dev mode run pip insatll --ediable .` from the top level of this repositry.
+To install in dev mode run `pip install --editable .` from the top level of this repositry.
+
