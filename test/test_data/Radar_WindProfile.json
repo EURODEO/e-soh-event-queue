@@ -1,56 +1,1103 @@
-
 {
-  "id": "2546ef31-af5c-455c-a970-4d11ab419d87",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      49.5011,
-      16.7885,
-      767.0
-    ]
-  },
-  "properties": {
-    "station_id": {
-      "blockNumber": "11",
-      "stationNumber": "718"
+    "id": "0d10c16c-3a19-4aa1-aa95-b2890a4c067c",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            1640.0
+        ]
     },
-    "measure": {
-      "windDirection": "301 deg",
-      "windSpeed": "5.3 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "deg",
+            "size": 3,
+            "value": "301"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "11c805cd-57a5-49a1-888a-b284e6153e2d",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            1640.0
+        ]
     },
-    "data_id": "Radar_WindProfile.buf",
-    "pubtime": "2023-08-22T23:59:00.0",
-    "edition": 3,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 89,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 6,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 1,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        301001,
-        301011,
-        301012,
-        301022,
-        2003,
-        106000,
-        31001,
-        7007,
-        11001,
-        11002,
-        33002,
-        11006,
-        33002
-      ]
-    ],
-    "dataSubset": 0,
-    "datetime": "2023-08-22T23:59:00.0"
-  }
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "m/s",
+            "size": 3,
+            "value": "5.3"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "059c73c7-9a54-4be8-a1e8-13bef73a4def",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            1690.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "deg",
+            "size": 3,
+            "value": "308"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "a06b8a6a-7bfd-44fd-8f7b-f56afd566e0f",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            1690.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "m/s",
+            "size": 3,
+            "value": "6.2"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "82f4f1e5-fe37-44e0-84d6-3fed9f4ef451",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            1740.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "deg",
+            "size": 3,
+            "value": "300"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "858302cb-f72e-400f-88f2-ee3f73da4183",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            1740.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "m/s",
+            "size": 3,
+            "value": "6.4"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "b114b829-5cca-4251-a3c9-1f0e43757332",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            1790.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "deg",
+            "size": 3,
+            "value": "296"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "f679a90b-96e9-422d-be23-b492090f3629",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            1790.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "m/s",
+            "size": 3,
+            "value": "6.3"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "84e9aaba-3a41-4d3b-945f-831ec595fab3",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            1830.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "deg",
+            "size": 3,
+            "value": "298"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "8c619578-1755-438d-841c-1229108f142a",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            1830.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "m/s",
+            "size": 3,
+            "value": "6.3"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "f2843091-4d88-4265-8cc4-e5d23a0d0db6",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            1880.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "deg",
+            "size": 3,
+            "value": "294"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "a609207a-e760-40de-8816-0c1c85b34b37",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            1880.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "m/s",
+            "size": 3,
+            "value": "6.7"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "ded3472d-c5a2-42bc-b05e-50ab1278f7e4",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            1930.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "deg",
+            "size": 3,
+            "value": "300"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "b1c0c0ee-d64f-46f9-87ac-d44435475a0e",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            1930.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "m/s",
+            "size": 3,
+            "value": "7.2"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "8e59f8ea-6c33-4ed9-8236-622f9c6b7f12",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            1980.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "deg",
+            "size": 3,
+            "value": "301"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "5423e707-c249-42d3-a8ce-4beeee4ad6f6",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            1980.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "m/s",
+            "size": 3,
+            "value": "7.3"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "2af11463-3d0c-406a-b983-0656276c5bee",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            2020.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "deg",
+            "size": 3,
+            "value": "302"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "2b3ae3ed-b1f2-4eae-abbb-7fd57c8c5356",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            2020.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "m/s",
+            "size": 1,
+            "value": "8"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "dd439c71-17d3-4174-a84f-d9ff6bd9a88c",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            2070.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "deg",
+            "size": 3,
+            "value": "298"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "921e9337-0cfa-4c86-867f-6ac1d51e8cb6",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            2070.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "m/s",
+            "size": 3,
+            "value": "8.4"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "810d5389-dbc5-4992-a631-baab7c1b292f",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            2120.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "deg",
+            "size": 3,
+            "value": "297"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "e108a97a-ea7b-4a25-864d-b667ea8fafcd",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            2120.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "m/s",
+            "size": 1,
+            "value": "9"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "e4cc5769-edf2-4cad-8667-f9e972cdc6fd",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            2170.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "deg",
+            "size": 3,
+            "value": "300"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "d19a3c47-4cd8-47df-ae8d-5ed0bec2fc37",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            2170.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "m/s",
+            "size": 3,
+            "value": "9.3"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "f87655d2-b429-463c-8960-62f4c5fd65fe",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            2210.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "deg",
+            "size": 3,
+            "value": "299"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "3eea0a9f-9ff2-4730-8c7c-3d5eb2cfb621",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            2210.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "m/s",
+            "size": 3,
+            "value": "9.8"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "efe5d4df-26c1-4e36-8987-4605c86f4bad",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            2260.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "deg",
+            "size": 3,
+            "value": "301"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "94073e56-2e9c-4be2-8778-6c007eb4a0f3",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            2260.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "m/s",
+            "size": 4,
+            "value": "10.6"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "10059b2c-3639-4ad6-b24c-a89e64966bfb",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            2310.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "deg",
+            "size": 3,
+            "value": "300"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "4abb6d80-91f3-4711-ab88-5c6cfc65fe49",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            2310.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "m/s",
+            "size": 4,
+            "value": "11.3"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "0908809b-dc06-4a9a-a612-577f5e0337df",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            2360.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "deg",
+            "size": 3,
+            "value": "302"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "113168cc-620f-4475-9d5a-3cae3cfb1cb5",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            2360.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "m/s",
+            "size": 4,
+            "value": "11.8"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "2cb22214-7c8c-4f7f-a569-5dfcd1ef0e56",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            2400.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "deg",
+            "size": 3,
+            "value": "300"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "7cca5826-a69b-4ac3-88c8-9db2495d52a0",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            2400.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "m/s",
+            "size": 4,
+            "value": "12.7"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "22ec1578-7384-41a8-88c3-13e52641b10d",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            2450.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "deg",
+            "size": 3,
+            "value": "294"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "55e9ea61-f6e8-45bc-8230-97ce79bec8f6",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            2450.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "m/s",
+            "size": 4,
+            "value": "12.4"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "b61bedf8-d71c-4a0a-b5b0-729aa36cb001",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            2500.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "deg",
+            "size": 3,
+            "value": "290"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
+}{
+    "id": "752be77d-ff31-4ed6-9390-228b1d3d9797",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.5011,
+            16.7885,
+            2500.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_block_number": 11,
+            "wmo_station_number": 718
+        },
+        "datetime": "2023-08-22T23:59:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "m/s",
+            "size": 4,
+            "value": "12.3"
+        },
+        "pubtime": "2023-09-18T13:41:41.000000"
+    }
 }
