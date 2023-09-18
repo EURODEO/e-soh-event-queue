@@ -1,5 +1,5 @@
 {
-    "id": "9776300c-9b4b-45ae-8787-44529a8dcf87",
+    "id": "cb73a11c-0a52-41ea-8dbb-2655a827d356",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -14,19 +14,9 @@
         "data_id": "data_id",
         "metadata_id": "metatata_id",
         "station_id": {
-            "1101": {
-                "value": " NORWAY",
-                "code": 633,
-                "wmo_element_name": "STATE IDENTIFIER"
-            },
-            "1102": {
-                "value": 96890,
-                "wmo_element_name": "NATIONAL STATION NUMBER"
-            },
-            "1015": {
-                "value": "KORGAASEN           ",
-                "wmo_element_name": "STATION OR SITE NAME"
-            }
+            "state_identifier": "NORWAY",
+            "national_station_number": 96890,
+            "station_or_site_name": "KORGAASEN"
         },
         "datetime": "2023-08-23T00:00:00.000000",
         "content": {
@@ -36,10 +26,10 @@
             "size": 5,
             "value": "96460"
         },
-        "pubtime": "2023-09-18T07:33:33.000000"
+        "pubtime": "2023-09-18T13:11:59.000000"
     }
 }{
-    "id": "a344c383-55dc-4ea7-8f0a-ce1603c1d217",
+    "id": "728cf8dd-290c-4971-8537-81fdefc730b9",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -54,19 +44,9 @@
         "data_id": "data_id",
         "metadata_id": "metatata_id",
         "station_id": {
-            "1101": {
-                "value": " NORWAY",
-                "code": 633,
-                "wmo_element_name": "STATE IDENTIFIER"
-            },
-            "1102": {
-                "value": 96890,
-                "wmo_element_name": "NATIONAL STATION NUMBER"
-            },
-            "1015": {
-                "value": "KORGAASEN           ",
-                "wmo_element_name": "STATION OR SITE NAME"
-            }
+            "state_identifier": "NORWAY",
+            "national_station_number": 96890,
+            "station_or_site_name": "KORGAASEN"
         },
         "datetime": "2023-08-23T00:00:00.000000",
         "content": {
@@ -76,10 +56,10 @@
             "size": 6,
             "value": "101480"
         },
-        "pubtime": "2023-09-18T07:33:33.000000"
+        "pubtime": "2023-09-18T13:11:59.000000"
     }
 }{
-    "id": "31ecac74-3815-483b-960e-8d15b5549ab9",
+    "id": "c2e3d6fa-3f03-41fb-b6c7-2012d3d00203",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -94,19 +74,9 @@
         "data_id": "data_id",
         "metadata_id": "metatata_id",
         "station_id": {
-            "1101": {
-                "value": " NORWAY",
-                "code": 633,
-                "wmo_element_name": "STATE IDENTIFIER"
-            },
-            "1102": {
-                "value": 96890,
-                "wmo_element_name": "NATIONAL STATION NUMBER"
-            },
-            "1015": {
-                "value": "KORGAASEN           ",
-                "wmo_element_name": "STATION OR SITE NAME"
-            }
+            "state_identifier": "NORWAY",
+            "national_station_number": 96890,
+            "station_or_site_name": "KORGAASEN"
         },
         "datetime": "2023-08-23T00:00:00.000000",
         "content": {
@@ -116,10 +86,10 @@
             "size": 6,
             "value": "279.15"
         },
-        "pubtime": "2023-09-18T07:33:33.000000"
+        "pubtime": "2023-09-18T13:11:59.000000"
     }
 }{
-    "id": "60724bdc-ff77-46f0-9943-0ecdf9aab7db",
+    "id": "99f8191d-19a0-4c0c-907c-003cffe6bd25",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -134,19 +104,9 @@
         "data_id": "data_id",
         "metadata_id": "metatata_id",
         "station_id": {
-            "1101": {
-                "value": " NORWAY",
-                "code": 633,
-                "wmo_element_name": "STATE IDENTIFIER"
-            },
-            "1102": {
-                "value": 96890,
-                "wmo_element_name": "NATIONAL STATION NUMBER"
-            },
-            "1015": {
-                "value": "KORGAASEN           ",
-                "wmo_element_name": "STATION OR SITE NAME"
-            }
+            "state_identifier": "NORWAY",
+            "national_station_number": 96890,
+            "station_or_site_name": "KORGAASEN"
         },
         "datetime": "2023-08-23T00:00:00.000000",
         "content": {
@@ -156,10 +116,10 @@
             "size": 6,
             "value": "277.48"
         },
-        "pubtime": "2023-09-18T07:33:33.000000"
+        "pubtime": "2023-09-18T13:11:59.000000"
     }
 }{
-    "id": "640e1893-53ca-4558-98bd-bfa3927904b5",
+    "id": "eb968504-6698-4a2c-a072-e1ecd7ae1a5c",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -174,19 +134,9 @@
         "data_id": "data_id",
         "metadata_id": "metatata_id",
         "station_id": {
-            "1101": {
-                "value": " NORWAY",
-                "code": 633,
-                "wmo_element_name": "STATE IDENTIFIER"
-            },
-            "1102": {
-                "value": 96890,
-                "wmo_element_name": "NATIONAL STATION NUMBER"
-            },
-            "1015": {
-                "value": "KORGAASEN           ",
-                "wmo_element_name": "STATION OR SITE NAME"
-            }
+            "state_identifier": "NORWAY",
+            "national_station_number": 96890,
+            "station_or_site_name": "KORGAASEN"
         },
         "datetime": "2023-08-23T00:00:00.000000",
         "content": {
@@ -196,10 +146,10 @@
             "size": 2,
             "value": "89"
         },
-        "pubtime": "2023-09-18T07:33:33.000000"
+        "pubtime": "2023-09-18T13:11:59.000000"
     }
 }{
-    "id": "33d19640-b911-4e5d-8ab5-f513d53d2bef",
+    "id": "0a15f348-3ccd-4c4a-8e05-d6375c5fd059",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -214,68 +164,48 @@
         "data_id": "data_id",
         "metadata_id": "metatata_id",
         "station_id": {
-            "1101": {
-                "value": " NORWAY",
-                "code": 633,
-                "wmo_element_name": "STATE IDENTIFIER"
-            },
-            "1102": {
-                "value": 96890,
-                "wmo_element_name": "NATIONAL STATION NUMBER"
-            },
-            "1015": {
-                "value": "KORGAASEN           ",
-                "wmo_element_name": "STATION OR SITE NAME"
-            }
-        },
-        "datetime": "2023-08-23T00:00:00.000000",
-        "content": {
-            "encoding": "utf-8",
-            "standard_name": "wind_speed",
-            "unit": "deg",
-            "size": 3,
-            "value": "116"
-        },
-        "pubtime": "2023-09-18T07:33:33.000000"
-    }
-}{
-    "id": "c9e04d86-56a3-44be-b820-ac44cc61833b",
-    "version": "v04",
-    "type": "Feature",
-    "geometry": {
-        "type": "Point",
-        "coordinates": [
-            69.9363,
-            28.3773,
-            418.0
-        ]
-    },
-    "properties": {
-        "data_id": "data_id",
-        "metadata_id": "metatata_id",
-        "station_id": {
-            "1101": {
-                "value": " NORWAY",
-                "code": 633,
-                "wmo_element_name": "STATE IDENTIFIER"
-            },
-            "1102": {
-                "value": 96890,
-                "wmo_element_name": "NATIONAL STATION NUMBER"
-            },
-            "1015": {
-                "value": "KORGAASEN           ",
-                "wmo_element_name": "STATION OR SITE NAME"
-            }
+            "state_identifier": "NORWAY",
+            "national_station_number": 96890,
+            "station_or_site_name": "KORGAASEN"
         },
         "datetime": "2023-08-23T00:00:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
+            "unit": "deg",
+            "size": 3,
+            "value": "116"
+        },
+        "pubtime": "2023-09-18T13:11:59.000000"
+    }
+}{
+    "id": "c688d057-1d4e-433e-8d8e-92bf75651b08",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.9363,
+            28.3773,
+            418.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "state_identifier": "NORWAY",
+            "national_station_number": 96890,
+            "station_or_site_name": "KORGAASEN"
+        },
+        "datetime": "2023-08-23T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
             "unit": "m/s",
             "size": 3,
             "value": "3.3"
         },
-        "pubtime": "2023-09-18T07:33:33.000000"
+        "pubtime": "2023-09-18T13:11:59.000000"
     }
 }

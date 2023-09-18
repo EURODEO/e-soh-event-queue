@@ -1,48 +1,197 @@
-
 {
-  "id": "908298c5-8d40-4e94-81da-044287c419fb",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      49.9081,
-      -2.8948
-    ]
-  },
-  "properties": {
-    "station_id": {
-      "stationOrSiteName": "Channel             ",
-      "marineObservingPlatformIdentifier": "6200103"
+    "id": "b80c265c-52b2-4e0e-a5af-b940ff680d2e",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.9081,
+            -2.8948
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "102100.0 Pa",
-      "pressureReducedToMeanSeaLevel": "102120.0 Pa",
-      "airTemperature": "290.15 K",
-      "dewpointTemperature": "289.28 K",
-      "windDirection": "286 deg",
-      "windSpeed": "2.4 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_marine_observing_platform_extended_identifier": 6200103,
+            "station_or_site_name": "Channel"
+        },
+        "datetime": "2023-08-23T00:02:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure",
+            "unit": "Pa",
+            "size": 6,
+            "value": "102100"
+        },
+        "pubtime": "2023-09-18T13:16:17.000000"
+    }
+}{
+    "id": "4aa10dcf-4be0-4406-89bf-c7978c60fb9a",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.9081,
+            -2.8948
+        ]
     },
-    "data_id": "SurfaceSee_subset_1.buf",
-    "pubtime": "2023-08-23T00:02:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 74,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 1,
-    "internationalDataSubCategory": 25,
-    "masterTablesVersionNumber": 25,
-    "localTablesVersionNumber": 255,
-    "numberOfSubsets": 1,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        315008
-      ]
-    ],
-    "dataSubset": 0,
-    "datetime": "2023-08-23T00:02:00.0"
-  }
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_marine_observing_platform_extended_identifier": 6200103,
+            "station_or_site_name": "Channel"
+        },
+        "datetime": "2023-08-23T00:02:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure_at_sea_level",
+            "unit": "Pa",
+            "size": 6,
+            "value": "102120"
+        },
+        "pubtime": "2023-09-18T13:16:17.000000"
+    }
+}{
+    "id": "fab5034a-f98b-4bb5-88e4-50583e6f7b09",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.9081,
+            -2.8948
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_marine_observing_platform_extended_identifier": 6200103,
+            "station_or_site_name": "Channel"
+        },
+        "datetime": "2023-08-23T00:02:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "290.15"
+        },
+        "pubtime": "2023-09-18T13:16:17.000000"
+    }
+}{
+    "id": "852d23a0-6a0a-4590-8ed9-8a726d820738",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.9081,
+            -2.8948
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_marine_observing_platform_extended_identifier": 6200103,
+            "station_or_site_name": "Channel"
+        },
+        "datetime": "2023-08-23T00:02:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "289.28"
+        },
+        "pubtime": "2023-09-18T13:16:17.000000"
+    }
+}{
+    "id": "9e793b02-32f7-41c8-8d54-5b367b6bd450",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.9081,
+            -2.8948
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_marine_observing_platform_extended_identifier": 6200103,
+            "station_or_site_name": "Channel"
+        },
+        "datetime": "2023-08-23T00:02:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "relative_humidity",
+            "unit": "%",
+            "size": 2,
+            "value": "95"
+        },
+        "pubtime": "2023-09-18T13:16:17.000000"
+    }
+}{
+    "id": "ba931b76-f7bf-41b6-8353-81005e10a36c",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.9081,
+            -2.8948
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_marine_observing_platform_extended_identifier": 6200103,
+            "station_or_site_name": "Channel"
+        },
+        "datetime": "2023-08-23T00:02:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "deg",
+            "size": 3,
+            "value": "286"
+        },
+        "pubtime": "2023-09-18T13:16:17.000000"
+    }
+}{
+    "id": "ea5d9443-0f42-4ebc-bacc-f059a79b2a86",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            49.9081,
+            -2.8948
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_marine_observing_platform_extended_identifier": 6200103,
+            "station_or_site_name": "Channel"
+        },
+        "datetime": "2023-08-23T00:02:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "m/s",
+            "size": 3,
+            "value": "2.4"
+        },
+        "pubtime": "2023-09-18T13:16:17.000000"
+    }
 }

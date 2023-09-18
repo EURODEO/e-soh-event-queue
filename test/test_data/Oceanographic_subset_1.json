@@ -1,42 +1,2745 @@
-
 {
-  "id": "2dee1afc-36d8-44e8-a388-f64bd8c1a225",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      56.85,
-      -9.73
-    ]
-  },
-  "properties": {
-    "station_id": {
-      "shipOrMobileLandStationIdentifier": "6800987  "
+    "id": "88031785-3d79-4ae2-b221-eaaf9a35bc38",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -10.0
+        ]
     },
-    "measure": {
-      "oceanographicWaterTemperature": "284.78 K"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "284.78"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "f62edef4-886a-4bc4-8810-58da04173df1",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -20.0
+        ]
     },
-    "data_id": "Oceanographic_subset_1.bufr",
-    "pubtime": "2023-05-22T18:47:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 88,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 31,
-    "internationalDataSubCategory": 5,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 1,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        315002
-      ]
-    ],
-    "dataSubset": 0,
-    "datetime": "2023-05-22T18:47:00.0"
-  }
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "284.68"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "a45e5245-c0c2-428a-a7a2-c3dd4ec573da",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -30.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "284.39"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "484cc4db-666f-4f69-a702-1332cf045817",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -40.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "284.09"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "2e9bd873-5436-4b56-8f79-f7c57c27988e",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -50.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.88"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "527fe2d7-074c-4d57-9f7d-2ecf01269723",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -60.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.83"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "209c8f6c-68d7-4584-878f-b37d7deb502c",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -70.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.75"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "c0ee3a4e-9485-42c7-8767-5c3434dfa0c5",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -80.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.68"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "632c5563-21c6-467a-9b47-64e22d1d387b",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -90.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.63"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "d4a0005e-504c-4218-a861-e6016ea4bc68",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -100.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.61"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "3ee87731-ae7c-46e4-b16a-0e4bb62012f2",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -110.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.59"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "6f3baea9-db64-486d-b219-72f7f3db1968",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -120.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.58"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "fb371a07-9eb5-493c-ba31-a123b0a32930",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -130.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.55"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "86ba17ca-82dc-4f9f-b1a9-af20e6353ee8",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -140.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.56"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "d3fa31db-0edc-4698-b87a-96da4b0a8e19",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -150.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.57"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "4c6f2f8b-42b4-410f-ba6a-c99cbbf1dc6e",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -160.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.55"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "e0e7f60f-6d7e-4f92-9082-d884842868d3",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -170.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.54"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "35459d68-514e-46fb-b392-ab30be4c32e9",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -180.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.52"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "62159fbd-f152-4459-8894-744a0aacf5ae",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -190.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.51"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "a567ca84-9b25-4232-9e60-0bc4cdaae524",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -200.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.51"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "e2f40112-a19d-4214-bc0c-738c7719556e",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -210.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 5,
+            "value": "283.5"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "4efe33f6-a497-496f-8b06-bc1ffb78cc6a",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -220.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 5,
+            "value": "283.5"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "5f3c77e3-d235-4314-b191-9d28bda8b8ff",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -230.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.48"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "dc1f2057-e31e-48d9-8f0a-e6862e48c6a6",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -240.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.47"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "2ba0affa-1355-4f0b-9c31-b7624b5a6d0c",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -250.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.45"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "4f782952-fe7b-4cc6-ba09-c376581743b7",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -260.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.43"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "5839e003-2702-4dc5-ae62-48dce38724f7",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -270.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.42"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "4aa335dc-5fb3-4d39-97aa-6565d4dda750",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -280.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.41"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "82c2324b-aa1c-45c9-a6c4-919373274cc1",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -290.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.39"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "8895528a-a863-4729-8950-b6826fe666a1",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -300.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.36"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "abe027d3-8753-491f-a6d6-b266b5052c1e",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -310.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.35"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "127bcb35-eff3-4580-bb05-8ef0467202fb",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -320.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.33"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "20aab600-7de8-4de9-901c-50c6f533e1e1",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -330.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.32"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "ff956ce0-436e-4f6b-a41a-f0f5868de68a",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -340.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.31"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "9a7ad089-b20a-424f-b045-49e0e81db975",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -350.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 5,
+            "value": "283.3"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "aa86ef93-1b67-41c8-bad2-373fd9b8a1fb",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -360.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.29"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "2e2c94e1-9a03-4ca7-b63f-1d7c258cf1ad",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -370.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.27"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "1e947735-d1c7-499c-9683-90e706ff49ea",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -380.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.26"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "d763c2ac-cff4-443f-bb5d-134ccd7c26e1",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -390.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.23"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "306f9872-80ee-4ffa-9a04-d717119946b0",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -400.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.23"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "3edcd963-3ea1-45eb-981a-225355d53a49",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -410.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.21"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "901d109a-74bb-4f80-9530-d174cc2f8903",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -420.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.17"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "ab41efbb-4e1f-499d-a369-ea7bb44be2d6",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -430.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.15"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "000e8c5a-a530-4ed1-a0c9-a40e4644842e",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -440.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.13"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "c238c911-2926-4d6f-9611-8b35fa6cdce7",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -450.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.13"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "1d75f422-5297-46e9-a630-264074793914",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -460.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.12"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "27c6bff6-aae8-4eb2-8de9-be1fce662a94",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -470.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 5,
+            "value": "283.1"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "9aeba164-5466-4c4e-8e57-8b1dcb68cb79",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -480.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "283.05"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "c7d33869-c7f6-4002-b741-f201119dfff8",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -490.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 3,
+            "value": "283"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "02e8800b-4814-4e2e-ac29-c45104ac3464",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -500.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.98"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "f5300d20-fbb9-4cd1-b1e6-a8975c743acd",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -510.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.96"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "62dafe4e-fefc-4001-abc7-34e3af40e8b5",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -520.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.94"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "08ea7b75-c802-4ced-92b6-bddcebb39f07",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -530.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.92"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "d59bfc04-1229-467d-93b4-fe3f69cff231",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -540.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.88"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "3d087b97-7d71-4477-ad53-73c88d1fcd9b",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -550.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.83"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "a03f313a-ab1b-44bc-a9be-c00f4433efcf",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -560.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.75"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "bc3f2e08-cf22-4906-ba96-2bdf35b4e954",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -570.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.72"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "25679dab-15bc-4013-8d6b-897d50d263fd",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -580.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.69"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "81baf04e-30ec-48e5-a3e0-7507f95afa0b",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -590.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.65"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "8e33eae6-e3ce-4ac8-ad8f-486a8f5e1573",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -600.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.61"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "5d2df39a-ada8-41ee-b9de-56e4a093aafb",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -610.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.58"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "5c7c87c2-4ea9-4a0f-96f5-8d9be9981f87",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -620.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.56"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "1231d27f-e5fd-4561-9c1e-0eee22295b83",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -630.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.55"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "9fe6340f-d22f-4753-9e02-8bbee56bce52",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -640.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.52"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "805ef851-bd72-4569-8a4e-5dc2a55abee2",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -650.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.49"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "aceaad8b-4fa1-416e-bb23-90633c969722",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -660.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.45"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "91017132-99c6-470d-854e-6647b591f971",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -670.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.41"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "968b7e6e-4680-4875-aab8-cf26ad939a00",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -680.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.38"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "6ce6b19b-6923-4601-b66b-7ebce4ba0aca",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -690.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.34"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "108897ce-2452-482c-a0d3-a374a31f6dac",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -700.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.29"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "27802bc7-3290-42f7-b3c5-52eb8f104f33",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -710.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.25"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "ecc99118-988a-4b68-8975-538cadaacf6e",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -720.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 5,
+            "value": "282.2"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "c7543c95-66f0-4ff6-803e-8f89ab4dcd25",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -730.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.18"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "59934611-ad90-41d7-9dc6-30427c44617b",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -740.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.16"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "6b8b979d-7aba-4dec-b36c-472b2b0d3e9e",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -750.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.11"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "24e23b42-b623-4e8c-932e-578ce2fa5d27",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -760.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.04"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "8689496c-c210-49db-bc6f-1926dca9dd9f",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -770.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "282.01"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "e7fcc8bc-4e90-459f-90f8-a4bf7ed058b0",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -780.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "281.99"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "792a7265-c672-48e3-854c-a85dac0b034c",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -790.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "281.94"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "40af54e9-49ef-4652-8129-64d9f0631124",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -800.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "281.89"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "4a8a384b-26d0-4f05-853f-0aa903b53763",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -810.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "281.85"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "e3e34757-20f7-44ff-b1dc-410d9c1b7bd8",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -820.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 5,
+            "value": "281.8"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "e76b7b13-1562-4b6a-93ca-71790343fbf0",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -830.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "281.74"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "7e570441-cf3f-4e46-b51c-cad7c612620f",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -840.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "281.71"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "e011cb30-b667-41de-a185-85adf3d9fa69",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -850.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "281.64"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "b3543f75-2491-4bcc-8e3f-21be64a25117",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -860.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "281.57"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "f8056491-efd5-4cd0-bddd-4cd208aac4d1",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -870.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "281.54"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "e7397643-0559-47a2-b03d-e7dd4d4fd36a",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -880.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "281.47"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "495b310d-deb7-41bb-98cc-483819c92c78",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -890.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "281.41"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "e895b1c6-a675-4e27-80c3-ac4b34bb56db",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -900.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "281.35"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "086b6961-6018-4598-8d77-2358d13448f3",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -910.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "281.26"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "e13d5829-698e-4dcd-8705-12230b117d97",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -920.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "281.18"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "b8c03232-af63-4fc3-bf09-4386152bc1aa",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -930.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "281.06"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "1e809cc7-c53f-40d2-9ab6-6c4130868b11",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -940.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "281.01"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "c0138f4d-711c-499b-81b3-318e2f95169f",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -950.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "280.91"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "08c4041c-9145-4cf6-80be-23a9c7880cc1",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -960.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "280.85"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "99559792-3fcc-4d1b-9199-1c6e04fec52a",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -970.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 5,
+            "value": "280.8"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
+}{
+    "id": "e9b1af0a-16a4-4cc3-87d5-e65e3efb527d",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.85,
+            -9.73,
+            -980.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "ship_or_mobile_land_station_identifier": "6800987"
+        },
+        "datetime": "2023-05-22T18:47:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "sea_water_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "280.73"
+        },
+        "pubtime": "2023-09-18T13:34:58.000000"
+    }
 }

@@ -1,95 +1,393 @@
-
 {
-  "id": "afd59d49-3761-4aff-b1c1-98bfbc378a27",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      43.38,
-      7.83
-    ]
-  },
-  "properties": {
-    "station_id": {
-      "stationOrSiteName": "BOUEE_COTE D'AZUR   ",
-      "marineObservingPlatformIdentifier": "6100001"
+    "id": "28fe172f-0dd3-48ae-bf30-f7ecd55a5cad",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.38,
+            7.83
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "101460.0 Pa",
-      "pressureReducedToMeanSeaLevel": "101480.0 Pa",
-      "airTemperature": "300.95 K",
-      "dewpointTemperature": "298.55 K",
-      "windDirection": "250 deg",
-      "windSpeed": "1.6 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_marine_observing_platform_extended_identifier": 6100001,
+            "station_or_site_name": "BOUEE_COTE D'AZUR"
+        },
+        "datetime": "2023-08-23T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure",
+            "unit": "Pa",
+            "size": 6,
+            "value": "101460"
+        },
+        "pubtime": "2023-09-18T13:38:11.000000"
+    }
+}{
+    "id": "9b1a74f8-4e0d-4de0-bc91-58b92da375b7",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.38,
+            7.83
+        ]
     },
-    "data_id": "SurfaceSee_subset_2.buf",
-    "pubtime": "2023-08-23T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 85,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 1,
-    "internationalDataSubCategory": 25,
-    "masterTablesVersionNumber": 22,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 2,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        315008
-      ]
-    ],
-    "dataSubset": 0,
-    "datetime": "2023-08-23T00:00:00.0"
-  }
-}
-{
-  "id": "6ead3c94-ce27-4bcc-bbd5-10991e783b9e",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      41.74,
-      7.59
-    ]
-  },
-  "properties": {
-    "station_id": {
-      "stationOrSiteName": "BOUEE_AJACCIO       ",
-      "marineObservingPlatformIdentifier": "6101031"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_marine_observing_platform_extended_identifier": 6100001,
+            "station_or_site_name": "BOUEE_COTE D'AZUR"
+        },
+        "datetime": "2023-08-23T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure_at_sea_level",
+            "unit": "Pa",
+            "size": 6,
+            "value": "101480"
+        },
+        "pubtime": "2023-09-18T13:38:11.000000"
+    }
+}{
+    "id": "5f4de23a-da14-4ba6-bec7-e97fa52aa786",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.38,
+            7.83
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "101530.0 Pa",
-      "pressureReducedToMeanSeaLevel": "101550.0 Pa",
-      "airTemperature": "299.85 K",
-      "dewpointTemperature": "298.05 K",
-      "windDirection": "330 deg",
-      "windSpeed": "1.6 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_marine_observing_platform_extended_identifier": 6100001,
+            "station_or_site_name": "BOUEE_COTE D'AZUR"
+        },
+        "datetime": "2023-08-23T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "300.95"
+        },
+        "pubtime": "2023-09-18T13:38:11.000000"
+    }
+}{
+    "id": "44c8305b-e57f-40cc-95b4-8bb30751b13a",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.38,
+            7.83
+        ]
     },
-    "data_id": "SurfaceSee_subset_2.buf",
-    "pubtime": "2023-08-23T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 85,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 1,
-    "internationalDataSubCategory": 25,
-    "masterTablesVersionNumber": 22,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 2,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        315008
-      ]
-    ],
-    "dataSubset": 1,
-    "datetime": "2023-08-23T00:00:00.0"
-  }
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_marine_observing_platform_extended_identifier": 6100001,
+            "station_or_site_name": "BOUEE_COTE D'AZUR"
+        },
+        "datetime": "2023-08-23T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "298.55"
+        },
+        "pubtime": "2023-09-18T13:38:11.000000"
+    }
+}{
+    "id": "ac1e41c0-f30e-46f3-8214-64e7b86d0bee",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.38,
+            7.83
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_marine_observing_platform_extended_identifier": 6100001,
+            "station_or_site_name": "BOUEE_COTE D'AZUR"
+        },
+        "datetime": "2023-08-23T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "relative_humidity",
+            "unit": "%",
+            "size": 2,
+            "value": "87"
+        },
+        "pubtime": "2023-09-18T13:38:11.000000"
+    }
+}{
+    "id": "e5fe0b2c-40c0-418f-921e-49d7bbeab15c",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.38,
+            7.83
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_marine_observing_platform_extended_identifier": 6100001,
+            "station_or_site_name": "BOUEE_COTE D'AZUR"
+        },
+        "datetime": "2023-08-23T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "deg",
+            "size": 3,
+            "value": "250"
+        },
+        "pubtime": "2023-09-18T13:38:11.000000"
+    }
+}{
+    "id": "1eca64d6-0c1e-441a-9bc6-91627367ffb2",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.38,
+            7.83
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_marine_observing_platform_extended_identifier": 6100001,
+            "station_or_site_name": "BOUEE_COTE D'AZUR"
+        },
+        "datetime": "2023-08-23T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "m/s",
+            "size": 3,
+            "value": "1.6"
+        },
+        "pubtime": "2023-09-18T13:38:11.000000"
+    }
+}{
+    "id": "c76ececd-ddcc-4448-9937-8e8ec1bcef2e",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.74,
+            7.59
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_marine_observing_platform_extended_identifier": 6101031,
+            "station_or_site_name": "BOUEE_AJACCIO"
+        },
+        "datetime": "2023-08-23T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure",
+            "unit": "Pa",
+            "size": 6,
+            "value": "101530"
+        },
+        "pubtime": "2023-09-18T13:38:11.000000"
+    }
+}{
+    "id": "7d66ad84-4fbd-40b0-978f-a20ad4aa4689",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.74,
+            7.59
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_marine_observing_platform_extended_identifier": 6101031,
+            "station_or_site_name": "BOUEE_AJACCIO"
+        },
+        "datetime": "2023-08-23T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure_at_sea_level",
+            "unit": "Pa",
+            "size": 6,
+            "value": "101550"
+        },
+        "pubtime": "2023-09-18T13:38:11.000000"
+    }
+}{
+    "id": "a02719cc-5f07-4baa-8ad1-0966cfef0a31",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.74,
+            7.59
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_marine_observing_platform_extended_identifier": 6101031,
+            "station_or_site_name": "BOUEE_AJACCIO"
+        },
+        "datetime": "2023-08-23T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "299.85"
+        },
+        "pubtime": "2023-09-18T13:38:11.000000"
+    }
+}{
+    "id": "44cf4608-5192-4e21-b2fe-9e5dbe820123",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.74,
+            7.59
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_marine_observing_platform_extended_identifier": 6101031,
+            "station_or_site_name": "BOUEE_AJACCIO"
+        },
+        "datetime": "2023-08-23T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "298.05"
+        },
+        "pubtime": "2023-09-18T13:38:11.000000"
+    }
+}{
+    "id": "84fa6661-48b5-4c39-9f20-70f01e2635ab",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.74,
+            7.59
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_marine_observing_platform_extended_identifier": 6101031,
+            "station_or_site_name": "BOUEE_AJACCIO"
+        },
+        "datetime": "2023-08-23T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "relative_humidity",
+            "unit": "%",
+            "size": 2,
+            "value": "90"
+        },
+        "pubtime": "2023-09-18T13:38:11.000000"
+    }
+}{
+    "id": "880780ec-7cb6-4482-9923-8c042582ed4b",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.74,
+            7.59
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_marine_observing_platform_extended_identifier": 6101031,
+            "station_or_site_name": "BOUEE_AJACCIO"
+        },
+        "datetime": "2023-08-23T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "deg",
+            "size": 3,
+            "value": "330"
+        },
+        "pubtime": "2023-09-18T13:38:11.000000"
+    }
+}{
+    "id": "baedf823-4825-4bd0-a2c1-874cc15813ef",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.74,
+            7.59
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "wmo_marine_observing_platform_extended_identifier": 6101031,
+            "station_or_site_name": "BOUEE_AJACCIO"
+        },
+        "datetime": "2023-08-23T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "m/s",
+            "size": 3,
+            "value": "1.6"
+        },
+        "pubtime": "2023-09-18T13:38:11.000000"
+    }
 }
