@@ -1,1310 +1,3205 @@
-
 {
-  "id": "06bc91b9-282c-4930-aa43-97996b2fe334",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": "null",
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "969",
-      "stationOrSiteName": "MISSING             "
+    "id": "d3a7d53f-8913-477b-81b3-7956f33d6aed",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.633,
+            102.983
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "-1e+100 Pa",
-      "pressureReducedToMeanSeaLevel": "-1e+100 Pa",
-      "airTemperature": "-1e+100 K",
-      "dewpointTemperature": "-1e+100 K",
-      "windDirection": "2147483647 deg",
-      "windSpeed": "-1e+100 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 986,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KOH KONG            ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure",
+            "unit": "Pa",
+            "size": 6,
+            "value": "101190"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "a54b6ad8-e713-4b17-abfe-9dacf14a983e",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.633,
+            102.983
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 0,
-    "datetime": ""
-  }
-}
-{
-  "id": "9760321d-9f83-4387-b469-829897e9fa15",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": "null",
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "962",
-      "stationOrSiteName": "MISSING             "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 986,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KOH KONG            ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure_at_sea_level",
+            "unit": "Pa",
+            "size": 6,
+            "value": "101190"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "a403d3b7-5d2e-4144-afe2-87444ac13bad",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.633,
+            102.983
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "-1e+100 Pa",
-      "pressureReducedToMeanSeaLevel": "-1e+100 Pa",
-      "airTemperature": "-1e+100 K",
-      "dewpointTemperature": "-1e+100 K",
-      "windDirection": "2147483647 deg",
-      "windSpeed": "-1e+100 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 986,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KOH KONG            ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "300.25"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "ebfdcfe2-a6ba-4a30-9572-a7f708928c73",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.633,
+            102.983
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 1,
-    "datetime": ""
-  }
-}
-{
-  "id": "a8324237-06d6-480e-aa52-ba18ebdc1624",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": "null",
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "990",
-      "stationOrSiteName": "MISSING             "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 986,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KOH KONG            ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "300.25"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "8f4cd481-f1b6-49e8-a797-0dff90055f57",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.633,
+            102.983
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "-1e+100 Pa",
-      "pressureReducedToMeanSeaLevel": "-1e+100 Pa",
-      "airTemperature": "-1e+100 K",
-      "dewpointTemperature": "-1e+100 K",
-      "windDirection": "2147483647 deg",
-      "windSpeed": "-1e+100 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 986,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KOH KONG            ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "deg",
+            "size": 3,
+            "value": "250"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "d0604fcf-353b-45f8-879c-f7400ba27847",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.633,
+            102.983
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 2,
-    "datetime": ""
-  }
-}
-{
-  "id": "41230ca4-0929-4fcf-9e67-a8c4be83470d",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      11.633,
-      102.983,
-      -1e+100
-    ]
-  },
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "986",
-      "stationOrSiteName": "KOH KONG            "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 986,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KOH KONG            ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "m/s",
+            "size": 1,
+            "value": "3"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "29a18e58-8b79-4342-ad4e-a9e6e8ae635c",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.47667,
+            104.5813,
+            27.0
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "101190.0 Pa",
-      "pressureReducedToMeanSeaLevel": "101190.0 Pa",
-      "airTemperature": "300.25 K",
-      "dewpointTemperature": "300.25 K",
-      "windDirection": "250 deg",
-      "windSpeed": "3.0 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 992,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KOMPONG SPEU        ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure",
+            "unit": "Pa",
+            "size": 6,
+            "value": "100340"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "8d6aa1a5-8216-4c30-831a-9290298a35a5",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.47667,
+            104.5813,
+            27.0
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 3,
-    "datetime": "2023-07-20T00:00:00.0"
-  }
-}
-{
-  "id": "6fc6e6bd-c5cd-42cb-a155-6fe69c71be82",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": "null",
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "995",
-      "stationOrSiteName": "MISSING             "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 992,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KOMPONG SPEU        ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure_at_sea_level",
+            "unit": "Pa",
+            "size": 6,
+            "value": "100710"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "d1bc019f-6592-4e55-be69-9592a712c072",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.47667,
+            104.5813,
+            27.0
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "-1e+100 Pa",
-      "pressureReducedToMeanSeaLevel": "-1e+100 Pa",
-      "airTemperature": "-1e+100 K",
-      "dewpointTemperature": "-1e+100 K",
-      "windDirection": "2147483647 deg",
-      "windSpeed": "-1e+100 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 992,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KOMPONG SPEU        ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "300.15"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "f0b386f9-de60-4017-a887-c33225acbc0f",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.47667,
+            104.5813,
+            27.0
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 4,
-    "datetime": ""
-  }
-}
-{
-  "id": "1393476d-3498-4bcc-8427-f417c3c022fa",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": "null",
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "967",
-      "stationOrSiteName": "MISSING             "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 992,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KOMPONG SPEU        ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "236.45"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "e97cfefc-9f76-413f-909e-9b0c97c457a0",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.47667,
+            104.5813,
+            27.0
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "-1e+100 Pa",
-      "pressureReducedToMeanSeaLevel": "-1e+100 Pa",
-      "airTemperature": "-1e+100 K",
-      "dewpointTemperature": "-1e+100 K",
-      "windDirection": "2147483647 deg",
-      "windSpeed": "-1e+100 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 992,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KOMPONG SPEU        ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "deg",
+            "size": 3,
+            "value": "120"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "b779f10f-6014-4c9e-a559-ce832220f517",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.47667,
+            104.5813,
+            27.0
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 5,
-    "datetime": ""
-  }
-}
-{
-  "id": "f79473fe-7078-4ad1-985b-bc48f66a2631",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      11.47667,
-      104.5813,
-      27.0
-    ]
-  },
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "992",
-      "stationOrSiteName": "KOMPONG SPEU        "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 992,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KOMPONG SPEU        ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "m/s",
+            "size": 1,
+            "value": "0"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "06aa3376-b226-4d9b-aeeb-b41c5f189773",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.68527,
+            104.8972,
+            13.0
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "100340.0 Pa",
-      "pressureReducedToMeanSeaLevel": "100710.0 Pa",
-      "airTemperature": "300.15 K",
-      "dewpointTemperature": "236.45 K",
-      "windDirection": "120 deg",
-      "windSpeed": "0.0 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 965,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KOMPONG_THOM        ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure",
+            "unit": "Pa",
+            "size": 6,
+            "value": "100470"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "db07ae3c-4ac8-466a-8bed-326c21143325",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.68527,
+            104.8972,
+            13.0
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 6,
-    "datetime": "2023-07-20T00:00:00.0"
-  }
-}
-{
-  "id": "1187388d-42ba-4817-9a8c-79ddea4b4728",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      12.68527,
-      104.8972,
-      13.0
-    ]
-  },
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "965",
-      "stationOrSiteName": "KOMPONG_THOM        "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 965,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KOMPONG_THOM        ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure_at_sea_level",
+            "unit": "Pa",
+            "size": 6,
+            "value": "100630"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "2daa3598-c8ef-42f9-9304-5e309d5cf757",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.68527,
+            104.8972,
+            13.0
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "100470.0 Pa",
-      "pressureReducedToMeanSeaLevel": "100630.0 Pa",
-      "airTemperature": "298.35 K",
-      "dewpointTemperature": "298.35 K",
-      "windDirection": "40 deg",
-      "windSpeed": "1.0 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 965,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KOMPONG_THOM        ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "298.35"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "5a694ddc-dcea-48b8-8590-e81e3372dcb5",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.68527,
+            104.8972,
+            13.0
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 7,
-    "datetime": "2023-07-20T00:00:00.0"
-  }
-}
-{
-  "id": "35320872-6991-47b1-b053-86ff7a96007b",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      10.6,
-      104.183,
-      5.0
-    ]
-  },
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "985",
-      "stationOrSiteName": "KAMPOT              "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 965,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KOMPONG_THOM        ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "298.35"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "9b313b1d-cb43-438d-8c2b-ec42d4f372e6",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.68527,
+            104.8972,
+            13.0
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "100470.0 Pa",
-      "pressureReducedToMeanSeaLevel": "100530.0 Pa",
-      "airTemperature": "297.45 K",
-      "dewpointTemperature": "297.45 K",
-      "windDirection": "290 deg",
-      "windSpeed": "3.0 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 965,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KOMPONG_THOM        ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "deg",
+            "size": 2,
+            "value": "40"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "c768f08d-1bcc-4dc3-9030-05db88098710",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.68527,
+            104.8972,
+            13.0
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 8,
-    "datetime": "2023-07-20T00:00:00.0"
-  }
-}
-{
-  "id": "ffa412e9-fa6f-46c9-be6c-054febe5c4ef",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      12.483,
-      106.167,
-      -1e+100
-    ]
-  },
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "970",
-      "stationOrSiteName": "KRATIE              "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 965,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KOMPONG_THOM        ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "m/s",
+            "size": 1,
+            "value": "1"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "b9499c2e-aaef-47eb-a698-d9069b5a2325",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.6,
+            104.183,
+            5.0
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "100390.0 Pa",
-      "pressureReducedToMeanSeaLevel": "100700.0 Pa",
-      "airTemperature": "298.95 K",
-      "dewpointTemperature": "298.95 K",
-      "windDirection": "200 deg",
-      "windSpeed": "0.0 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 985,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KAMPOT              ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure",
+            "unit": "Pa",
+            "size": 6,
+            "value": "100470"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "6d23151a-8822-4ef6-800f-5d08c1454f0e",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.6,
+            104.183,
+            5.0
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 9,
-    "datetime": "2023-07-20T00:00:00.0"
-  }
-}
-{
-  "id": "c6223790-4a36-4601-9de6-2d6e0d4b6a53",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      11.6,
-      104.867,
-      10.0
-    ]
-  },
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "991",
-      "stationOrSiteName": "PHNOM-PENH (KHMOUGH)"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 985,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KAMPOT              ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure_at_sea_level",
+            "unit": "Pa",
+            "size": 6,
+            "value": "100530"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "4481ab61-c029-49b7-a381-91493e98ddc1",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.6,
+            104.183,
+            5.0
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "100580.0 Pa",
-      "pressureReducedToMeanSeaLevel": "100710.0 Pa",
-      "airTemperature": "300.25 K",
-      "dewpointTemperature": "297.35 K",
-      "windDirection": "200 deg",
-      "windSpeed": "2.0 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 985,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KAMPOT              ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "297.45"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "707564f0-c18f-4936-abca-9e6813a03e20",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.6,
+            104.183,
+            5.0
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 10,
-    "datetime": "2023-07-20T00:00:00.0"
-  }
-}
-{
-  "id": "ea211743-ce30-4864-9718-ba5e144c9c73",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": "null",
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "964",
-      "stationOrSiteName": "MISSING             "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 985,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KAMPOT              ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "297.45"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "ac7b81ef-b7e2-4503-94c4-6e9d69afadf4",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.6,
+            104.183,
+            5.0
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "-1e+100 Pa",
-      "pressureReducedToMeanSeaLevel": "-1e+100 Pa",
-      "airTemperature": "-1e+100 K",
-      "dewpointTemperature": "-1e+100 K",
-      "windDirection": "2147483647 deg",
-      "windSpeed": "-1e+100 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 985,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KAMPOT              ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "deg",
+            "size": 3,
+            "value": "290"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "8bd62c89-c981-45aa-884d-0f852ef6b577",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.6,
+            104.183,
+            5.0
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 11,
-    "datetime": ""
-  }
-}
-{
-  "id": "535222d1-0942-44ed-83b4-fa54dceb95cd",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      11.467,
-      105.317,
-      -1e+100
-    ]
-  },
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "997",
-      "stationOrSiteName": "PREY VENG           "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 985,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KAMPOT              ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "m/s",
+            "size": 1,
+            "value": "3"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "299c205d-5ebc-4151-852c-33427a65ef42",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.483,
+            106.167
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "100580.0 Pa",
-      "pressureReducedToMeanSeaLevel": "100720.0 Pa",
-      "airTemperature": "299.05 K",
-      "dewpointTemperature": "292.55 K",
-      "windDirection": "160 deg",
-      "windSpeed": "1.0 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 970,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KRATIE              ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure",
+            "unit": "Pa",
+            "size": 6,
+            "value": "100390"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "6cded7d4-a5a4-4449-8a00-1483b3884b2d",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.483,
+            106.167
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 12,
-    "datetime": "2023-07-20T00:00:00.0"
-  }
-}
-{
-  "id": "d51f4d4a-f187-44bb-b7e5-f4346e7b3d0e",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": "null",
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "968",
-      "stationOrSiteName": "MISSING             "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 970,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KRATIE              ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure_at_sea_level",
+            "unit": "Pa",
+            "size": 6,
+            "value": "100700"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "5de34bfb-e22a-40a5-a085-2c1c5bb579bc",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.483,
+            106.167
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "-1e+100 Pa",
-      "pressureReducedToMeanSeaLevel": "-1e+100 Pa",
-      "airTemperature": "-1e+100 K",
-      "dewpointTemperature": "-1e+100 K",
-      "windDirection": "2147483647 deg",
-      "windSpeed": "-1e+100 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 970,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KRATIE              ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "298.95"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "8563066b-e5a6-4f3c-8791-d1bfa99b4191",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.483,
+            106.167
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 13,
-    "datetime": ""
-  }
-}
-{
-  "id": "988059fd-a6ba-4702-9f18-f30fdf8f368c",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      13.733,
-      106.983,
-      -1e+100
-    ]
-  },
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "973",
-      "stationOrSiteName": "RATTANAKIRI         "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 970,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KRATIE              ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "298.95"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "bef4df27-d9ba-479b-b119-30071b3b6980",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.483,
+            106.167
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "96880.0 Pa",
-      "pressureReducedToMeanSeaLevel": "100370.0 Pa",
-      "airTemperature": "297.25 K",
-      "dewpointTemperature": "297.15 K",
-      "windDirection": "280 deg",
-      "windSpeed": "2.0 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 970,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KRATIE              ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "deg",
+            "size": 3,
+            "value": "200"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "5c89e49c-240a-4dbc-815b-039e0a02c679",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.483,
+            106.167
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 14,
-    "datetime": "2023-07-20T00:00:00.0"
-  }
-}
-{
-  "id": "12970629-a244-46c5-b9cf-79151b4e08b4",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      13.367,
-      103.85,
-      15.0
-    ]
-  },
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "966",
-      "stationOrSiteName": "SIEMREAP            "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 970,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "KRATIE              ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "m/s",
+            "size": 1,
+            "value": "0"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "e26c33e9-eb44-49c4-9e00-4c5e74a4d36d",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.6,
+            104.867,
+            10.0
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "100040.0 Pa",
-      "pressureReducedToMeanSeaLevel": "100660.0 Pa",
-      "airTemperature": "298.85 K",
-      "dewpointTemperature": "298.85 K",
-      "windDirection": "140 deg",
-      "windSpeed": "0.0 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 991,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "PHNOM-PENH (KHMOUGH)",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure",
+            "unit": "Pa",
+            "size": 6,
+            "value": "100580"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "b27391a8-f684-4d38-ae3e-08a51ab8a00d",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.6,
+            104.867,
+            10.0
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 15,
-    "datetime": "2023-07-20T00:00:00.0"
-  }
-}
-{
-  "id": "a6ad986b-a0e1-4d00-803c-c33c948efa41",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": "null",
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "983",
-      "stationOrSiteName": "MISSING             "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 991,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "PHNOM-PENH (KHMOUGH)",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure_at_sea_level",
+            "unit": "Pa",
+            "size": 6,
+            "value": "100710"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "00fa3fdf-2c9b-4259-8048-b953bc4460e2",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.6,
+            104.867,
+            10.0
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "-1e+100 Pa",
-      "pressureReducedToMeanSeaLevel": "-1e+100 Pa",
-      "airTemperature": "-1e+100 K",
-      "dewpointTemperature": "-1e+100 K",
-      "windDirection": "2147483647 deg",
-      "windSpeed": "-1e+100 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 991,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "PHNOM-PENH (KHMOUGH)",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "300.25"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "ffc77428-bfbc-46a7-8328-de81aade8ea1",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.6,
+            104.867,
+            10.0
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 16,
-    "datetime": ""
-  }
-}
-{
-  "id": "0e5ed860-5526-4e8a-96e1-b9f77cd320e6",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": "null",
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "972",
-      "stationOrSiteName": "MISSING             "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 991,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "PHNOM-PENH (KHMOUGH)",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "297.35"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "f35142d4-fa51-4ac3-a04a-e4da09a3a779",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.6,
+            104.867,
+            10.0
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "-1e+100 Pa",
-      "pressureReducedToMeanSeaLevel": "-1e+100 Pa",
-      "airTemperature": "-1e+100 K",
-      "dewpointTemperature": "-1e+100 K",
-      "windDirection": "2147483647 deg",
-      "windSpeed": "-1e+100 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 991,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "PHNOM-PENH (KHMOUGH)",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "deg",
+            "size": 3,
+            "value": "200"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "d95498a7-8422-4de1-9c7e-ac188374e3ea",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.6,
+            104.867,
+            10.0
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 17,
-    "datetime": ""
-  }
-}
-{
-  "id": "789dc052-f927-4d3d-a7be-6ab0f6da9fa7",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      11.083,
-      105.8,
-      6.0
-    ]
-  },
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "998",
-      "stationOrSiteName": "SVAY RIENG          "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 991,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "PHNOM-PENH (KHMOUGH)",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "m/s",
+            "size": 1,
+            "value": "2"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "aac9f941-e9e2-4206-8e6e-dde2cf6c8a37",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.467,
+            105.317
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "100610.0 Pa",
-      "pressureReducedToMeanSeaLevel": "100690.0 Pa",
-      "airTemperature": "299.45 K",
-      "dewpointTemperature": "299.15 K",
-      "windDirection": "190 deg",
-      "windSpeed": "1.0 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 997,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "PREY VENG           ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure",
+            "unit": "Pa",
+            "size": 6,
+            "value": "100580"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "53fa7c0d-6a4a-495d-bed1-ab8ba29f3c89",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.467,
+            105.317
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 18,
-    "datetime": "2023-07-20T00:00:00.0"
-  }
-}
-{
-  "id": "4803648a-477e-497c-b393-402385bd3511",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": "null",
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "993",
-      "stationOrSiteName": "MISSING             "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 997,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "PREY VENG           ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure_at_sea_level",
+            "unit": "Pa",
+            "size": 6,
+            "value": "100720"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "0fe764d1-cbb6-4d56-a7a3-ff834c1d406b",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.467,
+            105.317
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "-1e+100 Pa",
-      "pressureReducedToMeanSeaLevel": "-1e+100 Pa",
-      "airTemperature": "-1e+100 K",
-      "dewpointTemperature": "-1e+100 K",
-      "windDirection": "2147483647 deg",
-      "windSpeed": "-1e+100 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 997,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "PREY VENG           ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "299.05"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "eaa63b6c-b2d1-4c5b-a895-2ba27de04e59",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.467,
+            105.317
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 19,
-    "datetime": ""
-  }
-}
-{
-  "id": "9f0ec65f-7ff0-4fc6-9a19-f318b3782b6e",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": "null",
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "971",
-      "stationOrSiteName": "MISSING             "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 997,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "PREY VENG           ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "292.55"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "d1c06d24-0322-49c9-929e-e0e3bc386bc4",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.467,
+            105.317
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "-1e+100 Pa",
-      "pressureReducedToMeanSeaLevel": "-1e+100 Pa",
-      "airTemperature": "-1e+100 K",
-      "dewpointTemperature": "-1e+100 K",
-      "windDirection": "2147483647 deg",
-      "windSpeed": "-1e+100 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 997,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "PREY VENG           ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "deg",
+            "size": 3,
+            "value": "160"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "00bb62a8-f713-4ce6-b1a4-2886823ae55e",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.467,
+            105.317
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 20,
-    "datetime": ""
-  }
-}
-{
-  "id": "412b416e-01cf-4f8c-81f6-8003affe9263",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      12.8,
-      102.6,
-      -1e+100
-    ]
-  },
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "963",
-      "stationOrSiteName": "PAILIN              "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 997,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "PREY VENG           ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "m/s",
+            "size": 1,
+            "value": "1"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "391849a5-edfe-4cdd-bd4f-c5a49c084a53",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.733,
+            106.983
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "100550.0 Pa",
-      "pressureReducedToMeanSeaLevel": "102820.0 Pa",
-      "airTemperature": "301.45 K",
-      "dewpointTemperature": "295.95 K",
-      "windDirection": "280 deg",
-      "windSpeed": "2.0 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 973,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "RATTANAKIRI         ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure",
+            "unit": "Pa",
+            "size": 5,
+            "value": "96880"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "8e010448-2f20-4960-bf5c-5cf9d746b41b",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.733,
+            106.983
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 21,
-    "datetime": "2023-07-20T00:00:00.0"
-  }
-}
-{
-  "id": "0ed0f48a-d631-43c6-a6e5-373c3001bedd",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": "null",
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "987",
-      "stationOrSiteName": "                    "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 973,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "RATTANAKIRI         ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure_at_sea_level",
+            "unit": "Pa",
+            "size": 6,
+            "value": "100370"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "7c4c9fd1-0c29-44ab-97af-401223c46929",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.733,
+            106.983
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "100470.0 Pa",
-      "pressureReducedToMeanSeaLevel": "100620.0 Pa",
-      "airTemperature": "298.55 K",
-      "dewpointTemperature": "298.45 K",
-      "windDirection": "260 deg",
-      "windSpeed": "0.0 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 973,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "RATTANAKIRI         ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "297.25"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "3735e3f7-ca06-4b6d-b580-b19a32ef2c3c",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.733,
+            106.983
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 22,
-    "datetime": "2023-07-20T00:00:00.0"
-  }
-}
-{
-  "id": "fad42686-ea9d-4540-8e30-8caf1da47c19",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      14.18694,
-      103.5141,
-      23.0
-    ]
-  },
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "961",
-      "stationOrSiteName": "ODDAR_MEANCHEY      "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 973,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "RATTANAKIRI         ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "297.15"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "886c6284-5687-4c20-9bd3-fbeb6b1fab47",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.733,
+            106.983
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "100580.0 Pa",
-      "pressureReducedToMeanSeaLevel": "101130.0 Pa",
-      "airTemperature": "298.85 K",
-      "dewpointTemperature": "298.85 K",
-      "windDirection": "120 deg",
-      "windSpeed": "0.0 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 973,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "RATTANAKIRI         ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "deg",
+            "size": 3,
+            "value": "280"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "792f8f26-8c75-4ba1-ac64-38f499781ca2",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.733,
+            106.983
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 23,
-    "datetime": "2023-07-20T00:00:00.0"
-  }
-}
-{
-  "id": "c70be063-7fbe-47e1-b917-fab67ff2ab72",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": "null",
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "996",
-      "stationOrSiteName": "MISSING             "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 973,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "RATTANAKIRI         ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "m/s",
+            "size": 1,
+            "value": "2"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "9a52fe99-b73a-4b1d-b8bb-397cb202d4ee",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.367,
+            103.85,
+            15.0
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "-1e+100 Pa",
-      "pressureReducedToMeanSeaLevel": "-1e+100 Pa",
-      "airTemperature": "-1e+100 K",
-      "dewpointTemperature": "-1e+100 K",
-      "windDirection": "2147483647 deg",
-      "windSpeed": "-1e+100 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 966,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "SIEMREAP            ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure",
+            "unit": "Pa",
+            "size": 6,
+            "value": "100040"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "cc5b876e-f402-4e5f-a377-83792db77dd6",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.367,
+            103.85,
+            15.0
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 24,
-    "datetime": ""
-  }
-}
-{
-  "id": "2dca4e82-a69d-47f1-94dc-1eb489e8c3a0",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": "null",
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "988",
-      "stationOrSiteName": "MISSING             "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 966,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "SIEMREAP            ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure_at_sea_level",
+            "unit": "Pa",
+            "size": 6,
+            "value": "100660"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "1b753aa3-4e9c-49c7-afca-3a5dc571024f",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.367,
+            103.85,
+            15.0
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "-1e+100 Pa",
-      "pressureReducedToMeanSeaLevel": "-1e+100 Pa",
-      "airTemperature": "-1e+100 K",
-      "dewpointTemperature": "-1e+100 K",
-      "windDirection": "2147483647 deg",
-      "windSpeed": "-1e+100 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 966,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "SIEMREAP            ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "298.85"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "c07c20f9-85cd-4c62-bab4-d54c0cbd0e51",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.367,
+            103.85,
+            15.0
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 25,
-    "datetime": ""
-  }
-}
-{
-  "id": "62408d5b-645f-4adf-a8d5-a8125c4c8823",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": "null",
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "989",
-      "stationOrSiteName": "MISSING             "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 966,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "SIEMREAP            ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "298.85"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "ee2e3225-d484-4eb3-bd67-dc1e874f2bc1",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.367,
+            103.85,
+            15.0
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "-1e+100 Pa",
-      "pressureReducedToMeanSeaLevel": "-1e+100 Pa",
-      "airTemperature": "-1e+100 K",
-      "dewpointTemperature": "-1e+100 K",
-      "windDirection": "2147483647 deg",
-      "windSpeed": "-1e+100 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 966,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "SIEMREAP            ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "deg",
+            "size": 3,
+            "value": "140"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "6afbd013-f245-4169-852c-e2cbead2a6f5",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.367,
+            103.85,
+            15.0
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 26,
-    "datetime": ""
-  }
-}
-{
-  "id": "62a01145-61af-412e-8549-f296ab4bb786",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": "null",
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "960",
-      "stationOrSiteName": "MISSING             "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 966,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "SIEMREAP            ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "m/s",
+            "size": 1,
+            "value": "0"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "eb306a95-d37b-46d2-af41-33fd1b6c2714",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.083,
+            105.8,
+            6.0
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "-1e+100 Pa",
-      "pressureReducedToMeanSeaLevel": "-1e+100 Pa",
-      "airTemperature": "-1e+100 K",
-      "dewpointTemperature": "-1e+100 K",
-      "windDirection": "2147483647 deg",
-      "windSpeed": "-1e+100 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 998,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "SVAY RIENG          ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure",
+            "unit": "Pa",
+            "size": 6,
+            "value": "100610"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "f6bd6254-3fb3-4cdc-8b49-fc73ee7816df",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.083,
+            105.8,
+            6.0
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 27,
-    "datetime": ""
-  }
-}
-{
-  "id": "bc79c1c7-d68f-47d8-b694-14e253154bbc",
-  "version": "v04",
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      13.84988,
-      103.7981,
-      15.0
-    ]
-  },
-  "properties": {
-    "station_id": {
-      "blockNumber": "48",
-      "stationNumber": "976",
-      "stationOrSiteName": "VARIN               "
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 998,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "SVAY RIENG          ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure_at_sea_level",
+            "unit": "Pa",
+            "size": 6,
+            "value": "100690"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "f9376ee2-6154-4c58-9605-0757a6e35c44",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.083,
+            105.8,
+            6.0
+        ]
     },
-    "measure": {
-      "nonCoordinatePressure": "100050.0 Pa",
-      "pressureReducedToMeanSeaLevel": "100600.0 Pa",
-      "airTemperature": "298.75 K",
-      "dewpointTemperature": "298.75 K",
-      "windDirection": "220 deg",
-      "windSpeed": "0.0 m/s"
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 998,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "SVAY RIENG          ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "299.45"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "3b909071-2683-4f19-a368-1b8439854a9a",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.083,
+            105.8,
+            6.0
+        ]
     },
-    "data_id": "SurfaceLand_subset_29.bufr",
-    "pubtime": "2023-07-20T00:00:00.0",
-    "edition": 4,
-    "masterTableNumber": 0,
-    "bufrHeaderCentre": 115,
-    "bufrHeaderSubCentre": 0,
-    "updateSequenceNumber": 0,
-    "dataCategory": 0,
-    "internationalDataSubCategory": 2,
-    "masterTablesVersionNumber": 14,
-    "localTablesVersionNumber": 0,
-    "numberOfSubsets": 29,
-    "observedData": 1,
-    "compressedData": 0,
-    "unexpandedDescriptors": [
-      [
-        307080
-      ]
-    ],
-    "dataSubset": 28,
-    "datetime": "2023-07-20T00:00:00.0"
-  }
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 998,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "SVAY RIENG          ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "299.15"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "2b902986-9686-45e3-a635-e3ac84c90b04",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.083,
+            105.8,
+            6.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 998,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "SVAY RIENG          ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "deg",
+            "size": 3,
+            "value": "190"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "ddbf346f-6fc5-447d-bf22-6ba8429e3e0e",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.083,
+            105.8,
+            6.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 998,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "SVAY RIENG          ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "m/s",
+            "size": 1,
+            "value": "1"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "d701f948-2416-4485-88d4-7fe4e702c387",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.8,
+            102.6
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 963,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "PAILIN              ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure",
+            "unit": "Pa",
+            "size": 6,
+            "value": "100550"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "fee79bd6-6549-4310-9232-59b8fa66151a",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.8,
+            102.6
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 963,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "PAILIN              ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure_at_sea_level",
+            "unit": "Pa",
+            "size": 6,
+            "value": "102820"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "3ae007b4-7e4b-4335-9726-196933776130",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.8,
+            102.6
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 963,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "PAILIN              ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "301.45"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "193d485c-ed18-4450-ba0c-edb2de7e6452",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.8,
+            102.6
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 963,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "PAILIN              ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "295.95"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "3b279ceb-f0ea-481a-9adb-880654799da0",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.8,
+            102.6
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 963,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "PAILIN              ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "deg",
+            "size": 3,
+            "value": "280"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "39eeb29a-b51e-475f-a923-de164df9e92e",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.8,
+            102.6
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 963,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "PAILIN              ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "m/s",
+            "size": 1,
+            "value": "2"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "87541223-3a0d-4752-b27d-1a73affdcd76",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": "null",
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 987,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "                    ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure",
+            "unit": "Pa",
+            "size": 6,
+            "value": "100470"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "d5ec1aff-2073-47c5-909c-a060a4a92ea4",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": "null",
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 987,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "                    ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure_at_sea_level",
+            "unit": "Pa",
+            "size": 6,
+            "value": "100620"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "34d9e5ae-099b-4ad3-96e2-e481a91d3e63",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": "null",
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 987,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "                    ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "298.55"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "3456a463-eead-435c-bd01-209343554f43",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": "null",
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 987,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "                    ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "298.45"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "b3b0b417-7132-47a2-a4a3-246902826476",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": "null",
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 987,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "                    ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "deg",
+            "size": 3,
+            "value": "260"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "3d4b4643-6d4a-430e-ae38-f2c604df6c9e",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": "null",
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 987,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "                    ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "m/s",
+            "size": 1,
+            "value": "0"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "2c332e90-7e28-4aba-9e34-7adf497ea7ce",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.18694,
+            103.5141,
+            23.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 961,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "ODDAR_MEANCHEY      ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure",
+            "unit": "Pa",
+            "size": 6,
+            "value": "100580"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "ec055153-326a-4d56-8fbb-19e3e422db51",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.18694,
+            103.5141,
+            23.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 961,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "ODDAR_MEANCHEY      ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure_at_sea_level",
+            "unit": "Pa",
+            "size": 6,
+            "value": "101130"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "cd749559-e147-4110-a48a-833441aa702a",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.18694,
+            103.5141,
+            23.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 961,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "ODDAR_MEANCHEY      ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "298.85"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "682442da-aaa9-4536-9705-6cca7d77c8e6",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.18694,
+            103.5141,
+            23.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 961,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "ODDAR_MEANCHEY      ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "298.85"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "85e5b139-dda4-4582-83b5-bc711cef3116",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.18694,
+            103.5141,
+            23.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 961,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "ODDAR_MEANCHEY      ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "deg",
+            "size": 3,
+            "value": "120"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "b9637177-aa4a-41d3-b47c-31844738b435",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.18694,
+            103.5141,
+            23.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 961,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "ODDAR_MEANCHEY      ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "m/s",
+            "size": 1,
+            "value": "0"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "36cc3b08-8a3c-4206-8ce2-8d5a36ccc7fc",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.84988,
+            103.7981,
+            15.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 976,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "VARIN               ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure",
+            "unit": "Pa",
+            "size": 6,
+            "value": "100050"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "397f45c1-0521-410a-8395-9c8218d91229",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.84988,
+            103.7981,
+            15.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 976,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "VARIN               ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_pressure_at_sea_level",
+            "unit": "Pa",
+            "size": 6,
+            "value": "100600"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "f95efd34-c17c-4032-9e93-b0725f7c5029",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.84988,
+            103.7981,
+            15.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 976,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "VARIN               ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "298.75"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "c3017f3b-fddf-4005-ba0f-e27ee0412e03",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.84988,
+            103.7981,
+            15.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 976,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "VARIN               ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "air_temperature",
+            "unit": "K",
+            "size": 6,
+            "value": "298.75"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "80b5061c-1cf1-4926-bc29-27b1f5de0765",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.84988,
+            103.7981,
+            15.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 976,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "VARIN               ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_speed",
+            "unit": "deg",
+            "size": 3,
+            "value": "220"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
+}{
+    "id": "97cd9ebe-60a2-4a0c-ac3e-d5f9d7f93ad8",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.84988,
+            103.7981,
+            15.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "station_id": {
+            "1001": {
+                "value": 48,
+                "wmo_element_name": "WMO BLOCK NUMBER"
+            },
+            "1002": {
+                "value": 976,
+                "wmo_element_name": "WMO STATION NUMBER"
+            },
+            "1015": {
+                "value": "VARIN               ",
+                "wmo_element_name": "STATION OR SITE NAME"
+            }
+        },
+        "datetime": "2023-07-20T00:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "wind_from_direction",
+            "unit": "m/s",
+            "size": 1,
+            "value": "0"
+        },
+        "pubtime": "2023-09-18T07:33:40.000000"
+    }
 }
