@@ -40,7 +40,9 @@
 				"creator_url",
 				"creator_email",
 				"license",
-				"access_constraint"
+				"access_constraint",
+				"platform",
+				"platform_vocabulary"
 			]
 		}
 	},
