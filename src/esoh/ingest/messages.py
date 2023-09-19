@@ -32,5 +32,4 @@ def load_files(file: str, input_type: str, uuid_prefix: str):
     match input_type:
         case "netCDF":
             ds = xr.load_dataset(file)
-            build_message(ds, input_type, uuid_prefix)
-            return
+            return build_message(ds, input_type, uuid_prefix)
