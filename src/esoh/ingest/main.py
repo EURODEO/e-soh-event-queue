@@ -38,9 +38,8 @@ class ingest_to_pipline():
                                          input_type=input_type,
                                          uuid_prefix=self.uuid_prefix)
                 else:
-                    raise TypeError(
-                        "Unknown netCDF type, expected path or xarray.Dataset"
-                        + f", got {type(message)}")
+                    raise TypeError("Unknown netCDF type, expected path"
+                                    + f"or xarray.Dataset, got {type(message)}")
             case "bufr":
                 raise NotImplementedError("Handeling of bufr not implemented")
 
