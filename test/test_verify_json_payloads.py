@@ -1,5 +1,6 @@
 from esoh.ingest.main import ingest_to_pipeline
 
+from esoh.ingest.main import ingest_to_pipline
 
 import pytest
 import glob
