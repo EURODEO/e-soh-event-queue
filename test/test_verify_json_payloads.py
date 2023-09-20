@@ -1,6 +1,3 @@
-from esoh.ingest.netCDF.extract_metadata_netcdf import build_all_json_payloads_from_netCDF
-from esoh.ingest.netCDF.mapper import mapper
-
 from esoh.ingest.main import ingest_to_pipline
 
 import pytest
