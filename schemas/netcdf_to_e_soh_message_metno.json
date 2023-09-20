@@ -34,6 +34,7 @@
 				"Conventions",
 				"history",
 				"keywords",
+				"keywords_vocabulary",
 				"summary",
 				"source",
 				"creator_name",
@@ -42,7 +43,8 @@
 				"license",
 				"access_constraint",
 				"platform",
-				"platform_vocabulary"
+				"platform_vocabulary",
+				"naming_authority"
 			]
 		}
 	},

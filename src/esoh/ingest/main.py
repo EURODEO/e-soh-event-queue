@@ -11,10 +11,13 @@ class ingest_to_pipline():
     Should accept paths or objects to pass on to the datastore and mqtt broker.
     """
 
-    def __init__(self, mqtt_conf: dict, uuid_prefix: str):
-        self.mqtt = mqtt_connection(mqtt_conf["host"], mqtt_conf["topic"])
-
+    def __init__(self, mqtt_conf: dict, uuid_prefix: str, testing: bool = False):
         self.uuid_prefix = uuid_prefix
+
+        if testing:
+            return
+
+        self.mqtt = mqtt_connection(mqtt_conf["host"], mqtt_conf["topic"])
 
     def ingest_message(self, message: [str, object], input_type: str = None):
         if not input_type:
@@ -31,7 +34,7 @@ class ingest_to_pipline():
                 if isinstance(message, str):
                     return load_files(message, input_type=input_type, uuid_prefix=self.uuid_prefix)
                 elif isinstance(message, xr.Dataset):
-                    return build_message(message, type=input_type, uuid_prefix=self.uuid_prefix)
+                    return build_message(message, input_type=input_type, uuid_prefix=self.uuid_prefix)
                 else:
                     raise TypeError(
                         f"Unknown netCDF type, expected path or xarray.Dataset, got {type(message)}")

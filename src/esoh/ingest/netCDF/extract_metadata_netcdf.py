@@ -7,6 +7,8 @@ import uuid
 import json
 import copy
 
+from esoh.ingest.netCDF.mapper import mapper
+
 
 def get_attrs(ds: xr.Dataset, var: str):
     """
@@ -140,7 +142,6 @@ def create_json_from_netcdf_metdata(ds: xr.Dataset, map_netcdf: dict) -> str:
 
 
 def build_all_json_payloads_from_netCDF(ds: xr.Dataset,
-                                        mapping_json: dict,
                                         timediff: np.timedelta64 = np.timedelta64(1, "D"))\
         -> list[str]:
     """
@@ -206,6 +207,9 @@ def build_all_json_payloads_from_netCDF(ds: xr.Dataset,
     }
     ```
     """
+
+    mapping_json = mapper()(ds.attrs["institution"])
+
     json_msg = create_json_from_netcdf_metdata(ds, mapping_json)
 
     json_msg = json.loads(json_msg)

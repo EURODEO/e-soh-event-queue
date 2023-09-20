@@ -4,11 +4,12 @@ import xarray as xr
 
 import uuid
 
+from esoh.ingest.netCDF.extract_metadata_netcdf import build_all_json_payloads_from_netCDF
+
 
 def build_message(file: [object], input_type: str, uuid_prefix: str):
     match input_type:
         case "netCDF":
-            from ingest.netCDF.extract_metadata_netcdf import build_all_json_payloads_from_netCDF
             unfinnished_messages = build_all_json_payloads_from_netCDF(file)
 
             # Set message publication time in RFC3339 format
