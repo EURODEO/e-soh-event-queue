@@ -34,3 +34,15 @@ def load_files(file: str, input_type: str, uuid_prefix: str):
         case "netCDF":
             ds = xr.load_dataset(file)
             return build_message(ds, input_type, uuid_prefix)
+
+
+def messages(message, input_type, uuid_prefix):
+    if isinstance(message, str):
+        return load_files(message, input_type=input_type, uuid_prefix=uuid_prefix)
+    elif isinstance(message, xr.Dataset):
+        return build_message(message,
+                             input_type=input_type,
+                             uuid_prefix=uuid_prefix)
+    else:
+        raise TypeError("Unknown netCDF type, expected path"
+                        + f"or xarray.Dataset, got {type(message)}")
