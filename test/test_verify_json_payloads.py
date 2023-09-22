@@ -1,4 +1,4 @@
-from esoh.ingest.main import ingest_to_pipline
+from esoh.ingest.main import ingest_to_pipeline
 
 import pytest
 import glob
@@ -17,7 +17,7 @@ def test_verify_json_payload_metno_netcdf(netcdf_file_path):
 
     ds = xr.load_dataset(netcdf_file_path)
 
-    msg_build = ingest_to_pipline(None, "testing", testing=True)
+    msg_build = ingest_to_pipeline(None, "testing", testing=True)
 
     json_payloads = msg_build.build_messages(ds, input_type="netCDF")
 
@@ -32,7 +32,7 @@ def test_verify_json_payload_knmi_netcdf(netcdf_file_path):
 
     ds = xr.load_dataset(netcdf_file_path)
 
-    msg_build = ingest_to_pipline(None, "testing", testing=True)
+    msg_build = ingest_to_pipeline(None, "testing", testing=True)
 
     json_payloads = msg_build.build_messages(ds, input_type="netCDF")
 

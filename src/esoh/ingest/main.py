@@ -5,7 +5,7 @@ from esoh.ingest.messages import load_files, build_message
 import xarray as xr
 
 
-class ingest_to_pipline():
+class ingest_to_pipeline():
     """
     This class should be the main interaction with this python package.
     Should accept paths or objects to pass on to the datastore and mqtt broker.
