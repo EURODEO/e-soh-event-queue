@@ -1,4 +1,4 @@
-from esoh.ingest.main import ingest_to_pipline
+from esoh.ingest.main import ingest_to_pipeline
 
 import pytest
 import glob
