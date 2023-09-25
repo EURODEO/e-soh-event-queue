@@ -1,5 +1,5 @@
 {
-    "id": "cb73a11c-0a52-41ea-8dbb-2655a827d356",
+    "id": "3698993e-a646-4253-9eef-032e0cbe84d1",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -13,11 +13,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "state_identifier": "NORWAY",
-            "national_station_number": 96890,
-            "station_or_site_name": "KORGAASEN"
-        },
         "datetime": "2023-08-23T00:00:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -26,10 +21,11 @@
             "size": 5,
             "value": "96460"
         },
-        "pubtime": "2023-09-18T13:11:59.000000"
+        "pubtime": "2023-09-25T13:45:50.000000",
+        "platform_name": "KORGAASEN"
     }
 }{
-    "id": "728cf8dd-290c-4971-8537-81fdefc730b9",
+    "id": "b0fb7673-c635-4b0c-9889-613279cf29cd",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -43,23 +39,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "state_identifier": "NORWAY",
-            "national_station_number": 96890,
-            "station_or_site_name": "KORGAASEN"
-        },
         "datetime": "2023-08-23T00:00:00.000000",
         "content": {
             "encoding": "utf-8",
-            "standard_name": "air_pressure_at_sea_level",
+            "standard_name": "air_pressure_at_mean_sea_level",
             "unit": "Pa",
             "size": 6,
             "value": "101480"
         },
-        "pubtime": "2023-09-18T13:11:59.000000"
+        "pubtime": "2023-09-25T13:45:50.000000",
+        "platform_name": "KORGAASEN"
     }
 }{
-    "id": "c2e3d6fa-3f03-41fb-b6c7-2012d3d00203",
+    "id": "83202637-7306-452f-bcfc-c21b578b7653",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -73,11 +65,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "state_identifier": "NORWAY",
-            "national_station_number": 96890,
-            "station_or_site_name": "KORGAASEN"
-        },
         "datetime": "2023-08-23T00:00:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -86,10 +73,11 @@
             "size": 6,
             "value": "279.15"
         },
-        "pubtime": "2023-09-18T13:11:59.000000"
+        "pubtime": "2023-09-25T13:45:50.000000",
+        "platform_name": "KORGAASEN"
     }
 }{
-    "id": "99f8191d-19a0-4c0c-907c-003cffe6bd25",
+    "id": "6f58c879-7773-4a3c-ab06-1dc8a7093865",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -103,23 +91,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "state_identifier": "NORWAY",
-            "national_station_number": 96890,
-            "station_or_site_name": "KORGAASEN"
-        },
         "datetime": "2023-08-23T00:00:00.000000",
         "content": {
             "encoding": "utf-8",
-            "standard_name": "air_temperature",
+            "standard_name": "dew_point_temperature",
             "unit": "K",
             "size": 6,
             "value": "277.48"
         },
-        "pubtime": "2023-09-18T13:11:59.000000"
+        "pubtime": "2023-09-25T13:45:50.000000",
+        "platform_name": "KORGAASEN"
     }
 }{
-    "id": "eb968504-6698-4a2c-a072-e1ecd7ae1a5c",
+    "id": "6ce5b67c-387d-43a3-bfb8-d62876253b33",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -133,23 +117,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "state_identifier": "NORWAY",
-            "national_station_number": 96890,
-            "station_or_site_name": "KORGAASEN"
-        },
         "datetime": "2023-08-23T00:00:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "relative_humidity",
-            "unit": "%",
+            "unit": "1",
             "size": 2,
             "value": "89"
         },
-        "pubtime": "2023-09-18T13:11:59.000000"
+        "pubtime": "2023-09-25T13:45:50.000000",
+        "platform_name": "KORGAASEN"
     }
 }{
-    "id": "0a15f348-3ccd-4c4a-8e05-d6375c5fd059",
+    "id": "0628144d-c04a-4878-93e3-8144a91acf97",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -163,23 +143,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "state_identifier": "NORWAY",
-            "national_station_number": 96890,
-            "station_or_site_name": "KORGAASEN"
-        },
         "datetime": "2023-08-23T00:00:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 3,
             "value": "116"
         },
-        "pubtime": "2023-09-18T13:11:59.000000"
+        "pubtime": "2023-09-25T13:45:50.000000",
+        "platform_name": "KORGAASEN"
     }
 }{
-    "id": "c688d057-1d4e-433e-8d8e-92bf75651b08",
+    "id": "955cc6fa-da44-4903-982b-79d8cd78ad99",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -193,19 +169,42 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "state_identifier": "NORWAY",
-            "national_station_number": 96890,
-            "station_or_site_name": "KORGAASEN"
-        },
         "datetime": "2023-08-23T00:00:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "3.3"
         },
-        "pubtime": "2023-09-18T13:11:59.000000"
+        "pubtime": "2023-09-25T13:45:50.000000",
+        "platform_name": "KORGAASEN"
+    }
+}{
+    "id": "78851551-92e0-4894-89f3-2e7996bd0336",
+    "version": "v04",
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            69.9363,
+            28.3773,
+            418.0
+        ]
+    },
+    "properties": {
+        "data_id": "data_id",
+        "metadata_id": "metatata_id",
+        "start_datetime": "2023-08-22T23:00:00.000000",
+        "content": {
+            "encoding": "utf-8",
+            "standard_name": "integral_wrt_time_of_surface_downwelling_longwave_flux_in_air",
+            "unit": "W s m-2",
+            "size": 9,
+            "value": "1.234e+06"
+        },
+        "pubtime": "2023-09-25T13:45:50.000000",
+        "platform_name": "KORGAASEN",
+        "end_datetime": "2023-08-23T00:00:00.000000"
     }
 }

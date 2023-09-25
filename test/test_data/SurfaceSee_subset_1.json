@@ -1,5 +1,5 @@
 {
-    "id": "b80c265c-52b2-4e0e-a5af-b940ff680d2e",
+    "id": "ba6fd020-d7b9-4d34-b0b2-4ee3a2b558e7",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -12,10 +12,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wmo_marine_observing_platform_extended_identifier": 6200103,
-            "station_or_site_name": "Channel"
-        },
         "datetime": "2023-08-23T00:02:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -24,10 +20,11 @@
             "size": 6,
             "value": "102100"
         },
-        "pubtime": "2023-09-18T13:16:17.000000"
+        "pubtime": "2023-09-25T13:45:52.000000",
+        "platform_name": "Channel"
     }
 }{
-    "id": "4aa10dcf-4be0-4406-89bf-c7978c60fb9a",
+    "id": "c664612b-d359-4497-b1ba-a8a1e14d253e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -40,22 +37,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wmo_marine_observing_platform_extended_identifier": 6200103,
-            "station_or_site_name": "Channel"
-        },
         "datetime": "2023-08-23T00:02:00.000000",
         "content": {
             "encoding": "utf-8",
-            "standard_name": "air_pressure_at_sea_level",
+            "standard_name": "air_pressure_at_mean_sea_level",
             "unit": "Pa",
             "size": 6,
             "value": "102120"
         },
-        "pubtime": "2023-09-18T13:16:17.000000"
+        "pubtime": "2023-09-25T13:45:52.000000",
+        "platform_name": "Channel"
     }
 }{
-    "id": "fab5034a-f98b-4bb5-88e4-50583e6f7b09",
+    "id": "ec6aa64b-6ebe-49d4-b115-4848cef90d56",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -68,10 +62,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wmo_marine_observing_platform_extended_identifier": 6200103,
-            "station_or_site_name": "Channel"
-        },
         "datetime": "2023-08-23T00:02:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -80,10 +70,11 @@
             "size": 6,
             "value": "290.15"
         },
-        "pubtime": "2023-09-18T13:16:17.000000"
+        "pubtime": "2023-09-25T13:45:52.000000",
+        "platform_name": "Channel"
     }
 }{
-    "id": "852d23a0-6a0a-4590-8ed9-8a726d820738",
+    "id": "b7e37785-3ee7-4f8e-bca7-bbf534d8a316",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -96,22 +87,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wmo_marine_observing_platform_extended_identifier": 6200103,
-            "station_or_site_name": "Channel"
-        },
         "datetime": "2023-08-23T00:02:00.000000",
         "content": {
             "encoding": "utf-8",
-            "standard_name": "air_temperature",
+            "standard_name": "dew_point_temperature",
             "unit": "K",
             "size": 6,
             "value": "289.28"
         },
-        "pubtime": "2023-09-18T13:16:17.000000"
+        "pubtime": "2023-09-25T13:45:52.000000",
+        "platform_name": "Channel"
     }
 }{
-    "id": "9e793b02-32f7-41c8-8d54-5b367b6bd450",
+    "id": "2902358e-d1df-41aa-a730-16c11cf1029e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -124,22 +112,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wmo_marine_observing_platform_extended_identifier": 6200103,
-            "station_or_site_name": "Channel"
-        },
         "datetime": "2023-08-23T00:02:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "relative_humidity",
-            "unit": "%",
+            "unit": "1",
             "size": 2,
             "value": "95"
         },
-        "pubtime": "2023-09-18T13:16:17.000000"
+        "pubtime": "2023-09-25T13:45:52.000000",
+        "platform_name": "Channel"
     }
 }{
-    "id": "ba931b76-f7bf-41b6-8353-81005e10a36c",
+    "id": "28d7924d-c6e6-4b22-974c-c4c708da2369",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -152,22 +137,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wmo_marine_observing_platform_extended_identifier": 6200103,
-            "station_or_site_name": "Channel"
-        },
         "datetime": "2023-08-23T00:02:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 3,
             "value": "286"
         },
-        "pubtime": "2023-09-18T13:16:17.000000"
+        "pubtime": "2023-09-25T13:45:52.000000",
+        "platform_name": "Channel"
     }
 }{
-    "id": "ea5d9443-0f42-4ebc-bacc-f059a79b2a86",
+    "id": "7d33594d-c04e-4394-9a67-6338bf9e3260",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -180,18 +162,15 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wmo_marine_observing_platform_extended_identifier": 6200103,
-            "station_or_site_name": "Channel"
-        },
         "datetime": "2023-08-23T00:02:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "2.4"
         },
-        "pubtime": "2023-09-18T13:16:17.000000"
+        "pubtime": "2023-09-25T13:45:52.000000",
+        "platform_name": "Channel"
     }
 }

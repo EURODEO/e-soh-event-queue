@@ -1,5 +1,5 @@
 {
-    "id": "7b4926a1-61bb-4318-9258-1a3a0c0b290f",
+    "id": "93b8c90f-f9ff-487f-a92a-e52720fb5f14",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -13,27 +13,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:39:41.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 3,
             "value": "289"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "ca95ea8b-60ec-44b0-b906-902666efa0ff",
+    "id": "8d360546-7fcc-4399-b80a-43a010d8966b",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -47,27 +39,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:39:41.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "4.1"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "08dfc9ca-131e-495c-af6c-84c5ec39039f",
+    "id": "2c3c36f0-c6ad-4a1b-a6f8-d983515dfdb3",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -81,15 +65,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:39:41.000000",
         "content": {
             "encoding": "utf-8",
@@ -98,10 +73,11 @@
             "size": 6,
             "value": "302.45"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "667f72f9-8c01-4382-974e-6f11a6c20856",
+    "id": "815838e8-ebd5-448f-8449-bd5dbcece4bc",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -115,27 +91,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:39:19.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 3,
             "value": "283"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "d9402c33-59ea-4890-9a06-3da6a43f2a55",
+    "id": "2bc5c0e1-d52d-47c1-8621-267562621787",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -149,27 +117,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:39:19.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "4.1"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "5c095661-25db-4a39-a1e4-1b33329af68a",
+    "id": "f0d94d1f-08ff-4a50-8d47-3a3e5f4ad776",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -183,15 +143,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:39:19.000000",
         "content": {
             "encoding": "utf-8",
@@ -200,10 +151,11 @@
             "size": 6,
             "value": "301.95"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "4b2fb38f-abd6-4a12-a794-2f4807c1d308",
+    "id": "71620b04-f656-4f30-a4d7-c212d795b24c",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -217,27 +169,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:32:31.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 3,
             "value": "272"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "3977cb65-ed13-41e5-be77-80c10d376f5f",
+    "id": "ede9bc72-3bc7-4e75-8b38-f218463f8fcb",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -251,27 +195,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:32:31.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "7.7"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "7d7faf20-4526-4c76-acf3-17845b9320ae",
+    "id": "0c21ce56-bba8-482c-9587-305bf6b6a1c7",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -285,15 +221,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:32:31.000000",
         "content": {
             "encoding": "utf-8",
@@ -302,10 +229,11 @@
             "size": 6,
             "value": "288.95"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "fde22564-d093-4620-9ea8-a90d51fb2094",
+    "id": "2f0ee5b6-cea2-4c19-b8eb-894e2f1cc2ac",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -319,27 +247,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:30:34.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 3,
             "value": "289"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "1319da9c-69a5-41ad-9b90-e336af53afac",
+    "id": "55896dd1-578e-464c-988f-e836fea11fb8",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -353,27 +273,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:30:34.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "4.6"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "282e6325-29e7-4427-a2bb-f9c29fc56365",
+    "id": "01e8c7ac-478c-43a6-a8a3-9b3740435161",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -387,15 +299,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:30:34.000000",
         "content": {
             "encoding": "utf-8",
@@ -404,10 +307,11 @@
             "size": 6,
             "value": "284.04"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "3fcce771-3cf8-4577-819c-fe45df1b55a5",
+    "id": "3761d996-8d84-4a01-93f9-c96f56bd03db",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -421,27 +325,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:29:42.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 3,
             "value": "259"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "a50b67bc-937c-47eb-aaf9-9f51df5ce861",
+    "id": "259260dc-2c70-446b-bea1-0e9372ff5f09",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -455,27 +351,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:29:42.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 1,
             "value": "3"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "e887db59-02fb-4231-9cff-07f5ee4602b4",
+    "id": "42614fb8-dfc6-45e9-9157-b03091f16c46",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -489,15 +377,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:29:42.000000",
         "content": {
             "encoding": "utf-8",
@@ -506,10 +385,11 @@
             "size": 6,
             "value": "280.75"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "cf5d40a0-6278-47d0-8347-9235d09133be",
+    "id": "a53259c7-56d2-4836-9d83-f5ffbcb173e9",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -523,27 +403,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:29:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 3,
             "value": "226"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "dc0b6c95-6123-49ae-b7ae-c009e15fcb62",
+    "id": "ca71b1af-5b08-43b0-baea-b1ff262c42ac",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -557,27 +429,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:29:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "5.6"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "b52b4417-67a6-4883-af7a-e44a9d701b80",
+    "id": "76ab9308-aa3d-483d-8419-153d5551a6a7",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -591,15 +455,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:29:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -608,10 +463,11 @@
             "size": 6,
             "value": "275.95"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "b4e94ea1-9ba8-4039-a7a3-4b5b499aeedc",
+    "id": "ef0cf06b-34b9-4187-bb26-ef8f2247e3a4",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -625,27 +481,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:27:04.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 3,
             "value": "158"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "a5fa7e38-6e66-459d-ac1b-78a6f1d42dee",
+    "id": "a648f8f5-12ba-4767-9a50-c46191c7fb89",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -659,27 +507,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:27:04.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 1,
             "value": "3"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "c0e78d11-cfee-4132-9f8a-1cd7546dfa13",
+    "id": "7fd19fec-9d05-4575-a168-8958b570b21a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -693,15 +533,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:27:04.000000",
         "content": {
             "encoding": "utf-8",
@@ -710,10 +541,11 @@
             "size": 6,
             "value": "272.95"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "608b37b8-4dc7-4b6d-8fac-ef52fc1545ef",
+    "id": "7160942d-04a2-4d22-972e-38fc4ccb83c3",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -727,27 +559,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:25:52.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "93"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "314e7f68-050a-41f9-8da0-84fef2655b0a",
+    "id": "bfb5e024-c4de-4dfe-8e31-f0d4de274064",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -761,27 +585,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:25:52.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "4.6"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "45508f96-a6da-4a2a-94ad-fbf271add6d5",
+    "id": "460a7853-599c-44e3-b6db-8ef39c41e733",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -795,15 +611,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:25:52.000000",
         "content": {
             "encoding": "utf-8",
@@ -812,10 +619,11 @@
             "size": 6,
             "value": "269.54"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "227bb33a-794f-4c4f-ad65-30218c04f451",
+    "id": "76f25d3a-2940-4064-a5fa-729b919cd12f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -829,27 +637,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:24:36.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 3,
             "value": "105"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "4c90e59b-5c8b-4fe3-bfff-9fb1d63c3273",
+    "id": "37e98a69-d57b-4662-9a62-7ffe79fc5873",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -863,27 +663,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:24:36.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "7.2"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "2369fd04-b4a1-4ac4-9d43-22e04244f7be",
+    "id": "3d47c981-f241-47ed-a650-2014d5ce0f95",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -897,15 +689,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:24:36.000000",
         "content": {
             "encoding": "utf-8",
@@ -914,10 +697,11 @@
             "size": 6,
             "value": "263.45"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "321044de-c62f-4ce5-9f1a-50f58bbb9317",
+    "id": "9fe8e77b-98ee-43bc-bfcb-3e619880ef75",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -931,27 +715,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:23:10.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 3,
             "value": "113"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "4a1928ec-79a1-4584-adcb-447ce4c2b50b",
+    "id": "7253efd9-93a7-4527-a8e9-6862aa78ddfe",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -965,27 +741,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:23:10.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "6.6"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "ee8ee828-38c2-46f3-9cc1-340817a9ce24",
+    "id": "b2086674-fb0b-4092-99e2-f33bc2e99acc",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -999,15 +767,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:23:10.000000",
         "content": {
             "encoding": "utf-8",
@@ -1016,10 +775,11 @@
             "size": 6,
             "value": "258.04"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "941520d2-43b2-402c-ab2a-9492346137e1",
+    "id": "8d9d8f3f-c741-468e-bf97-4770fa7d4628",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1033,27 +793,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:21:36.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "91"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "b151b9dd-abac-4652-837f-6f4824d65515",
+    "id": "37cec087-cdac-4e6e-b9c1-fe4310e60739",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1067,27 +819,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:21:36.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 4,
             "value": "10.8"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "fe987c2b-fdc5-40ac-9161-cfd9aac16aed",
+    "id": "923ae072-df91-4db8-8da3-c101c4f7b0fb",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1101,15 +845,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:21:36.000000",
         "content": {
             "encoding": "utf-8",
@@ -1118,10 +853,11 @@
             "size": 6,
             "value": "252.45"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "e11eb051-7572-4032-9f4c-41ffe3f83d85",
+    "id": "67967ddb-6c28-4bbc-8e7f-8f13065a07a0",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1135,27 +871,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:19:48.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 3,
             "value": "103"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "56c24599-4879-4b96-aeda-b1ef5398457d",
+    "id": "8508592d-e4e1-435d-a772-d2bac450eb55",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1169,27 +897,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:19:48.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 4,
             "value": "13.3"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "ae1bf7d3-5d2d-44c4-aee3-bc3a45910e2b",
+    "id": "151d423e-1a3b-4f07-a9e1-eb2adccffdfb",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1203,15 +923,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:19:48.000000",
         "content": {
             "encoding": "utf-8",
@@ -1220,10 +931,11 @@
             "size": 6,
             "value": "243.55"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "d7159912-2392-467a-9f98-e5c282f5a9e0",
+    "id": "5cf7ed5a-6a96-4a25-9e6d-883a06f8bfa2",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1237,27 +949,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:17:49.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "93"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "67885271-d8ef-4a7a-8268-bb68aa20de83",
+    "id": "925beb05-1a51-456d-af88-12cd3c7d8993",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1271,27 +975,19 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:17:49.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 2,
             "value": "19"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }{
-    "id": "2d666d71-3ace-4c39-a031-d82b85cc6d93",
+    "id": "57f706aa-38e2-4665-b047-d64af89bb310",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1305,15 +1001,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "wigos_identifier_series": 0,
-            "wigos_issuer_of_identifier": 20005,
-            "wigos_issue_number": 0,
-            "wigos_local_identifier_(character)": "EU8180",
-            "aircraft_registration_number_or_other_identification": "EU8180",
-            "origination_airport": "",
-            "destination_airport": "MLE"
-        },
         "datetime": "2023-08-23T04:17:49.000000",
         "content": {
             "encoding": "utf-8",
@@ -1322,6 +1009,7 @@
             "size": 6,
             "value": "231.95"
         },
-        "pubtime": "2023-09-18T13:21:54.000000"
+        "pubtime": "2023-09-25T13:45:54.000000",
+        "platform": "0-20005-0-EU8180"
     }
 }

@@ -1,5 +1,5 @@
 {
-    "id": "7ae84183-3709-4741-bf26-462b5dd356b5",
+    "id": "d1319fcd-904e-497b-b1f5-e6182b4d8b8a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -12,10 +12,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46059",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -24,10 +20,10 @@
             "size": 6,
             "value": "102110"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "2ed94c7f-75fa-4e8b-bc9b-6fe85bce23f4",
+    "id": "073863de-5f00-4b00-b401-8b1111e4ae75",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -40,22 +36,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46059",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
-            "standard_name": "air_pressure_at_sea_level",
+            "standard_name": "air_pressure_at_mean_sea_level",
             "unit": "Pa",
             "size": 6,
             "value": "102140"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "3f791ca1-d7b4-42df-af5b-c40c5faae18f",
+    "id": "1026e747-f472-4cb7-864c-6b2788a201d4",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -68,10 +60,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46059",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -80,10 +68,10 @@
             "size": 6,
             "value": "292.55"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "1d9629e5-ec98-40ef-8525-cfcf347bb7fa",
+    "id": "0b132549-cf61-4ebb-ab4b-8ffdf8290451",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -96,22 +84,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46059",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
-            "standard_name": "air_temperature",
+            "standard_name": "dew_point_temperature",
             "unit": "K",
             "size": 6,
             "value": "287.65"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "15419f9e-1730-432c-82d8-6daf4162e600",
+    "id": "77bdfef6-835c-4cbf-8032-1ca3d87fbf7b",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -124,10 +108,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46059",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -136,10 +116,10 @@
             "size": 6,
             "value": "293.35"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "de5efe47-78d0-4e43-830b-a2758231a6ff",
+    "id": "6120dbb3-95aa-42c4-9948-3a649b7cdc78",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -152,22 +132,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46059",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "20"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "a202a548-383e-45b4-865f-fe8c2f5d5a42",
+    "id": "915fb10b-2893-4586-bf85-86f743d99b3f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -180,22 +156,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46059",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 1,
             "value": "7"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "00554a44-c3f1-4437-bd16-1de9c8e23f28",
+    "id": "a99132be-36a6-4c9f-bf73-52af3f3f52d1",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -208,10 +180,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "51209",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:26:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -220,10 +188,10 @@
             "size": 6,
             "value": "301.45"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "aae6310c-4825-4be4-bae5-06513547a84a",
+    "id": "6b2ff67f-b8c0-4e6e-88b1-51a956eaff3e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -236,10 +204,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46089",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:20:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -248,10 +212,10 @@
             "size": 6,
             "value": "101840"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "d216d715-79d4-4e33-b3e6-2ab7fb72a8c1",
+    "id": "d45945b9-019a-4967-809b-1b3454c65102",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -264,22 +228,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46089",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:20:00.000000",
         "content": {
             "encoding": "utf-8",
-            "standard_name": "air_pressure_at_sea_level",
+            "standard_name": "air_pressure_at_mean_sea_level",
             "unit": "Pa",
             "size": 6,
             "value": "101870"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "a1d97af9-9c95-4a13-9ef2-d4519348b6e8",
+    "id": "a7ed3208-96af-4281-9954-b6540e167d63",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -292,10 +252,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46089",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:20:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -304,10 +260,10 @@
             "size": 6,
             "value": "290.75"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "d2953b6a-910d-4c3d-ac3d-f39e894ad655",
+    "id": "b7f2f6ca-28ec-4a75-b69d-de9d51e29781",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -320,10 +276,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46089",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:20:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -332,10 +284,10 @@
             "size": 6,
             "value": "291.45"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "eb951be4-0d56-4445-ab93-a64f053afcae",
+    "id": "49d82ec2-0016-4f11-a523-b0f1962004d6",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -348,22 +300,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46089",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:20:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 3,
             "value": "300"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "f0d0f29c-72ee-499c-bf77-90956bd22f31",
+    "id": "27b67717-e9ed-46ed-9143-46d3bb10ace3",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -376,22 +324,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46089",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:20:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 1,
             "value": "6"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "0c3cf447-1748-4723-b1f8-ecdfdd5cf00e",
+    "id": "336631c4-3bce-4ebd-a70c-1fc908b82463",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -404,10 +348,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46089",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -416,10 +356,10 @@
             "size": 6,
             "value": "101860"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "3998f786-9047-424c-92ae-9a885af318f7",
+    "id": "9aec25e5-4476-4fbf-b76e-e3b6b0cd5126",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -432,22 +372,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46089",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
-            "standard_name": "air_pressure_at_sea_level",
+            "standard_name": "air_pressure_at_mean_sea_level",
             "unit": "Pa",
             "size": 6,
             "value": "101890"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "e2066d16-a0f2-46ea-9ad2-5e54b2e54c59",
+    "id": "650bd94d-ebf7-4d45-9986-0b314f14097c",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -460,10 +396,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46089",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -472,10 +404,10 @@
             "size": 6,
             "value": "290.75"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "90dc909c-df71-4e0e-aff7-a0cc7e7d31bc",
+    "id": "a44df83d-10cc-4692-ac11-1e57b253150a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -488,10 +420,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46089",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -500,10 +428,10 @@
             "size": 6,
             "value": "291.45"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "e217becf-9f3d-406d-9b06-3f4771555290",
+    "id": "7a099458-3ce8-436e-8242-45f544fbac18",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -516,22 +444,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46089",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 3,
             "value": "300"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "821d84c1-3a38-469d-b438-654f8b5c6b65",
+    "id": "37efcbe5-40ff-4a94-88a5-019ecdae7086",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -544,22 +468,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46089",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 1,
             "value": "6"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "b2172903-d852-47ee-9db5-c0a8d3dd81fb",
+    "id": "ed70c6dd-87f9-4fa7-9382-74753a305026",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -572,10 +492,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46047",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:20:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -584,10 +500,10 @@
             "size": 6,
             "value": "101380"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "c7275bda-b9f5-4587-8476-2a9fa5f5be95",
+    "id": "5c381c8b-fd07-433b-84b2-5b8db2f57095",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -600,22 +516,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46047",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:20:00.000000",
         "content": {
             "encoding": "utf-8",
-            "standard_name": "air_pressure_at_sea_level",
+            "standard_name": "air_pressure_at_mean_sea_level",
             "unit": "Pa",
             "size": 6,
             "value": "101410"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "845b7b7f-94c0-4aeb-b443-231b744eb9e0",
+    "id": "ea352f73-51f6-4a81-a86d-324320db913a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -628,10 +540,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46047",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:20:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -640,10 +548,10 @@
             "size": 6,
             "value": "292.55"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "9894e364-b6ff-4053-9e3f-fd674f5a2f8a",
+    "id": "f55c06c0-0f13-44dc-8a69-0b44179778cc",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -656,22 +564,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46047",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:20:00.000000",
         "content": {
             "encoding": "utf-8",
-            "standard_name": "air_temperature",
+            "standard_name": "dew_point_temperature",
             "unit": "K",
             "size": 6,
             "value": "291.65"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "34134192-b07c-47d1-b8f8-b50168d4924e",
+    "id": "a303e4c7-f23c-4b20-be2d-b0dbda602a08",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -684,10 +588,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46047",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:20:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -696,10 +596,10 @@
             "size": 6,
             "value": "293.95"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "153b7474-a846-410a-807f-3829772c100e",
+    "id": "23a10bec-6097-4a21-b02a-9c02a7cf7a34",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -712,22 +612,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46047",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:20:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 3,
             "value": "310"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "50d5d27f-7b5b-4a8f-aa44-ab0c312d9cfc",
+    "id": "4bc1532b-c890-4ea1-ad96-dbd30dadd6b1",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -740,22 +636,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46047",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:20:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 1,
             "value": "6"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "626d3917-2884-4cd0-8cad-54709ef43b7f",
+    "id": "1d894913-007f-493b-bdfc-3ba2098440b0",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -768,10 +660,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46047",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -780,10 +668,10 @@
             "size": 6,
             "value": "101370"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "7793f2f0-78e6-4342-8299-4f8e449f3ec6",
+    "id": "c7812fcd-00f8-4c11-ad22-9eb17726bd7c",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -796,22 +684,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46047",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
-            "standard_name": "air_pressure_at_sea_level",
+            "standard_name": "air_pressure_at_mean_sea_level",
             "unit": "Pa",
             "size": 6,
             "value": "101400"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "75a12cb0-cc1e-4251-9f6d-188e761d72fd",
+    "id": "315c5a3b-7fee-44ec-b499-148892686df7",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -824,10 +708,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46047",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -836,10 +716,10 @@
             "size": 6,
             "value": "292.55"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "d199c75b-a7e5-4450-bf22-86aff2d4dd1a",
+    "id": "fb506722-f4f0-4d0a-a285-3140dfd07ef3",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -852,22 +732,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46047",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
-            "standard_name": "air_temperature",
+            "standard_name": "dew_point_temperature",
             "unit": "K",
             "size": 6,
             "value": "291.45"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "e4e2f7ad-ef4f-48d5-82a0-e13f6a8f69a8",
+    "id": "6485c0d2-85d6-4708-ac13-c117aec034c5",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -880,10 +756,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46047",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -892,10 +764,10 @@
             "size": 6,
             "value": "293.85"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "296dff7a-3ba6-4950-bb89-fdafc5e1b043",
+    "id": "0e6ce9a4-d42b-4b20-80b9-282ebce3257d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -908,22 +780,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46047",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 3,
             "value": "310"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "79c6a9c3-e133-45fd-810b-e7caa85ea155",
+    "id": "9a7ed96b-2050-45ee-872b-aa9c06c7be58",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -936,22 +804,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46047",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 1,
             "value": "7"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "617b2267-5230-48a3-9bb8-ef989bef157f",
+    "id": "814d47dc-f4b6-4d43-b5ef-d0621cc59f37",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -964,10 +828,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "52200",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:26:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -976,10 +836,10 @@
             "size": 6,
             "value": "302.95"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "fff1311b-bf41-45a4-a4d1-e791180ad9cc",
+    "id": "94be5e87-3422-4391-8c99-2d91680118ea",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -992,10 +852,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46219",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:26:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1004,10 +860,10 @@
             "size": 6,
             "value": "292.55"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "b33420a2-5ca2-4d84-be1a-a09288a4439b",
+    "id": "d7025475-8bf7-4ebf-aa6b-a7917b7842a7",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1020,10 +876,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46002",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:20:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1032,10 +884,10 @@
             "size": 6,
             "value": "102170"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "fa70b682-9de1-4fe3-92f9-32c46b19e4ca",
+    "id": "2cacf572-cab2-4ecb-b774-736f69cc817a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1048,22 +900,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46002",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:20:00.000000",
         "content": {
             "encoding": "utf-8",
-            "standard_name": "air_pressure_at_sea_level",
+            "standard_name": "air_pressure_at_mean_sea_level",
             "unit": "Pa",
             "size": 6,
             "value": "102200"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "61e6eaf5-5224-4aa5-913a-acc8efb9a9f0",
+    "id": "cc3039af-b1fe-4b99-8a78-121fa69c4117",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1076,10 +924,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46002",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:20:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1088,10 +932,10 @@
             "size": 6,
             "value": "291.75"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "8c107cfd-5dfa-47f6-9413-99c627201cab",
+    "id": "22831fe3-96bf-44b7-a38c-5c4d0dd28410",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1104,22 +948,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46002",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:20:00.000000",
         "content": {
             "encoding": "utf-8",
-            "standard_name": "air_temperature",
+            "standard_name": "dew_point_temperature",
             "unit": "K",
             "size": 6,
             "value": "287.45"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "0da621d1-833d-47de-9fff-3c708c4a2de5",
+    "id": "2d37d28e-e262-4571-b48f-9a78cbb56a98",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1132,22 +972,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46002",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:20:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 3,
             "value": "350"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "2f685248-f8ab-4019-b716-ccf97d60e90b",
+    "id": "eaea0b2c-f4a5-4c01-aa67-8ed6617e23fa",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1160,22 +996,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46002",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:20:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 1,
             "value": "6"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "858bda58-8d2e-4497-ac1a-3c49a296a791",
+    "id": "1475d7dc-6f60-4c52-9049-a6d3e25bf6aa",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1188,9 +1020,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46002"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1199,10 +1028,10 @@
             "size": 6,
             "value": "102170"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "eb8a78bb-f191-4a8a-9a08-f1f897ec5e48",
+    "id": "e99a5e24-84db-4208-a16f-698310576f7e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1215,21 +1044,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46002"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
-            "standard_name": "air_pressure_at_sea_level",
+            "standard_name": "air_pressure_at_mean_sea_level",
             "unit": "Pa",
             "size": 6,
             "value": "102200"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "a2804acb-7e8a-4a97-ab7d-92d60921b276",
+    "id": "57dc6e9a-0a8e-4b2b-86b8-f1612f89e420",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1242,9 +1068,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46002"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1253,10 +1076,10 @@
             "size": 6,
             "value": "291.95"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "4cefa260-dcbc-4e08-868c-6aef23b9e024",
+    "id": "41290f42-1529-497b-a851-7575719eae75",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1269,21 +1092,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46002"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
-            "standard_name": "air_temperature",
+            "standard_name": "dew_point_temperature",
             "unit": "K",
             "size": 6,
             "value": "287.35"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "ead807f1-06b9-45f1-8f4f-0b0c4d87622d",
+    "id": "e4660d0d-ef9a-4683-8b9d-cafdd476fd8a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1296,21 +1116,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46002"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 3,
             "value": "340"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "69e4fb1e-e2b2-4d8e-b9a6-d3a227fd9307",
+    "id": "b0c7a259-039f-4f81-864e-a8fb1dfd60d6",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1323,21 +1140,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "46002"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 1,
             "value": "6"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "babeb471-0452-4f32-aae9-fa186d0ac7e0",
+    "id": "8c9f1042-6aa4-481f-816a-7891004ee774",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1350,10 +1164,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "52201",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:00:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1362,10 +1172,10 @@
             "size": 6,
             "value": "301.15"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "a570427d-bae6-4f36-afb2-46a631763094",
+    "id": "6f0740e9-5814-4053-aadb-d8a32af8e63a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1378,10 +1188,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "52201",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:00:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1390,10 +1196,10 @@
             "size": 6,
             "value": "303.05"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "15d32c3d-5568-4ee0-af20-dd1384cd6166",
+    "id": "b4ded3a0-b579-432f-8969-9918a043e694",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1406,10 +1212,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "52201",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1418,10 +1220,10 @@
             "size": 6,
             "value": "300.65"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }{
-    "id": "ee4d0bcd-2e35-437e-9001-0a7945f2c2eb",
+    "id": "d89c99c2-6ac5-40cc-96f1-78c515bdd3ec",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1434,10 +1236,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "52201",
-            "speed_of_motion_of_moving_observing_platform": "0"
-        },
         "datetime": "2023-08-23T04:30:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1446,6 +1244,6 @@
             "size": 6,
             "value": "302.95"
         },
-        "pubtime": "2023-09-18T13:35:53.000000"
+        "pubtime": "2023-09-25T13:45:51.000000"
     }
 }
