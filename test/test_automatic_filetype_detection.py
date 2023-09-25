@@ -1,6 +1,6 @@
 import pytest
 
-from esoh.ingest.main import ingest_to_pipline
+from esoh.ingest.main import ingest_to_pipeline
 
 
 @pytest.mark.parametrize("test_inpt, expected", [('test/test_data/knmi/20230101.nc', 'netCDF'),
@@ -10,5 +10,5 @@ from esoh.ingest.main import ingest_to_pipline
                                                  + 'air_temperature_gullingen_skisenter-parent.nc',
                                                   'netCDF')])
 def test_decide_input_type(test_inpt, expected):
-    msg_build = ingest_to_pipline(None, "testing", testing=True)
+    msg_build = ingest_to_pipeline(None, "testing", testing=True)
     assert msg_build._decide_input_type(test_inpt) == expected
