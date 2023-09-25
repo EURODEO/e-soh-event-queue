@@ -103,6 +103,14 @@
           "type": "string",
           "description": "If you are using a controlled vocabulary for the words/phrases in your 'keywords' attribute, this is the unique name or identifier of the vocabulary from which keywords are taken. If more than one keyword vocabulary is used, each may be presented with a prefix and a following comma, so that keywords may optionally be prefixed with the controlled vocabulary key."
         },
+        "instrument": {
+          "type": "string",
+          "description": "Name of the contributing instrument(s) or sensor(s) used to create this data set or product. Indicate controlled vocabulary used in instrument_vocabulary."
+        },
+        "instrument_vocabulary": {
+          "type": "string",
+          "description": "Controlled vocabulary for the names used in the 'instrument' attribute."
+        },
         "license": {
           "type": "string",
           "description": "Provide the URL to a standard or specific license, enter 'Freely Distributed' or 'None', or describe any restrictions to data access and distribution in free text."
@@ -299,6 +307,9 @@
       "dependentRequired": {
         "keywords": [
           "keywords_vocabulary"
+        ],
+        "instrument": [
+          "instrument_vocabulary"
         ]
       }
     },
