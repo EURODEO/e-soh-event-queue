@@ -8,12 +8,9 @@ import json
 import logging
 
 
-<<<<<<< HEAD
-=======
 logger = logging.getLogger(__name__)
 
 
->>>>>>> c68117b (Fixed more typos)
 class ingest_to_pipeline():
     """
     This class should be the main interaction with this python package.
