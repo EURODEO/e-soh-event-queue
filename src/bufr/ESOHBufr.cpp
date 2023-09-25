@@ -340,17 +340,7 @@ std::string ESOHBufr::msg() const
                         {
                             if( v.y() == 4 || v.y() == 51 ) // PRESSURE, PRESSURE REDUCED TO MEAN SEA LEVEL
                             {
-                                rapidjson::Document new_message;
-                                rapidjson::Document::AllocatorType & new_message_allocator = new_message.GetAllocator();
-                                new_message.CopyFrom(subset_message,new_message_allocator);
-
-
-                                addContent(v,cf_names[v].first,new_message);
-
-                                rapidjson::StringBuffer sb;
-                                rapidjson::PrettyWriter<rapidjson::StringBuffer> writer(sb);
-                                new_message.Accept(writer);
-                                ret += sb.GetString();
+                                ret += addMessage(ci,subset_message);
                             }
                             if( v.y() == 9 ) // Geopotential height, TODO: unit conversion?
                             {
@@ -364,16 +354,7 @@ std::string ESOHBufr::msg() const
                         {
                             if( v.y() ==1 || v.y() == 2 ) //WIND SPEED, WIND DIRECTION
                             {
-                                rapidjson::Document new_message;
-                                rapidjson::Document::AllocatorType & new_message_allocator = new_message.GetAllocator();
-                                new_message.CopyFrom(subset_message,new_message_allocator);
-
-                                addContent(v,cf_names[v].first,new_message);
-
-                                rapidjson::StringBuffer sb;
-                                rapidjson::PrettyWriter<rapidjson::StringBuffer> writer(sb);
-                                new_message.Accept(writer);
-                                ret += sb.GetString();
+                                ret += addMessage(ci,subset_message);
                             }
 
                             break;
@@ -382,17 +363,7 @@ std::string ESOHBufr::msg() const
                         {
                             if( v.y() == 1 || v.y() == 101 || v.y() == 3 || v.y() == 103 )
                             {
-
-                                rapidjson::Document new_message;
-                                rapidjson::Document::AllocatorType & new_message_allocator = new_message.GetAllocator();
-                                new_message.CopyFrom(subset_message,new_message_allocator);
-
-                                addContent(v,cf_names[v].first,new_message);
-
-                                rapidjson::StringBuffer sb;
-                                rapidjson::PrettyWriter<rapidjson::StringBuffer> writer(sb);
-                                new_message.Accept(writer);
-                                ret += sb.GetString();
+                                ret += addMessage(ci,subset_message);
                             }
 
                             break;
@@ -402,17 +373,7 @@ std::string ESOHBufr::msg() const
                         {
                             if( v.y() == 3 )
                             {
-
-                                rapidjson::Document new_message;
-                                rapidjson::Document::AllocatorType & new_message_allocator = new_message.GetAllocator();
-                                new_message.CopyFrom(subset_message,new_message_allocator);
-
-                                addContent(v,cf_names[v].first,new_message);
-
-                                rapidjson::StringBuffer sb;
-                                rapidjson::PrettyWriter<rapidjson::StringBuffer> writer(sb);
-                                new_message.Accept(writer);
-                                ret += sb.GetString();
+                                ret += addMessage(ci,subset_message);
                             }
 
                             break;
@@ -423,17 +384,7 @@ std::string ESOHBufr::msg() const
 
                             if( v.y() == 42 || v.y() == 43 || v.y() == 45 )
                             {
-
-                                rapidjson::Document new_message;
-                                rapidjson::Document::AllocatorType & new_message_allocator = new_message.GetAllocator();
-                                new_message.CopyFrom(subset_message,new_message_allocator);
-
-                                addContent(v,cf_names[v].first,new_message);
-
-                                rapidjson::StringBuffer sb;
-                                rapidjson::PrettyWriter<rapidjson::StringBuffer> writer(sb);
-                                new_message.Accept(writer);
-                                ret += sb.GetString();
+                                ret += addMessage(ci,subset_message);
                             }
 
                             break;
@@ -477,17 +428,7 @@ std::string ESOHBufr::msg() const
                                             start_datetime =  mktime(&meas_datetime);
                                             start_datetime -= 60*60*24;
 
-                                            rapidjson::Document new_message;
-                                            rapidjson::Document::AllocatorType & new_message_allocator = new_message.GetAllocator();
-                                            new_message.CopyFrom(subset_message,new_message_allocator);
-                                            setStartDateTime(gmtime(&start_datetime),new_message);
-
-                                            addContent(*ci,cf_names[*ci].first,new_message);
-
-                                            rapidjson::StringBuffer sb;
-                                            rapidjson::PrettyWriter<rapidjson::StringBuffer> writer(sb);
-                                            new_message.Accept(writer);
-                                            ret += sb.GetString();
+                                            ret += addMessage(ci,subset_message,&start_datetime);
 
                                         }
                                     }
@@ -525,18 +466,7 @@ std::string ESOHBufr::msg() const
                                             precip = getValue(*ci,precip);
                                             if( precip != std::numeric_limits<uint64_t>::max() )
                                             {
-
-                                                rapidjson::Document new_message;
-                                                rapidjson::Document::AllocatorType & new_message_allocator = new_message.GetAllocator();
-                                                new_message.CopyFrom(subset_message,new_message_allocator);
-                                                setStartDateTime(gmtime(&start_datetime),new_message);
-
-                                                addContent(*ci,cf_names[*ci].first,new_message);
-
-                                                rapidjson::StringBuffer sb;
-                                                rapidjson::PrettyWriter<rapidjson::StringBuffer> writer(sb);
-                                                new_message.Accept(writer);
-                                                ret += sb.GetString();
+                                                ret += addMessage(ci,subset_message,&start_datetime);
                                             }
                                         }
                                     }
@@ -562,18 +492,7 @@ std::string ESOHBufr::msg() const
                                         long_wave = getValue(*ci,long_wave);
                                         if( long_wave != std::numeric_limits<uint64_t>::max() )
                                         {
-                                            rapidjson::Document new_message;
-                                            rapidjson::Document::AllocatorType & new_message_allocator = new_message.GetAllocator();
-                                            new_message.CopyFrom(subset_message,new_message_allocator);
-                                            setStartDateTime(gmtime(&start_datetime),new_message);
-
-                                            addContent(*ci,cf_names[*ci].first,new_message);
-
-                                            rapidjson::StringBuffer sb;
-                                            rapidjson::PrettyWriter<rapidjson::StringBuffer> writer(sb);
-                                            new_message.Accept(writer);
-                                            ret += sb.GetString();
-
+                                            ret += addMessage(ci,subset_message,&start_datetime);
                                         }
                                     }
 
@@ -584,18 +503,7 @@ std::string ESOHBufr::msg() const
                                         short_wave = getValue(*ci,short_wave);
                                         if( short_wave != std::numeric_limits<uint64_t>::max() )
                                         {
-                                            rapidjson::Document new_message;
-                                            rapidjson::Document::AllocatorType & new_message_allocator = new_message.GetAllocator();
-                                            new_message.CopyFrom(subset_message,new_message_allocator);
-                                            setStartDateTime(gmtime(&start_datetime),new_message);
-
-                                            addContent(*ci,cf_names[*ci].first,new_message);
-
-                                            rapidjson::StringBuffer sb;
-                                            rapidjson::PrettyWriter<rapidjson::StringBuffer> writer(sb);
-                                            new_message.Accept(writer);
-                                            ret += sb.GetString();
-
+                                            ret += addMessage(ci,subset_message,&start_datetime);
                                         }
                                     }
                                     ++ci; // [ 0 14 16 ] NET RADIATION, INTEGRATED OVER PERIOD SPECIFIED
@@ -785,6 +693,24 @@ bool ESOHBufr::setStartDateTime(struct tm * start_meas_datetime, rapidjson::Docu
     return true;
 }
 
+std::string ESOHBufr::addMessage(std::list<Descriptor>::const_iterator ci, rapidjson::Document & message, time_t * start_datetime) const
+{
+    std::string ret;
 
+    rapidjson::Document new_message;
+    rapidjson::Document::AllocatorType & new_message_allocator = new_message.GetAllocator();
+    new_message.CopyFrom(message,new_message_allocator);
+
+    if( start_datetime ) setStartDateTime(gmtime(start_datetime),new_message);
+
+    addContent(*ci,cf_names[*ci].first,new_message);
+
+    rapidjson::StringBuffer sb;
+    rapidjson::PrettyWriter<rapidjson::StringBuffer> writer(sb);
+    new_message.Accept(writer);
+    ret = sb.GetString();
+
+    return ret;
+}
 
 

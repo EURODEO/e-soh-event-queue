@@ -61,6 +61,7 @@ public:
     ESOHBufr();
     std::string msg() const;
 private:
+    std::string addMessage(std::list<Descriptor>::const_iterator ci, rapidjson::Document & message, time_t * start_datetime = 0 ) const;
     bool addDescriptor(Descriptor & D, rapidjson::Value & dest, rapidjson::Document::AllocatorType &) const;
     bool addContent(const Descriptor & D, std::string cf_name, rapidjson::Document &) const;
     bool setLocation(double lat, double lon, double hei, rapidjson::Document &) const;
