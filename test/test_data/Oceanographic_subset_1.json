@@ -1,5 +1,5 @@
 {
-    "id": "88031785-3d79-4ae2-b221-eaaf9a35bc38",
+    "id": "6f7a0dd8-6286-4067-9acc-5f07efa080cc",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -13,9 +13,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -24,10 +21,10 @@
             "size": 6,
             "value": "284.78"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "f62edef4-886a-4bc4-8810-58da04173df1",
+    "id": "b736727b-bff0-4678-a084-2b1b6d199702",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -41,9 +38,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -52,10 +46,10 @@
             "size": 6,
             "value": "284.68"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "a45e5245-c0c2-428a-a7a2-c3dd4ec573da",
+    "id": "6b69bff0-fb9b-4250-9d73-566f9c640caf",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -69,9 +63,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -80,10 +71,10 @@
             "size": 6,
             "value": "284.39"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "484cc4db-666f-4f69-a702-1332cf045817",
+    "id": "f464e283-1226-4bf2-abf0-d982a9e2a525",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -97,9 +88,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -108,10 +96,10 @@
             "size": 6,
             "value": "284.09"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "2e9bd873-5436-4b56-8f79-f7c57c27988e",
+    "id": "d4685c9f-7216-4719-b702-1a9296b71bc4",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -125,9 +113,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -136,10 +121,10 @@
             "size": 6,
             "value": "283.88"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "527fe2d7-074c-4d57-9f7d-2ecf01269723",
+    "id": "5cfe90e0-7bae-47b7-a259-5294affd191d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -153,9 +138,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -164,10 +146,10 @@
             "size": 6,
             "value": "283.83"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "209c8f6c-68d7-4584-878f-b37d7deb502c",
+    "id": "dbc2d31f-d549-4089-a9f4-45fe7e351441",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -181,9 +163,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -192,10 +171,10 @@
             "size": 6,
             "value": "283.75"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "c0ee3a4e-9485-42c7-8767-5c3434dfa0c5",
+    "id": "db70cb06-56d3-4d71-9c13-376d7592337e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -209,9 +188,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -220,10 +196,10 @@
             "size": 6,
             "value": "283.68"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "632c5563-21c6-467a-9b47-64e22d1d387b",
+    "id": "afb5fc00-921b-4471-a0b1-a52a98a82697",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -237,9 +213,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -248,10 +221,10 @@
             "size": 6,
             "value": "283.63"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "d4a0005e-504c-4218-a861-e6016ea4bc68",
+    "id": "65154ee2-a96d-424e-99bd-2887b083d4af",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -265,9 +238,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -276,10 +246,10 @@
             "size": 6,
             "value": "283.61"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "3ee87731-ae7c-46e4-b16a-0e4bb62012f2",
+    "id": "84bffdcc-a0f9-4cc0-8121-1f955620d5d5",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -293,9 +263,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -304,10 +271,10 @@
             "size": 6,
             "value": "283.59"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "6f3baea9-db64-486d-b219-72f7f3db1968",
+    "id": "5d31df89-bd0e-40b0-9b4c-39cccf37a618",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -321,9 +288,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -332,10 +296,10 @@
             "size": 6,
             "value": "283.58"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "fb371a07-9eb5-493c-ba31-a123b0a32930",
+    "id": "ce63f24b-901f-4678-96a3-b1821e42f30f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -349,9 +313,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -360,10 +321,10 @@
             "size": 6,
             "value": "283.55"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "86ba17ca-82dc-4f9f-b1a9-af20e6353ee8",
+    "id": "1f85338a-350a-42b2-831c-4ccd8ad0ec62",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -377,9 +338,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -388,10 +346,10 @@
             "size": 6,
             "value": "283.56"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "d3fa31db-0edc-4698-b87a-96da4b0a8e19",
+    "id": "3804bfc1-6561-45d5-bf36-2b6d82be2318",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -405,9 +363,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -416,10 +371,10 @@
             "size": 6,
             "value": "283.57"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "4c6f2f8b-42b4-410f-ba6a-c99cbbf1dc6e",
+    "id": "695d3625-f037-44ef-b4cc-9a7888a5b8ba",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -433,9 +388,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -444,10 +396,10 @@
             "size": 6,
             "value": "283.55"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "e0e7f60f-6d7e-4f92-9082-d884842868d3",
+    "id": "78d809c3-f722-4d36-a156-a233452b173e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -461,9 +413,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -472,10 +421,10 @@
             "size": 6,
             "value": "283.54"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "35459d68-514e-46fb-b392-ab30be4c32e9",
+    "id": "dfa554d9-2b45-4ca5-86d5-c513f64b2a0a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -489,9 +438,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -500,10 +446,10 @@
             "size": 6,
             "value": "283.52"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "62159fbd-f152-4459-8894-744a0aacf5ae",
+    "id": "f6b22697-5d0c-4194-b994-66e7c7e733a9",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -517,9 +463,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -528,10 +471,10 @@
             "size": 6,
             "value": "283.51"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "a567ca84-9b25-4232-9e60-0bc4cdaae524",
+    "id": "d17effc4-40d2-4fb2-b3d9-ac8964401b6f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -545,9 +488,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -556,10 +496,10 @@
             "size": 6,
             "value": "283.51"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "e2f40112-a19d-4214-bc0c-738c7719556e",
+    "id": "c26355c5-4fa0-41bc-a0ab-964c372fac68",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -573,9 +513,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -584,10 +521,10 @@
             "size": 5,
             "value": "283.5"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "4efe33f6-a497-496f-8b06-bc1ffb78cc6a",
+    "id": "c58ebb11-37fb-4465-92f4-5b4990245f5d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -601,9 +538,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -612,10 +546,10 @@
             "size": 5,
             "value": "283.5"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "5f3c77e3-d235-4314-b191-9d28bda8b8ff",
+    "id": "f5e8c997-7732-4a80-9310-9564e5c718e7",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -629,9 +563,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -640,10 +571,10 @@
             "size": 6,
             "value": "283.48"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "dc1f2057-e31e-48d9-8f0a-e6862e48c6a6",
+    "id": "c6d071b8-84fb-4b20-820a-dc7af669a0c5",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -657,9 +588,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -668,10 +596,10 @@
             "size": 6,
             "value": "283.47"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "2ba0affa-1355-4f0b-9c31-b7624b5a6d0c",
+    "id": "17768680-9faf-4370-85d8-6a5195ce2208",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -685,9 +613,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -696,10 +621,10 @@
             "size": 6,
             "value": "283.45"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "4f782952-fe7b-4cc6-ba09-c376581743b7",
+    "id": "b0c50f10-667a-4ed1-9e68-8f2474163b27",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -713,9 +638,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -724,10 +646,10 @@
             "size": 6,
             "value": "283.43"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "5839e003-2702-4dc5-ae62-48dce38724f7",
+    "id": "0c9405b5-f5a4-45ed-a130-d1cdd50276eb",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -741,9 +663,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -752,10 +671,10 @@
             "size": 6,
             "value": "283.42"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "4aa335dc-5fb3-4d39-97aa-6565d4dda750",
+    "id": "d6abc418-fd29-41c8-bf93-30ce2185e7b8",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -769,9 +688,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -780,10 +696,10 @@
             "size": 6,
             "value": "283.41"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "82c2324b-aa1c-45c9-a6c4-919373274cc1",
+    "id": "93c51416-e251-48eb-afa4-c2744abb5e74",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -797,9 +713,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -808,10 +721,10 @@
             "size": 6,
             "value": "283.39"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "8895528a-a863-4729-8950-b6826fe666a1",
+    "id": "0210f90b-21ad-43eb-b035-9d0c4063bdec",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -825,9 +738,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -836,10 +746,10 @@
             "size": 6,
             "value": "283.36"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "abe027d3-8753-491f-a6d6-b266b5052c1e",
+    "id": "1961f971-0eda-4a3c-9963-78e68837529a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -853,9 +763,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -864,10 +771,10 @@
             "size": 6,
             "value": "283.35"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "127bcb35-eff3-4580-bb05-8ef0467202fb",
+    "id": "dc2be42f-3c01-488d-828a-b447ac206eb5",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -881,9 +788,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -892,10 +796,10 @@
             "size": 6,
             "value": "283.33"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "20aab600-7de8-4de9-901c-50c6f533e1e1",
+    "id": "2f89e709-8ee0-4340-badf-1024a618f2fd",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -909,9 +813,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -920,10 +821,10 @@
             "size": 6,
             "value": "283.32"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "ff956ce0-436e-4f6b-a41a-f0f5868de68a",
+    "id": "77fe2ebc-48c3-4093-8a6f-d9c1261cbd85",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -937,9 +838,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -948,10 +846,10 @@
             "size": 6,
             "value": "283.31"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "9a7ad089-b20a-424f-b045-49e0e81db975",
+    "id": "ea8c65c1-42bb-45fc-ad6a-8d39ca5a53fe",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -965,9 +863,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -976,10 +871,10 @@
             "size": 5,
             "value": "283.3"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "aa86ef93-1b67-41c8-bad2-373fd9b8a1fb",
+    "id": "7755ce04-9a7b-4c45-9151-5a1fd8f325bb",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -993,9 +888,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1004,10 +896,10 @@
             "size": 6,
             "value": "283.29"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "2e2c94e1-9a03-4ca7-b63f-1d7c258cf1ad",
+    "id": "151d8b7d-a18c-4b08-a3b8-0f6f53e028e4",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1021,9 +913,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1032,10 +921,10 @@
             "size": 6,
             "value": "283.27"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "1e947735-d1c7-499c-9683-90e706ff49ea",
+    "id": "d4563042-f8a1-469b-97bd-d75a7e23fa52",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1049,9 +938,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1060,10 +946,10 @@
             "size": 6,
             "value": "283.26"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "d763c2ac-cff4-443f-bb5d-134ccd7c26e1",
+    "id": "e67513ff-e674-4c97-8ce7-b2975123978e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1077,9 +963,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1088,10 +971,10 @@
             "size": 6,
             "value": "283.23"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "306f9872-80ee-4ffa-9a04-d717119946b0",
+    "id": "af986c70-052e-44ab-8d5f-ed1102695871",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1105,9 +988,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1116,10 +996,10 @@
             "size": 6,
             "value": "283.23"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "3edcd963-3ea1-45eb-981a-225355d53a49",
+    "id": "fa718df8-7da6-4db3-aa86-8246bde420c4",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1133,9 +1013,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1144,10 +1021,10 @@
             "size": 6,
             "value": "283.21"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "901d109a-74bb-4f80-9530-d174cc2f8903",
+    "id": "a9afcd79-d63d-4610-b511-4a5acec4c388",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1161,9 +1038,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1172,10 +1046,10 @@
             "size": 6,
             "value": "283.17"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "ab41efbb-4e1f-499d-a369-ea7bb44be2d6",
+    "id": "bf07e267-536b-4f6d-bbd7-5403f3974915",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1189,9 +1063,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1200,10 +1071,10 @@
             "size": 6,
             "value": "283.15"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "000e8c5a-a530-4ed1-a0c9-a40e4644842e",
+    "id": "93b10ffc-a758-4667-86b2-29092ba47280",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1217,9 +1088,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1228,10 +1096,10 @@
             "size": 6,
             "value": "283.13"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "c238c911-2926-4d6f-9611-8b35fa6cdce7",
+    "id": "4637b05a-bb46-420c-b993-bb8d873c15fd",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1245,9 +1113,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1256,10 +1121,10 @@
             "size": 6,
             "value": "283.13"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "1d75f422-5297-46e9-a630-264074793914",
+    "id": "52330593-f09b-4127-bac2-b63d2ab2b4da",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1273,9 +1138,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1284,10 +1146,10 @@
             "size": 6,
             "value": "283.12"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "27c6bff6-aae8-4eb2-8de9-be1fce662a94",
+    "id": "3e0d242e-f232-4426-9cf4-21ac5f970685",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1301,9 +1163,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1312,10 +1171,10 @@
             "size": 5,
             "value": "283.1"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "9aeba164-5466-4c4e-8e57-8b1dcb68cb79",
+    "id": "f3e934e0-8609-4f6d-80d1-f3b2d58c12e6",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1329,9 +1188,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1340,10 +1196,10 @@
             "size": 6,
             "value": "283.05"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "c7d33869-c7f6-4002-b741-f201119dfff8",
+    "id": "e41d4f0a-4a87-4c4d-8f05-4a503ccebd00",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1357,9 +1213,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1368,10 +1221,10 @@
             "size": 3,
             "value": "283"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "02e8800b-4814-4e2e-ac29-c45104ac3464",
+    "id": "8580f1d8-fafc-432e-83da-6c99d3f19c39",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1385,9 +1238,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1396,10 +1246,10 @@
             "size": 6,
             "value": "282.98"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "f5300d20-fbb9-4cd1-b1e6-a8975c743acd",
+    "id": "7cc40a6b-a11b-49a8-8c15-71fee0a3096c",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1413,9 +1263,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1424,10 +1271,10 @@
             "size": 6,
             "value": "282.96"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "62dafe4e-fefc-4001-abc7-34e3af40e8b5",
+    "id": "1fa58a2e-b691-4d98-b782-074e757f713f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1441,9 +1288,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1452,10 +1296,10 @@
             "size": 6,
             "value": "282.94"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "08ea7b75-c802-4ced-92b6-bddcebb39f07",
+    "id": "bfea464c-3ab4-4966-b399-2bfc3e4620ee",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1469,9 +1313,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1480,10 +1321,10 @@
             "size": 6,
             "value": "282.92"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "d59bfc04-1229-467d-93b4-fe3f69cff231",
+    "id": "a113b4f7-3d12-4378-a62a-fb480b5fca4b",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1497,9 +1338,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1508,10 +1346,10 @@
             "size": 6,
             "value": "282.88"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "3d087b97-7d71-4477-ad53-73c88d1fcd9b",
+    "id": "7097c7f5-290c-458b-80d9-93c37ab4a3ea",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1525,9 +1363,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1536,10 +1371,10 @@
             "size": 6,
             "value": "282.83"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "a03f313a-ab1b-44bc-a9be-c00f4433efcf",
+    "id": "74234b28-7260-4402-983d-c203c731582f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1553,9 +1388,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1564,10 +1396,10 @@
             "size": 6,
             "value": "282.75"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "bc3f2e08-cf22-4906-ba96-2bdf35b4e954",
+    "id": "d5d4a373-09f7-4c63-a2eb-20ece50fca19",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1581,9 +1413,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1592,10 +1421,10 @@
             "size": 6,
             "value": "282.72"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "25679dab-15bc-4013-8d6b-897d50d263fd",
+    "id": "89b2052f-2c8a-4c60-bd99-0ef181b73e06",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1609,9 +1438,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1620,10 +1446,10 @@
             "size": 6,
             "value": "282.69"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "81baf04e-30ec-48e5-a3e0-7507f95afa0b",
+    "id": "88fffcd4-2695-46c7-947e-687aa02a370c",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1637,9 +1463,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1648,10 +1471,10 @@
             "size": 6,
             "value": "282.65"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "8e33eae6-e3ce-4ac8-ad8f-486a8f5e1573",
+    "id": "313d2ed0-c1b3-494f-ad90-935d3689d304",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1665,9 +1488,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1676,10 +1496,10 @@
             "size": 6,
             "value": "282.61"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "5d2df39a-ada8-41ee-b9de-56e4a093aafb",
+    "id": "00dce085-5a79-4217-8646-ffeadce0161e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1693,9 +1513,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1704,10 +1521,10 @@
             "size": 6,
             "value": "282.58"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "5c7c87c2-4ea9-4a0f-96f5-8d9be9981f87",
+    "id": "6275d185-9789-4029-8455-8946808220f1",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1721,9 +1538,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1732,10 +1546,10 @@
             "size": 6,
             "value": "282.56"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "1231d27f-e5fd-4561-9c1e-0eee22295b83",
+    "id": "7e761e6c-3291-4735-a345-74b08be787f2",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1749,9 +1563,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1760,10 +1571,10 @@
             "size": 6,
             "value": "282.55"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "9fe6340f-d22f-4753-9e02-8bbee56bce52",
+    "id": "e51758dd-da13-495e-8c82-4050b3ad7c27",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1777,9 +1588,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1788,10 +1596,10 @@
             "size": 6,
             "value": "282.52"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "805ef851-bd72-4569-8a4e-5dc2a55abee2",
+    "id": "2257d101-2788-4991-8ace-62335bdd4a00",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1805,9 +1613,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1816,10 +1621,10 @@
             "size": 6,
             "value": "282.49"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "aceaad8b-4fa1-416e-bb23-90633c969722",
+    "id": "d162274a-f5fe-4ea5-8b25-d3d094a1e771",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1833,9 +1638,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1844,10 +1646,10 @@
             "size": 6,
             "value": "282.45"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "91017132-99c6-470d-854e-6647b591f971",
+    "id": "148ec75b-b124-42f5-b038-fe0254bcd9bc",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1861,9 +1663,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1872,10 +1671,10 @@
             "size": 6,
             "value": "282.41"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "968b7e6e-4680-4875-aab8-cf26ad939a00",
+    "id": "0cc68889-d3f7-4a0b-a4a8-d271fc2e7710",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1889,9 +1688,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1900,10 +1696,10 @@
             "size": 6,
             "value": "282.38"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "6ce6b19b-6923-4601-b66b-7ebce4ba0aca",
+    "id": "7f3f8e98-e642-49f8-be1a-697bc0ed5098",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1917,9 +1713,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1928,10 +1721,10 @@
             "size": 6,
             "value": "282.34"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "108897ce-2452-482c-a0d3-a374a31f6dac",
+    "id": "e4bd076b-4492-45f0-9553-12eeeaf2c3b7",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1945,9 +1738,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1956,10 +1746,10 @@
             "size": 6,
             "value": "282.29"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "27802bc7-3290-42f7-b3c5-52eb8f104f33",
+    "id": "6df7d13e-c5ad-4390-a724-9e8c78b58574",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1973,9 +1763,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1984,10 +1771,10 @@
             "size": 6,
             "value": "282.25"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "ecc99118-988a-4b68-8975-538cadaacf6e",
+    "id": "94646662-405e-4c5c-8415-0675d66ba2e6",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2001,9 +1788,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2012,10 +1796,10 @@
             "size": 5,
             "value": "282.2"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "c7543c95-66f0-4ff6-803e-8f89ab4dcd25",
+    "id": "15ad22fa-57a3-4b4b-97d6-c493a51b6d83",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2029,9 +1813,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2040,10 +1821,10 @@
             "size": 6,
             "value": "282.18"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "59934611-ad90-41d7-9dc6-30427c44617b",
+    "id": "a3c7c09b-8a80-4e0a-afe5-0f9815c1e900",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2057,9 +1838,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2068,10 +1846,10 @@
             "size": 6,
             "value": "282.16"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "6b8b979d-7aba-4dec-b36c-472b2b0d3e9e",
+    "id": "378e1f69-77ad-4b9f-bf10-20f42f271a49",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2085,9 +1863,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2096,10 +1871,10 @@
             "size": 6,
             "value": "282.11"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "24e23b42-b623-4e8c-932e-578ce2fa5d27",
+    "id": "442bfbe7-49fe-4940-8b17-cdfb057e9f1c",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2113,9 +1888,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2124,10 +1896,10 @@
             "size": 6,
             "value": "282.04"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "8689496c-c210-49db-bc6f-1926dca9dd9f",
+    "id": "a6b62071-e4ad-4a88-b3e6-19c89ccd2f07",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2141,9 +1913,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2152,10 +1921,10 @@
             "size": 6,
             "value": "282.01"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "e7fcc8bc-4e90-459f-90f8-a4bf7ed058b0",
+    "id": "11efd47b-db37-4399-bfdb-793470c5cea4",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2169,9 +1938,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2180,10 +1946,10 @@
             "size": 6,
             "value": "281.99"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "792a7265-c672-48e3-854c-a85dac0b034c",
+    "id": "1f93e65f-7800-4521-9062-ed8cf709f7ce",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2197,9 +1963,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2208,10 +1971,10 @@
             "size": 6,
             "value": "281.94"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "40af54e9-49ef-4652-8129-64d9f0631124",
+    "id": "b303592e-c579-44c0-a5fa-9cb6c59480ee",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2225,9 +1988,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2236,10 +1996,10 @@
             "size": 6,
             "value": "281.89"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "4a8a384b-26d0-4f05-853f-0aa903b53763",
+    "id": "46ef89c1-82f9-4b90-ba65-a70a1bed7b77",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2253,9 +2013,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2264,10 +2021,10 @@
             "size": 6,
             "value": "281.85"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "e3e34757-20f7-44ff-b1dc-410d9c1b7bd8",
+    "id": "5d0c4713-0861-48ab-a449-a826b903c041",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2281,9 +2038,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2292,10 +2046,10 @@
             "size": 5,
             "value": "281.8"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "e76b7b13-1562-4b6a-93ca-71790343fbf0",
+    "id": "d793d39b-7871-4ea2-81c3-f81b75e99538",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2309,9 +2063,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2320,10 +2071,10 @@
             "size": 6,
             "value": "281.74"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "7e570441-cf3f-4e46-b51c-cad7c612620f",
+    "id": "31228c68-8ecc-4c82-b600-96418457257d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2337,9 +2088,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2348,10 +2096,10 @@
             "size": 6,
             "value": "281.71"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "e011cb30-b667-41de-a185-85adf3d9fa69",
+    "id": "467201d9-e7b4-4edd-bb0f-db309653ab2c",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2365,9 +2113,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2376,10 +2121,10 @@
             "size": 6,
             "value": "281.64"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "b3543f75-2491-4bcc-8e3f-21be64a25117",
+    "id": "c565b115-3e97-4089-9d1c-55d62828e1da",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2393,9 +2138,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2404,10 +2146,10 @@
             "size": 6,
             "value": "281.57"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "f8056491-efd5-4cd0-bddd-4cd208aac4d1",
+    "id": "f47c401a-098c-440d-a7dc-67256a08084b",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2421,9 +2163,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2432,10 +2171,10 @@
             "size": 6,
             "value": "281.54"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "e7397643-0559-47a2-b03d-e7dd4d4fd36a",
+    "id": "65d9c5c6-6e97-494a-825b-666f5ee3df3a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2449,9 +2188,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2460,10 +2196,10 @@
             "size": 6,
             "value": "281.47"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "495b310d-deb7-41bb-98cc-483819c92c78",
+    "id": "e5acd9d4-38a4-4865-9ccf-4c7304fac5a8",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2477,9 +2213,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2488,10 +2221,10 @@
             "size": 6,
             "value": "281.41"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "e895b1c6-a675-4e27-80c3-ac4b34bb56db",
+    "id": "7335d18c-e2b6-4e45-8e34-1a606ecd9bf1",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2505,9 +2238,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2516,10 +2246,10 @@
             "size": 6,
             "value": "281.35"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "086b6961-6018-4598-8d77-2358d13448f3",
+    "id": "6f3e5c13-7720-444f-ac4f-30745dc1de28",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2533,9 +2263,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2544,10 +2271,10 @@
             "size": 6,
             "value": "281.26"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "e13d5829-698e-4dcd-8705-12230b117d97",
+    "id": "4dde526a-dbf7-4237-9da1-86ebebab786d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2561,9 +2288,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2572,10 +2296,10 @@
             "size": 6,
             "value": "281.18"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "b8c03232-af63-4fc3-bf09-4386152bc1aa",
+    "id": "13c11077-02b3-41cb-b253-6b52f5a82ad9",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2589,9 +2313,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2600,10 +2321,10 @@
             "size": 6,
             "value": "281.06"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "1e809cc7-c53f-40d2-9ab6-6c4130868b11",
+    "id": "64a7fd8a-0cc0-4244-84b3-625f7dda58e8",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2617,9 +2338,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2628,10 +2346,10 @@
             "size": 6,
             "value": "281.01"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "c0138f4d-711c-499b-81b3-318e2f95169f",
+    "id": "8803d17e-6c56-4bc5-b8d9-4122b7961e4e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2645,9 +2363,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2656,10 +2371,10 @@
             "size": 6,
             "value": "280.91"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "08c4041c-9145-4cf6-80be-23a9c7880cc1",
+    "id": "978ee874-f373-4110-ade4-770f67c9db9c",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2673,9 +2388,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2684,10 +2396,10 @@
             "size": 6,
             "value": "280.85"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "99559792-3fcc-4d1b-9199-1c6e04fec52a",
+    "id": "eee50ead-857b-40c7-9238-675d9c0c7149",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2701,9 +2413,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2712,10 +2421,10 @@
             "size": 5,
             "value": "280.8"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }{
-    "id": "e9b1af0a-16a4-4cc3-87d5-e65e3efb527d",
+    "id": "75831397-e66f-4376-8000-b8ddbb02a170",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2729,9 +2438,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "ship_or_mobile_land_station_identifier": "6800987"
-        },
         "datetime": "2023-05-22T18:47:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -2740,6 +2446,6 @@
             "size": 6,
             "value": "280.73"
         },
-        "pubtime": "2023-09-18T13:34:58.000000"
+        "pubtime": "2023-09-25T13:45:49.000000"
     }
 }

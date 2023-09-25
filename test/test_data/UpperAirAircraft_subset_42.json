@@ -1,5 +1,5 @@
 {
-    "id": "b77a9ee6-6e47-4065-9a1d-8132c72666a0",
+    "id": "10983023-9fc7-4d83-a241-f7f69c8b2cb0",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -13,24 +13,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0032",
-            "aircraft_flight_number": "TJQCERRA",
-            "origination_airport": "LAS",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:01:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 3,
             "value": "102"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "31875afd-7332-4bfb-8178-30c7108b8cfd",
+    "id": "f44642e0-eb2c-4887-b82d-de7328d240fb",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -44,24 +38,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0032",
-            "aircraft_flight_number": "TJQCERRA",
-            "origination_airport": "LAS",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:01:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "7.7"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "320a91c3-a258-4b69-ab4d-97ae8a40256a",
+    "id": "0fa802d9-1b17-4e9a-afea-7588f36e3b40",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -75,12 +63,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0032",
-            "aircraft_flight_number": "TJQCERRA",
-            "origination_airport": "LAS",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:01:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -89,10 +71,10 @@
             "size": 5,
             "value": "262.2"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "7b6e2c7b-5385-4d99-a239-5ccd008b6d0e",
+    "id": "9b7265c6-f267-4060-8b81-e7e9fe1d77b6",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -106,24 +88,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0032",
-            "aircraft_flight_number": "TJQCERRA",
-            "origination_airport": "LAS",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:04:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "98"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "79d28a58-5d03-4876-96f6-08fd0c36303c",
+    "id": "68b21c03-aca9-49e3-82d0-a88b9af7bba3",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -137,24 +113,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0032",
-            "aircraft_flight_number": "TJQCERRA",
-            "origination_airport": "LAS",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:04:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "4.1"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "e5602321-3417-44ff-b9a9-7b2701082465",
+    "id": "9e5e3197-1618-4745-b327-9a9bc58147a9",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -168,12 +138,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0032",
-            "aircraft_flight_number": "TJQCERRA",
-            "origination_airport": "LAS",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:04:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -182,10 +146,10 @@
             "size": 5,
             "value": "264.7"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "6fc77287-8a22-4ddd-b485-d08fde6e7b08",
+    "id": "8fcec094-c939-4717-8656-bb05e3cdaac8",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -199,24 +163,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:06.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "78"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "0f153c61-b7be-4e8b-b2f8-63e245d89d2a",
+    "id": "3fe70b1a-eb0f-4b4e-a68e-622f6ffbe6b4",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -230,24 +188,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:06.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "5.1"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "3abfab94-8e79-4a67-b174-e0180ff93051",
+    "id": "a715d772-3b6a-4f0a-96be-5ddd724713da",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -261,12 +213,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:06.000000",
         "content": {
             "encoding": "utf-8",
@@ -275,10 +221,10 @@
             "size": 5,
             "value": "303.2"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "95e0c38c-5df4-483b-bb02-28dcab8e7bb0",
+    "id": "aaffed8c-9918-483c-bc28-35d2240fad83",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -292,24 +238,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:12.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "79"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "b6ccb828-75c9-4fce-ade8-9cef277176a2",
+    "id": "723f5c13-a66e-421a-80de-a71d6abf0cd2",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -323,24 +263,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:12.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "5.1"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "4cacd0e5-f183-4dd2-9d45-28eb8d1fe0a5",
+    "id": "8c44aa17-96aa-45bd-ad9f-db1c253ea7dc",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -354,12 +288,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:12.000000",
         "content": {
             "encoding": "utf-8",
@@ -368,10 +296,10 @@
             "size": 5,
             "value": "298.9"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "4ba4ff21-da50-4986-b917-3da674d48967",
+    "id": "7cc6779f-9201-44a8-abd0-b079735525ee",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -385,24 +313,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:18.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "78"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "20704be5-c72a-4c6e-844f-d495c3b3b2e1",
+    "id": "b5f32d3a-5f66-4796-970c-b30add8af45b",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -416,24 +338,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:18.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "5.1"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "fd0b2bbf-3e33-4c1f-9d6e-df97a6f2d050",
+    "id": "63afe894-9d16-42f0-8592-9cefe135a6e2",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -447,12 +363,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:18.000000",
         "content": {
             "encoding": "utf-8",
@@ -461,10 +371,10 @@
             "size": 5,
             "value": "298.2"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "bda6b49b-4241-4303-bf4f-117544759546",
+    "id": "8cadb72f-d511-45b5-b338-6401badf12c2",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -478,24 +388,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:24.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "84"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "a94aa735-da72-48f9-acc5-8e6b325bd934",
+    "id": "67a680f8-b622-4cee-a961-7511bda5a5fd",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -509,24 +413,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:24.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "4.6"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "43acc5f8-04b5-4362-aacb-2bcfb25265c1",
+    "id": "e88000fe-1ec2-459d-a291-931af50ae155",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -540,12 +438,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:24.000000",
         "content": {
             "encoding": "utf-8",
@@ -554,10 +446,10 @@
             "size": 5,
             "value": "297.7"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "3b098501-bbb3-4ff2-9b95-c8e1cac68bb2",
+    "id": "f4dc5b7c-ef93-4565-a137-c8dada45fbc8",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -571,24 +463,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:30.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "94"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "eb7bbb6f-b701-45b7-b42a-c0f326f59783",
+    "id": "692c8b75-1af1-4265-b522-27878a705ec1",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -602,24 +488,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:30.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "2.6"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "2fded286-ac23-40ae-a225-e200fde55dfa",
+    "id": "5745bb36-7e28-4016-97dc-7302034e17f6",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -633,12 +513,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:30.000000",
         "content": {
             "encoding": "utf-8",
@@ -647,10 +521,10 @@
             "size": 5,
             "value": "297.2"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "58b14e2b-999f-4a26-9125-0880a900184f",
+    "id": "e34fafb4-5ffc-4adc-a0cc-35f2f9b3c4bd",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -664,24 +538,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:36.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "67"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "aa783ebf-c0a2-4048-80f5-4ec36c380d55",
+    "id": "f26cf7f5-b7df-4e67-8b0f-26403b78cea2",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -695,24 +563,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:36.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "2.6"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "600ea374-325a-481a-a8a4-6229df0efe5c",
+    "id": "247a191b-62eb-42af-b8e5-0257e0c12ea9",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -726,12 +588,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:36.000000",
         "content": {
             "encoding": "utf-8",
@@ -740,10 +596,10 @@
             "size": 5,
             "value": "296.9"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "ada7b17e-f11e-4327-90ee-e0dadc5a62f4",
+    "id": "699cecaa-9aae-4edc-81b6-ea4d0103403d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -757,24 +613,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:42.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "66"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "60f4b19f-912a-4025-838d-746ef14ac1a0",
+    "id": "cc332a4f-4e05-452f-bafc-042f04156bfa",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -788,24 +638,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:42.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "4.1"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "ea80262f-7020-416c-bfc2-2525f92bfb1e",
+    "id": "2f348538-c1be-4fc0-a6b0-58c2b0bc18f4",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -819,12 +663,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:42.000000",
         "content": {
             "encoding": "utf-8",
@@ -833,10 +671,10 @@
             "size": 5,
             "value": "296.7"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "31a6419b-abf1-46ea-ae6a-591e9df38df8",
+    "id": "f0a08fed-efd1-4a2c-b5cf-f76f6ed62c3c",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -850,24 +688,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:48.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "59"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "d40ee2dd-c8b9-4b67-865c-4ee7757276ef",
+    "id": "5af4bf2c-7d36-44d7-ba50-69ab38bfab18",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -881,24 +713,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:48.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "4.6"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "871b9475-e6e8-4c43-96e7-2ffe5930aefb",
+    "id": "3607b432-d2d7-4722-be2e-438caf4e929f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -912,12 +738,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:48.000000",
         "content": {
             "encoding": "utf-8",
@@ -926,10 +746,10 @@
             "size": 5,
             "value": "296.4"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "da3ecb26-ff0a-48fe-be01-8ba2d7a0503d",
+    "id": "14158242-66a2-4be8-913a-c35013d2c7d1",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -943,24 +763,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:54.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "49"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "70009816-bbff-49f0-a517-f0c93dca85d2",
+    "id": "0dc55899-19fa-42e6-81d1-bdbc638a2bf2",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -974,24 +788,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:54.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "3.1"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "c92b64e2-e185-4d8d-82ad-6a14be3c93f6",
+    "id": "86b8d500-3aef-491c-abfa-085889eaf1e1",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1005,12 +813,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:54:54.000000",
         "content": {
             "encoding": "utf-8",
@@ -1019,10 +821,10 @@
             "size": 5,
             "value": "295.7"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "4504f5f6-0524-4caa-a8a0-cc3232b6021b",
+    "id": "ec2e1b73-ba02-4f03-985a-15cf74e731be",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1036,24 +838,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:55:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "18"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "92a4c3e3-1087-440e-b969-dfab67d8019e",
+    "id": "9e219d43-aacd-44d6-8d71-0e1f761fb92d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1067,24 +863,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:55:00.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "5.7"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "7ccba9e6-73f1-4183-a56f-76b5924dfb3f",
+    "id": "907512ae-1585-47aa-a7a2-20fa1e0a7f7e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1098,12 +888,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:55:00.000000",
         "content": {
             "encoding": "utf-8",
@@ -1112,10 +896,10 @@
             "size": 5,
             "value": "295.7"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "7dc9188d-07a6-4c59-a6d2-487b23976f74",
+    "id": "6dc8c2f2-3c40-4e7d-b118-b8dc6faeeacd",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1129,24 +913,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:55:06.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "14"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "ee63ea54-fe18-4386-93df-4d3dd3d013a2",
+    "id": "e66fa1f0-bb9e-4ba9-8c57-b5656e39b817",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1160,24 +938,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:55:06.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "7.2"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "4a885c21-689e-4140-92ed-7e7bb7aa2683",
+    "id": "98560c0e-ae9b-4b51-857e-e65ad5990b25",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1191,12 +963,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:55:06.000000",
         "content": {
             "encoding": "utf-8",
@@ -1205,10 +971,10 @@
             "size": 5,
             "value": "295.7"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "9e8bdeff-6b5d-404a-92e1-efd90015a31b",
+    "id": "a3964294-8874-4c1a-9740-f8417114af3d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1222,24 +988,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:55:12.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "14"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "3f97529d-b1af-40cd-9be6-2cdd05f5e4d9",
+    "id": "da8bd890-3293-42ba-b0a6-5d59414dbadf",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1253,24 +1013,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:55:12.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "9.8"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "0cc1a4dc-240b-44ae-90e0-e3b0db63e9a0",
+    "id": "c0ed5786-48dd-4ad2-b7eb-75e8fc6557e5",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1284,12 +1038,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:55:12.000000",
         "content": {
             "encoding": "utf-8",
@@ -1298,10 +1046,10 @@
             "size": 5,
             "value": "295.9"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "9cefa08d-40b6-4c28-a1a0-36c8b117fa5b",
+    "id": "6bdb0db7-0e9e-42fc-87ab-f3ebf2eb8a0e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1315,24 +1063,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:55:18.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "30"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "87a8f463-7fe8-49c9-a83e-0848721b2452",
+    "id": "6442719d-64a2-482a-814c-8988ea10c22d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1346,24 +1088,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:55:18.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "8.2"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "a0b7f009-2332-46df-aba2-e7c0e3e458e9",
+    "id": "cccdf5f2-4f7a-469a-bf66-50ad783cbed0",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1377,12 +1113,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:55:18.000000",
         "content": {
             "encoding": "utf-8",
@@ -1391,10 +1121,10 @@
             "size": 5,
             "value": "296.2"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "0e1afc58-13cc-42fa-a744-0465b6713857",
+    "id": "1cbc13b5-6295-4e8e-a44b-0f8ccc86fb51",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1408,24 +1138,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:55:24.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "61"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "928782cb-e8b6-4c22-bbf6-eff9f85879c8",
+    "id": "ecdada49-c11b-4b08-b253-b752d4921507",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1439,24 +1163,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:55:24.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "6.7"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "81fd598a-4838-4502-914e-18d20a1f5767",
+    "id": "b8cf4984-1b4c-44e3-a9b3-517e50ab37de",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1470,12 +1188,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:55:24.000000",
         "content": {
             "encoding": "utf-8",
@@ -1484,10 +1196,10 @@
             "size": 5,
             "value": "294.9"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "6d81dfc2-6cd1-453a-b78e-1ad8d3eeb1cb",
+    "id": "792cd799-cc68-433b-bf6a-3f75f651c258",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1501,24 +1213,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:55:30.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "74"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "573f951f-7f42-4479-96fa-a78abb770fa1",
+    "id": "3bd05bd6-07a9-433b-99cd-24b02836b97c",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1532,24 +1238,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:55:30.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "8.7"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "ccaa89f9-b270-48ea-9af3-c836736f2458",
+    "id": "49afeff0-e4ba-4a48-88cd-57cf80d58d53",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1563,12 +1263,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:55:30.000000",
         "content": {
             "encoding": "utf-8",
@@ -1577,10 +1271,10 @@
             "size": 5,
             "value": "294.9"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "07264474-9f80-4cb8-a7b7-c7e58c8c89d9",
+    "id": "a0f0ccfe-39d2-4794-81dd-db54b0bb14a1",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1594,24 +1288,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:55:50.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "79"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "36aa7ca7-4459-4dff-ab53-479398ef28d9",
+    "id": "fc3efad5-6a6e-4bc1-8706-72ca9b93cf59",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1625,24 +1313,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:55:50.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "8.2"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "78258f4a-6bf0-4f81-b563-49ad7f24ecfc",
+    "id": "6334a8d7-87dc-43a4-af84-a9af8b45751c",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1656,12 +1338,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:55:50.000000",
         "content": {
             "encoding": "utf-8",
@@ -1670,10 +1346,10 @@
             "size": 5,
             "value": "295.7"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "0cfca7a6-53bf-4528-ad75-2f5d2be62c7d",
+    "id": "71e936d0-d7ad-49aa-983a-8f3371033aa9",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1687,24 +1363,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:56:10.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "82"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "8d0672e0-ac03-4437-b29b-1f64897bd90b",
+    "id": "32238520-fc61-4d0b-9274-5060fdb4d01f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1718,24 +1388,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:56:10.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "9.3"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "11009530-902b-44ab-a5d1-e02538f71a38",
+    "id": "cab39935-c58b-4592-9c2d-8bc710f07ac8",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1749,12 +1413,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:56:10.000000",
         "content": {
             "encoding": "utf-8",
@@ -1763,10 +1421,10 @@
             "size": 5,
             "value": "294.2"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "f44be577-b0e4-4111-b5b7-dae44a88eca9",
+    "id": "774a3ad3-6d2b-4898-960b-62d3dc3b3e34",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1780,24 +1438,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:56:30.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "90"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "6042099f-3cb6-48c0-b065-28515be39974",
+    "id": "8b65588f-b456-467f-ab76-8aa99caad10e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1811,24 +1463,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:56:30.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 4,
             "value": "11.8"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "c37761cf-e6fe-4857-9e7e-5687daf8a380",
+    "id": "f562ca09-192c-4b2d-9e23-b97e5bc7e0c9",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1842,12 +1488,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:56:30.000000",
         "content": {
             "encoding": "utf-8",
@@ -1856,10 +1496,10 @@
             "size": 5,
             "value": "292.9"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "93f71fdb-5636-4dc5-b314-9f0985c34631",
+    "id": "2aab0d24-d735-4092-830a-97a5cb9d2cac",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1873,24 +1513,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:56:50.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "89"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "042e7776-64c0-40db-a0dd-37d5af3ab8ec",
+    "id": "d7d44825-b8de-48cc-92f4-c394b3fd067f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1904,24 +1538,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:56:50.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 4,
             "value": "12.9"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "ce713df2-5b91-44fc-b7db-6826bd13a7c0",
+    "id": "53652dcf-ce3d-4feb-8b5b-428e4c7f53ac",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1935,12 +1563,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:56:50.000000",
         "content": {
             "encoding": "utf-8",
@@ -1949,10 +1571,10 @@
             "size": 5,
             "value": "291.7"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "a8554f7d-0703-4f69-a64c-780be301b045",
+    "id": "57210ea8-e958-4386-b304-61f40cd65082",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1966,24 +1588,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:57:10.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "95"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "a3b78f35-c70c-49d3-b83d-bb6aa8e305be",
+    "id": "d4cc8dc5-d483-4c2c-a863-83a7731d17a6",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1997,24 +1613,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:57:10.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 4,
             "value": "13.4"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "012ed61c-b238-4fc0-9c1c-e1af0c39bf50",
+    "id": "dfac576e-fafb-43c0-9545-1159ac90b645",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2028,12 +1638,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:57:10.000000",
         "content": {
             "encoding": "utf-8",
@@ -2042,10 +1646,10 @@
             "size": 5,
             "value": "289.9"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "cd64dbd7-b9c6-4ff0-a8cb-5e25af50ae45",
+    "id": "2863857f-1c13-444c-8a3b-aed8a4936136",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2059,24 +1663,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:57:30.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "94"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "784cc233-7c70-413e-a1e4-d78696bd507e",
+    "id": "c1f98034-4afa-473b-ab55-c4f5a0f48777",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2090,24 +1688,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:57:30.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 4,
             "value": "11.8"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "c35cea74-72fc-474a-a953-453471dd05d9",
+    "id": "d4b35d68-fefb-4cd3-a20b-466e95a356e1",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2121,12 +1713,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:57:30.000000",
         "content": {
             "encoding": "utf-8",
@@ -2135,10 +1721,10 @@
             "size": 5,
             "value": "288.7"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "763d261b-6794-456a-9a58-35b5c43b1774",
+    "id": "9ca623d5-18fe-4083-a3da-0b2fd1b53638",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2152,24 +1738,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:57:50.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "88"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "6c525759-f0be-4aad-91be-b655d3bd0056",
+    "id": "f97414e2-7809-4dbe-ad17-577245de3903",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2183,24 +1763,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:57:50.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 4,
             "value": "13.4"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "2d5e06bd-2b24-4ce0-905a-ef43c316317d",
+    "id": "656044c0-6564-4416-bff3-c13766a1aa1f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2214,12 +1788,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:57:50.000000",
         "content": {
             "encoding": "utf-8",
@@ -2228,10 +1796,10 @@
             "size": 5,
             "value": "286.2"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "55691828-7c69-41fa-aa0e-06909a5f7606",
+    "id": "12a8965c-35a5-442c-a26a-a1238931b647",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2245,24 +1813,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:58:10.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "97"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "bc18fa66-5df6-481d-aa38-9f44d31f8b16",
+    "id": "70bd7e0c-a326-472c-9608-49e0e34cf202",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2276,24 +1838,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:58:10.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 4,
             "value": "11.8"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "640e3c60-5116-4d09-832f-9359e50d5547",
+    "id": "953ed0ed-4e41-401c-b679-ee05747fc331",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2307,12 +1863,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:58:10.000000",
         "content": {
             "encoding": "utf-8",
@@ -2321,10 +1871,10 @@
             "size": 5,
             "value": "284.9"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "28e82c23-1fc1-4dd7-a64b-8ab88abfd673",
+    "id": "ef7ace6b-cb16-42fb-a81a-571e55ff5975",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2338,24 +1888,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:58:30.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "95"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "eac97249-db9b-4070-b1d1-3ad1326dc98c",
+    "id": "68ed78b1-22da-41aa-881e-294dfb219561",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2369,24 +1913,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:58:30.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 4,
             "value": "10.3"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "c4689106-0f99-4f22-9ec9-b30a75c08d32",
+    "id": "cd91ef1a-ed05-405c-a97a-b7b74252f0e1",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2400,12 +1938,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:58:30.000000",
         "content": {
             "encoding": "utf-8",
@@ -2414,10 +1946,10 @@
             "size": 5,
             "value": "282.7"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "c37d127b-71a3-48a9-b0b8-846b2b4247dc",
+    "id": "24f7c72d-4fad-45c6-8d77-4f0414a5ac82",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2431,24 +1963,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:58:50.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "79"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "baa67004-d2c6-46ec-90aa-c0b6cc43f1d6",
+    "id": "222c14f7-af84-4347-8f16-580974c661e4",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2462,24 +1988,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:58:50.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 4,
             "value": "11.3"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "48c9ec30-a93e-47e5-81bb-cc9eceace405",
+    "id": "f3e6bb3d-5c84-431d-9d50-d2c1d0b9f2c3",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2493,12 +2013,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:58:50.000000",
         "content": {
             "encoding": "utf-8",
@@ -2507,10 +2021,10 @@
             "size": 5,
             "value": "280.7"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "bfeab732-9078-4ad3-9026-94d3ed748d33",
+    "id": "28191f4b-3402-46d4-8240-87bc8c2f0e47",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2524,24 +2038,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:59:10.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "76"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "fb7c9dd4-3ce7-4b5f-949c-86085fd6c525",
+    "id": "1ec0c9e8-c3f0-405a-9c1a-3e1771d2be17",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2555,24 +2063,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:59:10.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 4,
             "value": "14.4"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "91625d60-0c39-4d2b-836d-66f578b99eaa",
+    "id": "225a9999-cdfd-406c-a455-57f603cf784d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2586,12 +2088,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:59:10.000000",
         "content": {
             "encoding": "utf-8",
@@ -2600,10 +2096,10 @@
             "size": 5,
             "value": "280.7"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "28946943-b92b-47d0-bf74-ba3760d4c234",
+    "id": "70fe05af-96e6-4878-a26e-b8be0d3e1270",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2617,24 +2113,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:59:30.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "70"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "13582a55-b00a-4206-830e-4def2ab6dba4",
+    "id": "9a1395e1-5614-4907-b73d-56357be0e9c0",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2648,24 +2138,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:59:30.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 4,
             "value": "13.9"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "d9c25733-7029-4bee-8213-d9a8aaca3e9c",
+    "id": "bbab7436-b460-4f25-9399-58c358ac19cf",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2679,12 +2163,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:59:30.000000",
         "content": {
             "encoding": "utf-8",
@@ -2693,10 +2171,10 @@
             "size": 5,
             "value": "278.4"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "cec6eb3d-5713-4412-8618-5e251c330c10",
+    "id": "19c831d2-0f6a-4d3c-942c-d2ae6b7b32b7",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2710,24 +2188,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:59:50.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "62"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "f6052fc7-3e4a-4271-b830-47d2dc59590a",
+    "id": "284ef8b4-4fc8-4168-a8da-d54a175d81e6",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2741,24 +2213,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:59:50.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 4,
             "value": "12.3"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "57f444fc-2c01-4cd6-b741-66d4d89746c5",
+    "id": "76ed4187-9109-4e41-b747-7b3944326485",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2772,12 +2238,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-19T23:59:50.000000",
         "content": {
             "encoding": "utf-8",
@@ -2786,10 +2246,10 @@
             "size": 5,
             "value": "276.4"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "4a842c2c-3dc2-4c46-a102-c34f3808492e",
+    "id": "d2757311-55ea-4f2c-8d6d-c8b21cbe0826",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2803,24 +2263,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:00:10.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "70"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "c7cbaba2-4782-41f3-a3ee-3e9a777b2d61",
+    "id": "a75b5a26-99e1-4a3b-871c-475696403538",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2834,24 +2288,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:00:10.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "9.8"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "e4384003-197e-44f9-b539-7f7de94e812f",
+    "id": "7254969e-d52d-4c7d-9a9c-45e89eccde81",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2865,12 +2313,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:00:10.000000",
         "content": {
             "encoding": "utf-8",
@@ -2879,10 +2321,10 @@
             "size": 5,
             "value": "274.7"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "6416c441-50f3-4c2d-9ecd-26eda42c826b",
+    "id": "9099f410-2e6b-4ba4-9a63-e4cf40cc7f37",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2896,24 +2338,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:00:30.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "72"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "ef8ac60d-63ec-4f28-a8ad-7bfc994847f9",
+    "id": "ee04f65b-42db-4fe6-a641-81ab68e0c8cf",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2927,24 +2363,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:00:30.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "8.7"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "a20d16fa-043b-440d-9104-235cc25e7470",
+    "id": "94986954-e1d2-4d84-a2e7-2d03353c6a46",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2958,12 +2388,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:00:30.000000",
         "content": {
             "encoding": "utf-8",
@@ -2972,10 +2396,10 @@
             "size": 5,
             "value": "272.7"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "4e4b9092-eb77-436b-8dc5-53054028559e",
+    "id": "7c2f815c-759e-456b-a3b9-72b5f03237a7",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2989,24 +2413,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:00:50.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "76"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "305e4abf-4d41-4a8b-96f6-ca533f979a4d",
+    "id": "8c02c39d-aae2-4494-8dd6-51f1140a489d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3020,24 +2438,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:00:50.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "8.2"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "02dcc80f-7d6f-4f78-8796-8d7604e5d07c",
+    "id": "adcfe7bd-5e33-432e-b486-4db2f72447b6",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3051,12 +2463,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:00:50.000000",
         "content": {
             "encoding": "utf-8",
@@ -3065,10 +2471,10 @@
             "size": 3,
             "value": "271"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "18222c19-4e6c-4edd-8a51-607b4251d78b",
+    "id": "290022ae-e815-4758-a1ee-57db39f3a70b",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3082,24 +2488,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:01:10.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "71"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "e19090ba-3daa-472a-bbcf-91a90cc8a679",
+    "id": "9a86b024-d0ad-4fb5-afb8-9c39f97889c8",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3113,24 +2513,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:01:10.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "7.2"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "7ed54a9f-7478-4829-8eda-2ff3021259f5",
+    "id": "37547990-d2cb-47b4-9378-10a6418b3da6",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3144,12 +2538,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:01:10.000000",
         "content": {
             "encoding": "utf-8",
@@ -3158,10 +2546,10 @@
             "size": 5,
             "value": "269.5"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "10ba049b-ecc4-4f4a-8c5b-1eb99de26d8e",
+    "id": "e1febdc3-77dd-4dab-8b89-1a5632384725",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3175,24 +2563,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:01:30.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "72"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "af43fe23-0297-4d51-81cb-70b884f43cf2",
+    "id": "49c40b9c-b668-44df-bfcb-947ad9533711",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3206,24 +2588,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:01:30.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "6.7"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "aa253809-f98e-4d2d-8526-76e7e3430fdb",
+    "id": "dcc0fc02-b721-4101-9d28-497500c324ce",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3237,12 +2613,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:01:30.000000",
         "content": {
             "encoding": "utf-8",
@@ -3251,10 +2621,10 @@
             "size": 5,
             "value": "267.5"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "766d877d-20ef-4bcb-ad56-a027c6630b5e",
+    "id": "a3e06934-6cee-44ff-8c08-41f126e1da74",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3268,24 +2638,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:01:50.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "79"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "728948c2-4d13-4902-a114-678c1e672927",
+    "id": "ef7b3200-5df2-4066-a211-e32aa9b7d5d2",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3299,24 +2663,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:01:50.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 4,
             "value": "10.3"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "832030cf-e6c1-48ca-8a09-4676fb4618b1",
+    "id": "c3a3dd90-c0df-4bcd-91aa-ff5f27cf1ca7",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3330,12 +2688,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:01:50.000000",
         "content": {
             "encoding": "utf-8",
@@ -3344,10 +2696,10 @@
             "size": 3,
             "value": "266"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "0648236f-f2c0-42f9-a2ba-e4a1baa9c8c9",
+    "id": "6f5ef196-1edf-47ba-a085-62a38ae6df88",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3361,24 +2713,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:02:10.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "79"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "d5a37677-3c11-48fe-b34d-2baa35c51a63",
+    "id": "0d45e70e-8690-4f61-9cab-ac2fef87e916",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3392,24 +2738,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:02:10.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 4,
             "value": "10.8"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "d1b94c8a-642d-443c-9025-d9d187e55d89",
+    "id": "37f4555f-60de-4ba4-8be2-95f9259d1347",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3423,12 +2763,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:02:10.000000",
         "content": {
             "encoding": "utf-8",
@@ -3437,10 +2771,10 @@
             "size": 5,
             "value": "265.2"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "cbddb2af-1c88-4af4-82ab-2401a8be07ea",
+    "id": "423fd8a6-206b-4928-973c-d6554af122dd",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3454,24 +2788,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:02:30.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "72"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "ab893106-000c-4dd2-bb67-9c3304ea446e",
+    "id": "1ddb9a81-3190-4f30-9328-e978e1d0c36c",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3485,24 +2813,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:02:30.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "9.3"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "6f2fc8b5-6ea6-4b75-9c98-987ddf892c8f",
+    "id": "ce21f63a-ff82-4a97-b211-43c4d882d4ca",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3516,12 +2838,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:02:30.000000",
         "content": {
             "encoding": "utf-8",
@@ -3530,10 +2846,10 @@
             "size": 5,
             "value": "263.7"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "3beb8638-9ab8-4ba0-b3cf-d76e3965c72e",
+    "id": "eeb3c867-f5fe-4ea2-9814-158fb0383701",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3547,24 +2863,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:02:50.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "80"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "27fa85eb-beda-41be-b82f-20b53eba2fce",
+    "id": "a8e6b0ec-00bf-4b08-8c34-b3618608f7f9",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3578,24 +2888,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:02:50.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "5.1"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "d6c638a3-13af-4fd3-a8f7-e1f24c59ae62",
+    "id": "89b26abd-95c6-44ef-b99b-88be56d6e5b6",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3609,12 +2913,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:02:50.000000",
         "content": {
             "encoding": "utf-8",
@@ -3623,10 +2921,10 @@
             "size": 5,
             "value": "263.5"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "fbcea153-ce01-485b-a9f3-88d8042add18",
+    "id": "8159ad6d-3eac-4949-9f06-a56bf49a3758",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3640,24 +2938,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:03:10.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "97"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "b70019c1-142e-49fb-a2d1-25584b043b88",
+    "id": "452253ff-aae6-4b83-a61b-6e9ab7e12935",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3671,24 +2963,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:03:10.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "5.1"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "8985ccd6-571e-46c4-b9a1-ab943a1b172c",
+    "id": "95a6b9ed-1a05-4326-b479-98303cd3cd65",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3702,12 +2988,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:03:10.000000",
         "content": {
             "encoding": "utf-8",
@@ -3716,10 +2996,10 @@
             "size": 3,
             "value": "262"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "4405f9e1-5440-4ec0-acaa-98dc2a7865e8",
+    "id": "53450f30-1b5e-4806-aeeb-fbe964b7ec1a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3733,24 +3013,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:03:30.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "90"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "d5f5687e-8020-4e59-ad82-ea7c143f8260",
+    "id": "e6011a4a-f8fe-49e8-ab9c-3491ead1fcfc",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3764,24 +3038,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:03:30.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "5.7"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "20a3a54e-bc75-4931-908c-2855e0bdad07",
+    "id": "377ee103-d118-41de-a068-833104836a2c",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3795,12 +3063,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:03:30.000000",
         "content": {
             "encoding": "utf-8",
@@ -3809,10 +3071,10 @@
             "size": 3,
             "value": "261"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "b08eaaa7-77e8-42f1-82dd-472737affddb",
+    "id": "ef4debb7-87f8-4b4d-b7f5-84fdc524266a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3826,24 +3088,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:03:50.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_from_direction",
-            "unit": "deg",
+            "unit": "degree",
             "size": 2,
             "value": "84"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "f7bb3da8-dead-42b7-bb2b-9a13f4027b85",
+    "id": "f7c4d59a-7d5d-45a2-b20c-ff55df47ba50",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3857,24 +3113,18 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:03:50.000000",
         "content": {
             "encoding": "utf-8",
             "standard_name": "wind_speed",
-            "unit": "m/s",
+            "unit": "m s-1",
             "size": 3,
             "value": "6.2"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }{
-    "id": "46445321-8431-406c-9d72-3b016b9a41f1",
+    "id": "583b3f6f-893a-40a6-9db4-17bffcc7e0a4",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3888,12 +3138,6 @@
     "properties": {
         "data_id": "data_id",
         "metadata_id": "metatata_id",
-        "station_id": {
-            "aircraft_registration_number_or_other_identification": "MX0036",
-            "aircraft_flight_number": "NS5DOZZA",
-            "origination_airport": "CME",
-            "destination_airport": "MEX"
-        },
         "datetime": "2023-07-20T00:03:50.000000",
         "content": {
             "encoding": "utf-8",
@@ -3902,6 +3146,6 @@
             "size": 3,
             "value": "259"
         },
-        "pubtime": "2023-09-18T13:40:22.000000"
+        "pubtime": "2023-09-25T13:45:53.000000"
     }
 }
