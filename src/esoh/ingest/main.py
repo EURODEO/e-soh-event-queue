@@ -21,6 +21,10 @@ class ingest_to_pipeline():
                  uuid_prefix: str,
                  testing: bool = False,
                  esoh_mqtt_schema="schemas/e-soh-message-spec.json"):
+    def __init__(self, mqtt_conf: dict,
+                 uuid_prefix: str,
+                 testing: bool = False,
+                 esoh_mqtt_schema="schemas/e-soh-message-spec.json"):
         self.uuid_prefix = uuid_prefix
 
         if testing:
@@ -43,6 +47,7 @@ class ingest_to_pipeline():
         if not input_type:
             input_type = self.decide_input_type(message)
 
+        self.build_message(message, input_type)
         self.publish_messages(self._build_message(message, input_type))
 
     def publish_messages(self, messages: list):
