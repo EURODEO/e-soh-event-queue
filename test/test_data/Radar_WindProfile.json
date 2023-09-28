@@ -1,5 +1,5 @@
 {
-    "id": "3855c750-96cd-44d8-ad0b-bb43631e65af",
+    "id": "b7c08b02-1523-48db-8fa5-e70b08d9c072",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -21,11 +21,12 @@
             "size": 3,
             "value": "301"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "ddef928e-16a7-415c-a56d-9ba732e23488",
+    "id": "c340c327-fe31-43b8-a93d-bb5b278c1cbf",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -47,11 +48,12 @@
             "size": 3,
             "value": "5.3"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "cc081f0e-ad56-47ec-a6a0-d0aa8d7aaed5",
+    "id": "3094bcdb-0cfb-49f3-9ba6-920ba42ab91e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -73,11 +75,12 @@
             "size": 3,
             "value": "308"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "6be0d328-f322-4c99-8319-65489b0b81ae",
+    "id": "433e4e10-4a5d-4795-a37f-8e840b2f1f5b",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -99,11 +102,12 @@
             "size": 3,
             "value": "6.2"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "7a4b8fb2-1549-4247-8daf-9f121130752d",
+    "id": "bc869363-9cb8-4104-924e-65b822a8746a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -125,11 +129,12 @@
             "size": 3,
             "value": "300"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "bcc3e57b-eb06-4bd5-9082-c57cdb5e95ae",
+    "id": "0afe2fda-2468-41cd-836a-29c62f8c7494",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -151,11 +156,12 @@
             "size": 3,
             "value": "6.4"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "f74b02b4-65c4-4779-bf3d-44b09273ce3b",
+    "id": "885b752d-32db-4f99-9097-995ecd258486",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -177,11 +183,12 @@
             "size": 3,
             "value": "296"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "e43d73a5-62d0-4a52-ae0a-70711248c099",
+    "id": "8602785c-8d61-4270-a38a-41ab79a6eb04",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -203,11 +210,12 @@
             "size": 3,
             "value": "6.3"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "b506c6cf-fd4d-4bfe-924c-19ba6971b7ea",
+    "id": "7fe96f3b-664a-42a1-b867-6c5bfc89da58",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -229,11 +237,12 @@
             "size": 3,
             "value": "298"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "33062309-19cb-4d73-b4a5-5016536893e6",
+    "id": "2e2d7daa-1d76-4ead-906d-e2f62db1fa87",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -255,11 +264,12 @@
             "size": 3,
             "value": "6.3"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "32050a7b-392a-4c5c-823d-5f6ce301ade4",
+    "id": "505f35aa-2e3d-43ef-b737-dd185e4d2119",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -281,11 +291,12 @@
             "size": 3,
             "value": "294"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "de3fbe52-4800-4f1f-949b-95cb70c88d42",
+    "id": "2154a1b3-3fe8-4793-a8a8-fde3fbc9ddbc",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -307,11 +318,12 @@
             "size": 3,
             "value": "6.7"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "64dd2160-cc47-4356-b97a-bb8638aa3f54",
+    "id": "651dc449-1143-4adc-a201-d08deacd511c",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -333,11 +345,12 @@
             "size": 3,
             "value": "300"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "86283112-7533-495e-981c-0968d2c2270b",
+    "id": "c8e01d98-516c-43da-9249-50838dbd4b3e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -359,11 +372,12 @@
             "size": 3,
             "value": "7.2"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "b7170615-e706-46bf-bef8-92195778a830",
+    "id": "e8752d6f-2d71-47b5-9f6b-5e989f92d861",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -385,11 +399,12 @@
             "size": 3,
             "value": "301"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "14c3dd18-3b60-4da1-8c0c-8d56a0071cfa",
+    "id": "b8895918-661b-466b-b020-5501af5b0464",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -411,11 +426,12 @@
             "size": 3,
             "value": "7.3"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "3068879b-688d-4de4-997e-8cf25889a812",
+    "id": "6f4b363a-bfb9-46e9-b50d-ad8b9453c5e4",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -437,11 +453,12 @@
             "size": 3,
             "value": "302"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "4a30e2a5-388a-431a-a468-ec4027894ba2",
+    "id": "78f5f0c9-8326-4630-b1e6-421b3a3cbc52",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -463,11 +480,12 @@
             "size": 1,
             "value": "8"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "4e2f5131-35eb-43e1-b716-7c77051da54c",
+    "id": "1428ec79-ae6c-44d1-ae7a-385b43c57dd8",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -489,11 +507,12 @@
             "size": 3,
             "value": "298"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "dd596062-e203-4c5b-a3e6-4ef704e6b452",
+    "id": "00c3a46d-9dae-431a-8fda-e21d2a86c576",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -515,11 +534,12 @@
             "size": 3,
             "value": "8.4"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "1faea730-f4bd-4056-8b2e-71d1341025da",
+    "id": "b3da7006-ec52-4ceb-bae7-4c16d73698d8",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -541,11 +561,12 @@
             "size": 3,
             "value": "297"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "fec2638e-eef2-43eb-878d-9fe92cf22f71",
+    "id": "a0675114-1258-4698-9837-214846bbc65c",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -567,11 +588,12 @@
             "size": 1,
             "value": "9"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "f9971b5b-568d-4fba-8b93-e79ec52437be",
+    "id": "2f0121f8-f08f-4c36-8bc6-8afc38b7223b",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -593,11 +615,12 @@
             "size": 3,
             "value": "300"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "56c29b7b-e019-453e-95a9-1e3877591455",
+    "id": "5a492284-6472-4b0b-a2bc-24809ad0b932",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -619,11 +642,12 @@
             "size": 3,
             "value": "9.3"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "b33e7a22-1545-444c-9663-eb6fc1ed8795",
+    "id": "90b0a700-6884-494f-8bf6-3eca703d08fd",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -645,11 +669,12 @@
             "size": 3,
             "value": "299"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "213788c6-6bff-4990-af89-535323e41de2",
+    "id": "d9ed5eff-d1bf-4efd-b7a1-ee98a390f9da",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -671,11 +696,12 @@
             "size": 3,
             "value": "9.8"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "37f3318e-4f0d-49e1-8ff6-cddcd0386e45",
+    "id": "61825ac0-f7df-49c5-aba1-401b685c7464",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -697,11 +723,12 @@
             "size": 3,
             "value": "301"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "948b423e-1091-4ce1-b4ef-ccf1ace34b88",
+    "id": "a22de981-e4f4-4f59-bf87-da5bac315d41",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -723,11 +750,12 @@
             "size": 4,
             "value": "10.6"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "5ae9027f-3197-41f6-9f27-27dae4a99a34",
+    "id": "924ca894-a15d-49b8-9f31-7ff0e1a7d2a2",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -749,11 +777,12 @@
             "size": 3,
             "value": "300"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "153820e7-eb22-41e1-9463-6deede1a59a6",
+    "id": "d7699c92-72f2-439c-b9d2-5d9db002db19",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -775,11 +804,12 @@
             "size": 4,
             "value": "11.3"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "e06f644b-6bcb-4ac1-aba9-45d5795524c4",
+    "id": "c4d7d564-3e8b-4031-9261-5ca7ce1f5f89",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -801,11 +831,12 @@
             "size": 3,
             "value": "302"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "551d5119-33a5-49d3-a09f-457f17bfe541",
+    "id": "328e8db8-3c5f-491d-ad26-421279d887c8",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -827,11 +858,12 @@
             "size": 4,
             "value": "11.8"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "7990523b-a217-458b-891e-79a0109fc0f2",
+    "id": "b8903228-9d58-4782-bbf8-bb8bdc83eba1",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -853,11 +885,12 @@
             "size": 3,
             "value": "300"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "84a95f99-263d-4f1f-b9de-2abf229d05c6",
+    "id": "d7423c03-e456-4738-be2f-46d217ce3719",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -879,11 +912,12 @@
             "size": 4,
             "value": "12.7"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "8268fd58-e7a4-49f3-9900-6d4f4f5415c5",
+    "id": "ac7a2651-f840-403b-b3b9-4499c29f7378",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -905,11 +939,12 @@
             "size": 3,
             "value": "294"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "8750a8e9-8b7c-4401-b972-94a6aa9e6d7e",
+    "id": "8037f4d4-fe6d-4327-941f-d0b99bc28b97",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -931,11 +966,12 @@
             "size": 4,
             "value": "12.4"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "9cacd974-752e-47f2-9ad5-94fed73fb8a0",
+    "id": "572f80bb-1097-4741-99ed-fe5a89529fe4",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -957,11 +993,12 @@
             "size": 3,
             "value": "290"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }{
-    "id": "6e1279ab-7fdb-49cc-9535-93df5b9bee0c",
+    "id": "7786b968-76a4-484c-9681-303ecbf51231",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -983,7 +1020,8 @@
             "size": 4,
             "value": "12.3"
         },
-        "pubtime": "2023-09-25T13:45:49.000000",
-        "platform": "0-20000-0-11718"
+        "pubtime": "2023-09-28T15:39:33.000000",
+        "platform": "0-20000-0-11718",
+        "platform_name": "RADAR Skalky"
     }
 }

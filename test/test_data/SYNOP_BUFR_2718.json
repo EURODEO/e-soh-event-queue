@@ -1,5 +1,5 @@
 {
-    "id": "7c66d857-2265-4152-99fc-33bfeb1f75e5",
+    "id": "b1df3720-e4cb-4f44-962c-afb4d33a62fe",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -21,12 +21,12 @@
             "size": 6,
             "value": "102920"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06201",
         "platform_name": "Platform D15-FA-1"
     }
 }{
-    "id": "ea877c75-1573-4d37-ad4b-ec0eb80e59bd",
+    "id": "800ac54e-e73d-4ec7-a90d-b92eac4c3ac1",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -48,12 +48,12 @@
             "size": 6,
             "value": "103370"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06201",
         "platform_name": "Platform D15-FA-1"
     }
 }{
-    "id": "80cc0593-12c3-4f32-8bfe-03adffb4aa50",
+    "id": "498bb9b6-6ff1-4844-9764-dae469fd1fb5",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -75,12 +75,12 @@
             "size": 6,
             "value": "278.95"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06201",
-        "platform_name": "Platform D15-FA-1"
+        "platform_name": "D15-FA-1"
     }
 }{
-    "id": "ae98da67-04bd-4191-a1c8-07876db6df35",
+    "id": "d8991ae7-a920-4ad9-abb4-9be67b816f01",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -102,12 +102,12 @@
             "size": 2,
             "value": "19"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06201",
-        "platform_name": "Platform D15-FA-1"
+        "platform_name": "D15-FA-1"
     }
 }{
-    "id": "a16ad3a1-87ba-4ef4-bcd2-3c0a3e3164e5",
+    "id": "5ebe503d-0fff-4bd5-9231-94f587c1a69f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -129,12 +129,12 @@
             "size": 1,
             "value": "4"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06201",
-        "platform_name": "Platform D15-FA-1"
+        "platform_name": "D15-FA-1"
     }
 }{
-    "id": "ef9365c0-9059-4fa8-bc85-47c4136aa5db",
+    "id": "93dca1dd-6fe8-4a27-9dad-c37eb22736e7",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -156,12 +156,12 @@
             "size": 6,
             "value": "102880"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06203",
         "platform_name": "Platform P11-B"
     }
 }{
-    "id": "987a11e5-2a61-4fc7-b5af-40c8b24b08ad",
+    "id": "ee92f418-9d1f-4d35-93fb-042b427ba4bb",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -183,12 +183,12 @@
             "size": 6,
             "value": "103180"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06203",
         "platform_name": "Platform P11-B"
     }
 }{
-    "id": "e3675a3a-2dab-40ec-885c-245c14e79366",
+    "id": "0041ed2a-a1dc-4ea0-9b08-a4b4041c3d73",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -210,12 +210,12 @@
             "size": 6,
             "value": "279.65"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06203",
-        "platform_name": "Platform P11-B"
+        "platform_name": "P11-B"
     }
 }{
-    "id": "3ceffcc6-dcea-465e-81ed-e44041e1bc40",
+    "id": "6614db8f-6c27-4a7f-84bc-9e612cb3f3b8",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -237,12 +237,12 @@
             "size": 6,
             "value": "272.95"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06203",
-        "platform_name": "Platform P11-B"
+        "platform_name": "P11-B"
     }
 }{
-    "id": "cb191173-ac56-4ad3-afb3-1a68e7fd781b",
+    "id": "43806160-bfd1-4675-8e9d-e63037768d3b",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -264,12 +264,12 @@
             "size": 2,
             "value": "62"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06203",
-        "platform_name": "Platform P11-B"
+        "platform_name": "P11-B"
     }
 }{
-    "id": "a5285725-7b15-4b6b-9731-6f273a632fef",
+    "id": "65ae24d0-e45a-4a7d-8d1d-287145f53714",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -291,12 +291,12 @@
             "size": 2,
             "value": "46"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06203",
-        "platform_name": "Platform P11-B"
+        "platform_name": "P11-B"
     }
 }{
-    "id": "8ef92712-258d-47a0-807a-4669bd426e0a",
+    "id": "81b640fc-eb2d-4e6d-b784-7272e4d856e4",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -318,12 +318,12 @@
             "size": 2,
             "value": "10"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06203",
-        "platform_name": "Platform P11-B"
+        "platform_name": "P11-B"
     }
 }{
-    "id": "016b4995-6ef4-41c7-a758-d9eb81cc18b1",
+    "id": "7838e9ee-0cae-4a29-879e-4e7a230b4514",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -345,12 +345,12 @@
             "size": 6,
             "value": "102920"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06204",
         "platform_name": "Platform K14-FA-1C"
     }
 }{
-    "id": "76773b84-989f-4db8-9b0a-8e9bf2c717b8",
+    "id": "a64883bc-8226-4cdd-898d-d60572216e95",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -372,12 +372,12 @@
             "size": 6,
             "value": "103270"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06204",
         "platform_name": "Platform K14-FA-1C"
     }
 }{
-    "id": "8a86ff2a-e6db-4503-853e-2c3dcbd15b01",
+    "id": "f2591b3f-3c1e-4cae-ac61-0998f2c9895e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -399,12 +399,12 @@
             "size": 6,
             "value": "279.35"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06204",
-        "platform_name": "Platform K14-FA-1C"
+        "platform_name": "K14-FA-1C"
     }
 }{
-    "id": "a1031518-e86f-4a53-88e8-4148c2218dc0",
+    "id": "6f63f7ca-4b49-4ffe-921e-594244da6f0c",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -426,12 +426,12 @@
             "size": 6,
             "value": "275.75"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06204",
-        "platform_name": "Platform K14-FA-1C"
+        "platform_name": "K14-FA-1C"
     }
 }{
-    "id": "018cccfd-9fe0-44b4-9571-9ca18c0eb00d",
+    "id": "779bfdc0-e14f-411d-8ad0-4cd539407c30",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -453,12 +453,12 @@
             "size": 2,
             "value": "77"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06204",
-        "platform_name": "Platform K14-FA-1C"
+        "platform_name": "K14-FA-1C"
     }
 }{
-    "id": "7cdbf467-f8c2-46a4-897d-b75c574e39df",
+    "id": "b3471038-2771-4fdb-8636-4680f2632f60",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -480,12 +480,12 @@
             "size": 2,
             "value": "39"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06204",
-        "platform_name": "Platform K14-FA-1C"
+        "platform_name": "K14-FA-1C"
     }
 }{
-    "id": "6a4cdcdb-684d-47ea-b620-f34ed5efbaf6",
+    "id": "38049949-0a37-41cf-85d5-661e6e25746c",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -507,12 +507,12 @@
             "size": 1,
             "value": "7"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06204",
-        "platform_name": "Platform K14-FA-1C"
+        "platform_name": "K14-FA-1C"
     }
 }{
-    "id": "699353d1-a79c-4c43-9326-406eaab9dcf5",
+    "id": "b2fd4c47-4194-4ac6-924f-508ec8419fa9",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -534,12 +534,12 @@
             "size": 6,
             "value": "102950"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06205",
         "platform_name": "Platform A12-CPP"
     }
 }{
-    "id": "94dec214-13ef-472b-9451-b814534270cb",
+    "id": "b34c4f12-12c9-42bd-b031-3dfe00340ad4",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -561,12 +561,12 @@
             "size": 6,
             "value": "103380"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06205",
         "platform_name": "Platform A12-CPP"
     }
 }{
-    "id": "3d27aa96-b142-4973-9d10-1ee292ac6495",
+    "id": "4fbff2e3-fb55-4d06-a7e3-0cab9233d3fe",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -588,12 +588,12 @@
             "size": 6,
             "value": "278.95"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06205",
-        "platform_name": "Platform A12-CPP"
+        "platform_name": "A12-CPP"
     }
 }{
-    "id": "896a1a1a-22ed-468c-a4e1-e38080abb687",
+    "id": "40896865-5a0b-410f-9a4a-107f8773f7b0",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -615,12 +615,12 @@
             "size": 6,
             "value": "278.75"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06205",
-        "platform_name": "Platform A12-CPP"
+        "platform_name": "A12-CPP"
     }
 }{
-    "id": "5e78a886-ff58-483f-93ce-3241bc641b5c",
+    "id": "8b239083-7caf-443f-a688-f91ac326637f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -642,12 +642,12 @@
             "size": 2,
             "value": "98"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06205",
-        "platform_name": "Platform A12-CPP"
+        "platform_name": "A12-CPP"
     }
 }{
-    "id": "fc8984b7-2390-4620-8c14-ff38757d02c3",
+    "id": "4b0586a1-e2ad-45ef-903c-ea5868c4d4e8",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -669,12 +669,12 @@
             "size": 2,
             "value": "45"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06205",
-        "platform_name": "Platform A12-CPP"
+        "platform_name": "A12-CPP"
     }
 }{
-    "id": "34fcfcff-d903-4bbc-a8c2-ddfc0097229c",
+    "id": "974b3069-fcd1-466a-a9ff-56ccdaf193a8",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -696,12 +696,12 @@
             "size": 1,
             "value": "4"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06205",
-        "platform_name": "Platform A12-CPP"
+        "platform_name": "A12-CPP"
     }
 }{
-    "id": "adc101eb-9f2b-464e-913d-f01fc3f599e0",
+    "id": "de4b8406-b3d0-4fc0-ad32-4a5d9d88f912",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -723,12 +723,12 @@
             "size": 6,
             "value": "102960"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06207",
         "platform_name": "Platform L9-FF-1"
     }
 }{
-    "id": "81c177e4-509c-40d7-94df-2bae4e404df9",
+    "id": "ad93ebd0-cd2c-47ab-992c-01c31701430e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -750,12 +750,12 @@
             "size": 6,
             "value": "103350"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06207",
         "platform_name": "Platform L9-FF-1"
     }
 }{
-    "id": "a608cd7b-9eab-4544-ab94-7179067ea6ca",
+    "id": "a45b2df7-9601-45e6-bd3b-6612a36324c3",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -777,12 +777,12 @@
             "size": 6,
             "value": "279.45"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06207",
-        "platform_name": "Platform L9-FF-1"
+        "platform_name": "L9-FF-1"
     }
 }{
-    "id": "b7d88ec8-8406-43f5-93dc-8895f67df5b0",
+    "id": "b3a546e6-d2a8-4d4f-9527-9b8a38161e6d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -804,12 +804,12 @@
             "size": 6,
             "value": "276.05"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06207",
-        "platform_name": "Platform L9-FF-1"
+        "platform_name": "L9-FF-1"
     }
 }{
-    "id": "2f95551a-8b43-4fb2-a45b-9d7204433b8e",
+    "id": "599d8ad2-3b44-43d1-b295-1a71f77b2252",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -831,12 +831,12 @@
             "size": 2,
             "value": "78"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06207",
-        "platform_name": "Platform L9-FF-1"
+        "platform_name": "L9-FF-1"
     }
 }{
-    "id": "f37a4689-4d75-41df-bcf5-0b2949a2e09e",
+    "id": "9d2ca653-323b-4bae-b2c7-7ad02a66ea13",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -858,12 +858,12 @@
             "size": 2,
             "value": "38"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06207",
-        "platform_name": "Platform L9-FF-1"
+        "platform_name": "L9-FF-1"
     }
 }{
-    "id": "a13a21ac-02a1-4dbb-b950-8a8239635a3d",
+    "id": "a57c1998-015d-426c-aa48-9c2ee3a72b6d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -885,12 +885,12 @@
             "size": 1,
             "value": "6"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06207",
-        "platform_name": "Platform L9-FF-1"
+        "platform_name": "L9-FF-1"
     }
 }{
-    "id": "e42a7ac4-624f-4c6a-bb86-94e23d381418",
+    "id": "afc4434b-007b-4590-a863-5159425b4e30",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -912,12 +912,12 @@
             "size": 6,
             "value": "102880"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06208",
         "platform_name": "Platform AWG-1"
     }
 }{
-    "id": "b4a001b1-f4ee-4066-af2b-62c07f47e05f",
+    "id": "4662a194-ea7b-40fc-b5f4-8aba319be94e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -939,12 +939,12 @@
             "size": 6,
             "value": "103210"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06208",
         "platform_name": "Platform AWG-1"
     }
 }{
-    "id": "caa08a1f-5bc5-4d72-bd3c-6436e8290573",
+    "id": "54db0702-7d23-49a6-984b-ba29667e7c3f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -966,12 +966,12 @@
             "size": 6,
             "value": "279.35"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06208",
-        "platform_name": "Platform AWG-1"
+        "platform_name": "AWG-1"
     }
 }{
-    "id": "9930443b-856a-4732-bd55-9083073a876e",
+    "id": "28d8775a-dc9b-4dff-a253-36f3ee9d69df",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -993,12 +993,12 @@
             "size": 6,
             "value": "275.55"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06208",
-        "platform_name": "Platform AWG-1"
+        "platform_name": "AWG-1"
     }
 }{
-    "id": "e2f7900b-5062-4727-99be-18a6cf4ec106",
+    "id": "4858fae4-95a3-4521-9103-8a4bbd05dd64",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1020,12 +1020,12 @@
             "size": 2,
             "value": "76"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06208",
-        "platform_name": "Platform AWG-1"
+        "platform_name": "AWG-1"
     }
 }{
-    "id": "619a38c0-b7ce-4a3b-a8c9-77913f9aab4b",
+    "id": "4c511bad-cade-4343-8343-d90e6e4f3429",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1047,12 +1047,12 @@
             "size": 2,
             "value": "31"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06208",
-        "platform_name": "Platform AWG-1"
+        "platform_name": "AWG-1"
     }
 }{
-    "id": "e3365b02-5629-449c-a129-30e2a398c684",
+    "id": "ef54e456-e39e-4dba-8c5f-c3eb1a5845ab",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1074,12 +1074,12 @@
             "size": 1,
             "value": "5"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06208",
-        "platform_name": "Platform AWG-1"
+        "platform_name": "AWG-1"
     }
 }{
-    "id": "477c4581-c8de-4554-a2c4-d5272c675e13",
+    "id": "144e84e6-be9f-4810-aafe-df3b6a8f4734",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1101,12 +1101,12 @@
             "size": 2,
             "value": "39"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06209",
-        "platform_name": "IJmond"
+        "platform_name": "IJMOND WP"
     }
 }{
-    "id": "cc8a075d-85d3-4b0a-b5c8-51dde0d6fd13",
+    "id": "e626a174-60e3-4123-99d3-907648d55fb1",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1128,12 +1128,12 @@
             "size": 1,
             "value": "7"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06209",
-        "platform_name": "IJmond"
+        "platform_name": "IJMOND WP"
     }
 }{
-    "id": "fc57da50-5246-4778-8d52-c8ab7146237e",
+    "id": "7f5fc957-6e63-4f83-9183-3bb0e847cd7d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1155,12 +1155,12 @@
             "size": 6,
             "value": "102890"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06211",
         "platform_name": "Platform J6-A"
     }
 }{
-    "id": "30ac8783-7dc8-44dd-bfa4-0d883b32c768",
+    "id": "90189b60-bc35-475f-be60-ea75c4c520a7",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1182,12 +1182,12 @@
             "size": 6,
             "value": "103320"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06211",
         "platform_name": "Platform J6-A"
     }
 }{
-    "id": "f6c369d3-c3c6-488d-8a61-0e7ca0f20f31",
+    "id": "e1cb27e5-bd13-478a-8a83-16a206853837",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1209,12 +1209,12 @@
             "size": 6,
             "value": "279.45"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06211",
-        "platform_name": "Platform J6-A"
+        "platform_name": "J6-A"
     }
 }{
-    "id": "f1f7c3db-4542-42cb-b8f5-0d11ea635eec",
+    "id": "e44aac06-5f89-4ddb-a521-f4a08762cdca",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1236,12 +1236,12 @@
             "size": 6,
             "value": "275.85"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06211",
-        "platform_name": "Platform J6-A"
+        "platform_name": "J6-A"
     }
 }{
-    "id": "02448023-627c-493a-81ab-44249709d3a9",
+    "id": "1e2850d1-ec67-4e86-963e-72ec4944696a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1263,12 +1263,12 @@
             "size": 2,
             "value": "77"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06211",
-        "platform_name": "Platform J6-A"
+        "platform_name": "J6-A"
     }
 }{
-    "id": "50048085-9947-41b8-9132-f917835457e2",
+    "id": "07aedc6c-a153-43f8-8d75-0c8250e48aa4",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1290,12 +1290,12 @@
             "size": 2,
             "value": "46"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06211",
-        "platform_name": "Platform J6-A"
+        "platform_name": "J6-A"
     }
 }{
-    "id": "f12d9b8b-ef80-4077-ab5c-2c087e051433",
+    "id": "b4829e51-258e-4604-a552-aac7949558dd",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1317,12 +1317,12 @@
             "size": 1,
             "value": "5"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06211",
-        "platform_name": "Platform J6-A"
+        "platform_name": "J6-A"
     }
 }{
-    "id": "5d8c9c83-ec70-4528-be0c-a0d394b0513b",
+    "id": "9431e23c-52c5-41a5-b66a-228dfc08a2a5",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1344,12 +1344,12 @@
             "size": 6,
             "value": "102780"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06214",
         "platform_name": "Platform BG-OHVS2"
     }
 }{
-    "id": "1a229ed4-e981-4efd-bdb0-c6421c1b90a5",
+    "id": "3e13a976-c1e6-42e7-b05d-9236c213e27b",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1371,12 +1371,12 @@
             "size": 6,
             "value": "103240"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06214",
         "platform_name": "Platform BG-OHVS2"
     }
 }{
-    "id": "3ae6b28b-f882-456a-9804-53c9b1cb4bbc",
+    "id": "9cf673d3-3b00-4842-9874-4be516fd2350",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1398,12 +1398,12 @@
             "size": 6,
             "value": "279.55"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06214",
-        "platform_name": "Platform BG-OHVS2"
+        "platform_name": "BUITENGAATS/BG-OHVS2"
     }
 }{
-    "id": "810eac11-5f0b-42e8-962d-b5afe59e7dea",
+    "id": "89913623-eb06-4039-9861-426ff8e89407",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1425,12 +1425,12 @@
             "size": 6,
             "value": "275.85"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06214",
-        "platform_name": "Platform BG-OHVS2"
+        "platform_name": "BUITENGAATS/BG-OHVS2"
     }
 }{
-    "id": "5f542b55-c384-4405-93d4-8c176e495937",
+    "id": "d248ea35-cd5f-4bfd-a3e7-acaad5c8f1ec",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1452,12 +1452,12 @@
             "size": 2,
             "value": "77"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06214",
-        "platform_name": "Platform BG-OHVS2"
+        "platform_name": "BUITENGAATS/BG-OHVS2"
     }
 }{
-    "id": "6a975e48-d87e-431f-ad39-a57e85765986",
+    "id": "82e644fd-7558-48d0-95ab-4bef8097b335",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1479,12 +1479,12 @@
             "size": 2,
             "value": "46"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06214",
-        "platform_name": "Platform BG-OHVS2"
+        "platform_name": "BUITENGAATS/BG-OHVS2"
     }
 }{
-    "id": "f86ab0f7-f934-4fed-9a62-3aef82f232c4",
+    "id": "1d00b085-09b7-45dd-9388-9790c31244d4",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1506,12 +1506,12 @@
             "size": 1,
             "value": "4"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06214",
-        "platform_name": "Platform BG-OHVS2"
+        "platform_name": "BUITENGAATS/BG-OHVS2"
     }
 }{
-    "id": "428d548c-7c3f-4f74-bd6e-214d1d35724b",
+    "id": "3cbd6e45-0111-44ac-b4fd-09992d58bcd1",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1533,12 +1533,12 @@
             "size": 6,
             "value": "103090"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06215",
         "platform_name": "Voorschoten"
     }
 }{
-    "id": "f52db6ad-193a-4408-bdf2-1d06ceaee2f0",
+    "id": "c763cd66-f267-4c03-879b-51fd81770cd5",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1560,12 +1560,12 @@
             "size": 6,
             "value": "103100"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06215",
         "platform_name": "Voorschoten"
     }
 }{
-    "id": "a45a6fb4-debd-45b4-bc85-2d9c7f3c6ef2",
+    "id": "e2c11116-4565-4445-a824-449594de8f6a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1587,12 +1587,12 @@
             "size": 6,
             "value": "277.75"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06215",
-        "platform_name": "Voorschoten"
+        "platform_name": "VOORSCHOTEN AWS"
     }
 }{
-    "id": "58339e63-7e1d-4be4-a5cd-9bc60ea5b054",
+    "id": "fda4d69f-8d1b-4d75-8145-1001cb909248",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1614,12 +1614,12 @@
             "size": 6,
             "value": "271.55"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06215",
-        "platform_name": "Voorschoten"
+        "platform_name": "VOORSCHOTEN AWS"
     }
 }{
-    "id": "d84939f3-db42-414c-a1c4-91ea8ba3cb03",
+    "id": "5caad123-4e14-4bf7-ba6a-d0a54f80c086",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1641,12 +1641,12 @@
             "size": 2,
             "value": "64"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06215",
-        "platform_name": "Voorschoten"
+        "platform_name": "VOORSCHOTEN AWS"
     }
 }{
-    "id": "50d925df-66b3-4e80-a308-b108933f2b7c",
+    "id": "abc239bd-f17d-4879-948b-c3c8ad9ee168",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1668,13 +1668,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06215",
-        "platform_name": "Voorschoten",
+        "platform_name": "VOORSCHOTEN AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "97517146-2916-45bd-bcb9-df14121b3fd6",
+    "id": "ac0a2c8d-f57c-4159-a1cd-35d85675014f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1696,13 +1696,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06215",
-        "platform_name": "Voorschoten",
+        "platform_name": "VOORSCHOTEN AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "4d30bf41-bd72-4ff6-84e8-048aeb01d338",
+    "id": "390f27f6-caa4-4372-ab02-8eccd4e73b24",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1724,12 +1724,12 @@
             "size": 2,
             "value": "42"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06215",
-        "platform_name": "Voorschoten"
+        "platform_name": "VOORSCHOTEN AWS"
     }
 }{
-    "id": "8ff378a2-7385-44ad-aa19-e2613a28d014",
+    "id": "e0c3f81e-75ea-4e6c-afd4-e6fd53d0d858",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1751,12 +1751,12 @@
             "size": 1,
             "value": "4"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06215",
-        "platform_name": "Voorschoten"
+        "platform_name": "VOORSCHOTEN AWS"
     }
 }{
-    "id": "da2cf9f7-c006-4919-8b67-723aa0c7e1ee",
+    "id": "b9244121-e240-422a-94a8-2b627e97188f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1778,12 +1778,12 @@
             "size": 2,
             "value": "25"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06225",
-        "platform_name": "IJmuiden"
+        "platform_name": "IJMUIDEN WP"
     }
 }{
-    "id": "cb7961a3-912a-451e-aa98-f2fcdd419648",
+    "id": "cbac95ce-1255-4a8f-ae19-32535b84f28a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1805,12 +1805,12 @@
             "size": 1,
             "value": "6"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06225",
-        "platform_name": "IJmuiden"
+        "platform_name": "IJMUIDEN WP"
     }
 }{
-    "id": "5acdd298-d22b-4944-9667-b0fd78ae6a7c",
+    "id": "2f4c52c5-7c40-49fd-a3f6-6bfc2d56bc54",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1832,12 +1832,12 @@
             "size": 2,
             "value": "25"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06229",
-        "platform_name": "Texelhors"
+        "platform_name": "TEXELHORS WP"
     }
 }{
-    "id": "8ef3e215-26cd-4f49-a4b8-878788e71be3",
+    "id": "0dae80d6-ab3a-4df0-9802-7601fd9c9ee2",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1859,12 +1859,12 @@
             "size": 1,
             "value": "2"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06229",
-        "platform_name": "Texelhors"
+        "platform_name": "TEXELHORS WP"
     }
 }{
-    "id": "fc8d8c80-fa6b-4351-b1d2-4f16300e25b7",
+    "id": "2439adca-7741-4136-b78a-2827701bcd09",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1886,12 +1886,12 @@
             "size": 6,
             "value": "103180"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06235",
         "platform_name": "De Kooy"
     }
 }{
-    "id": "49bfa134-5a50-48ed-8c19-2b7aefcbe29b",
+    "id": "d8128e72-e3a9-4432-a046-54d16dc6e7d9",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1913,12 +1913,12 @@
             "size": 6,
             "value": "103190"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06235",
         "platform_name": "De Kooy"
     }
 }{
-    "id": "26d13789-a464-4cd5-85fa-f3c445a8efcf",
+    "id": "4b394b4a-9922-452a-9088-67bcbe4c3029",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1940,12 +1940,12 @@
             "size": 6,
             "value": "278.15"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06235",
-        "platform_name": "De Kooy"
+        "platform_name": "DE KOOIJ VK"
     }
 }{
-    "id": "cbfaee4d-7e1d-4864-906a-f30cebfafac9",
+    "id": "98093500-4234-4776-90ce-5304b7698429",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1967,12 +1967,12 @@
             "size": 6,
             "value": "274.85"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06235",
-        "platform_name": "De Kooy"
+        "platform_name": "DE KOOIJ VK"
     }
 }{
-    "id": "50792122-b876-4329-9589-11202e1a199f",
+    "id": "51c79f83-c692-46c1-a662-f6c1158a94f9",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -1994,12 +1994,12 @@
             "size": 2,
             "value": "79"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06235",
-        "platform_name": "De Kooy"
+        "platform_name": "DE KOOIJ VK"
     }
 }{
-    "id": "ef4d23f6-e17d-4425-85f8-e9cacfd51c54",
+    "id": "67ee9914-a437-42de-9dfb-fd412ce03fdb",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2021,13 +2021,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06235",
-        "platform_name": "De Kooy",
+        "platform_name": "DE KOOIJ VK",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "298c2847-de18-4b44-bb38-91775d35909e",
+    "id": "2609aae9-d1f6-4ae0-ac6a-f2132e07eee4",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2049,13 +2049,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06235",
-        "platform_name": "De Kooy",
+        "platform_name": "DE KOOIJ VK",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "df69a52d-1099-468b-9287-e34f635dca25",
+    "id": "b131d2b9-1223-4c45-99b0-cf11e57b7033",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2077,12 +2077,12 @@
             "size": 2,
             "value": "40"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06235",
-        "platform_name": "De Kooy"
+        "platform_name": "DE KOOIJ VK"
     }
 }{
-    "id": "d43dbf58-050a-4337-a8f1-04f0d541953f",
+    "id": "0aa1c3cd-dbce-42ee-800e-5c3213219176",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2104,12 +2104,12 @@
             "size": 1,
             "value": "4"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06235",
-        "platform_name": "De Kooy"
+        "platform_name": "DE KOOIJ VK"
     }
 }{
-    "id": "929783f2-994e-4504-b462-13ec145d74c2",
+    "id": "413401f9-1fa9-4907-a322-cbbf79979259",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2131,12 +2131,12 @@
             "size": 6,
             "value": "103000"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06239",
         "platform_name": "Platform F3-FB-1"
     }
 }{
-    "id": "639ba34a-443b-46f1-b7d9-d9b3df25d709",
+    "id": "cfe263c7-405f-4fd0-abf5-27a1ee8d96d2",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2158,12 +2158,12 @@
             "size": 6,
             "value": "103330"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06239",
         "platform_name": "Platform F3-FB-1"
     }
 }{
-    "id": "1e5809b8-ed43-4ab8-aee3-6004ae790637",
+    "id": "07f3e691-202b-478c-9f30-2154c0f7652f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2185,12 +2185,12 @@
             "size": 6,
             "value": "279.05"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06239",
-        "platform_name": "Platform F3-FB-1"
+        "platform_name": "F3-FB-1"
     }
 }{
-    "id": "4a1710bf-4f57-48b9-aeb5-b66dffb0d930",
+    "id": "33e6ff2c-e368-44a9-ac88-cf3ec1a3eb73",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2212,12 +2212,12 @@
             "size": 6,
             "value": "276.95"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06239",
-        "platform_name": "Platform F3-FB-1"
+        "platform_name": "F3-FB-1"
     }
 }{
-    "id": "e241c38b-4566-4a88-a0f9-3cb191b15d60",
+    "id": "7cc008e9-346c-4f1b-82ba-de889d5cf552",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2239,12 +2239,12 @@
             "size": 2,
             "value": "86"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06239",
-        "platform_name": "Platform F3-FB-1"
+        "platform_name": "F3-FB-1"
     }
 }{
-    "id": "0b244f23-98fa-4225-bc57-c4d14bab7318",
+    "id": "cb34f342-f113-449e-b298-a56e42c567a0",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2266,12 +2266,12 @@
             "size": 3,
             "value": "337"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06239",
-        "platform_name": "Platform F3-FB-1"
+        "platform_name": "F3-FB-1"
     }
 }{
-    "id": "221bb20f-10bd-49c2-b697-d754687b52af",
+    "id": "d6b0bc36-6473-47db-992f-70f52118fd40",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2293,12 +2293,12 @@
             "size": 1,
             "value": "3"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06239",
-        "platform_name": "Platform F3-FB-1"
+        "platform_name": "F3-FB-1"
     }
 }{
-    "id": "e219e157-1a5c-4ea7-911c-5148a949719a",
+    "id": "3a1a41a2-42a7-4696-9da2-3e6da891e9cb",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2320,12 +2320,12 @@
             "size": 6,
             "value": "103140"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06240",
         "platform_name": "Amsterdam"
     }
 }{
-    "id": "51f604b5-1638-42b2-9882-e97285567cb9",
+    "id": "3c9cc956-19c7-41b7-8293-889896659d74",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2347,12 +2347,12 @@
             "size": 6,
             "value": "103110"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06240",
         "platform_name": "Amsterdam"
     }
 }{
-    "id": "3042cd7e-2183-470b-9304-1b7e8252e533",
+    "id": "5631c5ec-e832-4edd-8d28-793138842641",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2374,12 +2374,12 @@
             "size": 6,
             "value": "278.35"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06240",
-        "platform_name": "Amsterdam"
+        "platform_name": "AMSTERDAM AP SCHIPHOL"
     }
 }{
-    "id": "8cb92c3a-05b5-40b7-8879-33bece07e573",
+    "id": "65ed64ea-5a0d-4c12-b0a3-efe3e593a730",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2401,12 +2401,12 @@
             "size": 6,
             "value": "272.35"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06240",
-        "platform_name": "Amsterdam"
+        "platform_name": "AMSTERDAM AP SCHIPHOL"
     }
 }{
-    "id": "4a28aa05-0150-45b7-804f-279386e8dae2",
+    "id": "aafe081e-c216-4580-9e0d-f0e79c8241a4",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2428,12 +2428,12 @@
             "size": 2,
             "value": "65"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06240",
-        "platform_name": "Amsterdam"
+        "platform_name": "AMSTERDAM AP SCHIPHOL"
     }
 }{
-    "id": "a14f3adf-80af-4982-9f10-9dd19ce63d48",
+    "id": "12aa0fce-ed05-4c64-8572-f25d27173388",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2455,13 +2455,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06240",
-        "platform_name": "Amsterdam",
+        "platform_name": "AMSTERDAM AP SCHIPHOL",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "401e2005-6143-492c-b8e0-1f22e20ae3ec",
+    "id": "c3a913f1-01e9-46bb-81db-ab21bb3714e6",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2483,13 +2483,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06240",
-        "platform_name": "Amsterdam",
+        "platform_name": "AMSTERDAM AP SCHIPHOL",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "a96c1c9d-83f4-42c9-99c1-20ccc43da030",
+    "id": "5169efc7-5088-4786-ac6b-13499ecdee36",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2511,12 +2511,12 @@
             "size": 2,
             "value": "37"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06240",
-        "platform_name": "Amsterdam"
+        "platform_name": "AMSTERDAM AP SCHIPHOL"
     }
 }{
-    "id": "0a930fee-a7f4-42b0-a1d1-0ec41b2d0499",
+    "id": "ba49040d-e7de-49b3-a902-94e2c050381b",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2538,12 +2538,12 @@
             "size": 1,
             "value": "5"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06240",
-        "platform_name": "Amsterdam"
+        "platform_name": "AMSTERDAM AP SCHIPHOL"
     }
 }{
-    "id": "10f9e999-f3c2-46c2-a46a-10cc9a7421cc",
+    "id": "0fe5c720-74a0-4bbb-b031-0ce345f08392",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2565,12 +2565,12 @@
             "size": 6,
             "value": "103080"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06242",
         "platform_name": "Vlieland"
     }
 }{
-    "id": "7313ae07-2332-4677-a13b-9e1f8c9327e1",
+    "id": "1f723f92-fbc4-42ac-ae48-84dda825fd95",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2592,12 +2592,12 @@
             "size": 6,
             "value": "103200"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06242",
         "platform_name": "Vlieland"
     }
 }{
-    "id": "1472ece9-89ea-49d6-8cd5-767c2eed1374",
+    "id": "35388aef-5ae4-43f5-a857-a20f4e784e99",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2619,12 +2619,12 @@
             "size": 6,
             "value": "278.05"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06242",
-        "platform_name": "Vlieland"
+        "platform_name": "VLIELAND"
     }
 }{
-    "id": "7d022a5e-e182-4efd-a9a5-80c44501fe0f",
+    "id": "afe9055a-cd65-4d37-bd9b-0426e240602d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2646,12 +2646,12 @@
             "size": 6,
             "value": "274.35"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06242",
-        "platform_name": "Vlieland"
+        "platform_name": "VLIELAND"
     }
 }{
-    "id": "30100be4-e87d-4110-8a39-0a8a3e8ca281",
+    "id": "c503bc6c-fd63-4849-8bfd-8b0802739811",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2673,12 +2673,12 @@
             "size": 2,
             "value": "77"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06242",
-        "platform_name": "Vlieland"
+        "platform_name": "VLIELAND"
     }
 }{
-    "id": "0ab6441e-d909-4181-8ff6-0e80176efa2a",
+    "id": "508056de-61f1-470d-8001-8eca280a505f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2700,12 +2700,12 @@
             "size": 2,
             "value": "43"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06242",
-        "platform_name": "Vlieland"
+        "platform_name": "VLIELAND"
     }
 }{
-    "id": "2df4c69f-c735-4055-a97e-daa75c6c10f9",
+    "id": "9736e2f2-8b0d-41bf-b079-2504a08459b6",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2727,12 +2727,12 @@
             "size": 1,
             "value": "6"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06242",
-        "platform_name": "Vlieland"
+        "platform_name": "VLIELAND"
     }
 }{
-    "id": "70741fed-5d36-4700-bf3c-00a2a30db492",
+    "id": "f4814f16-90bd-4fba-ba3f-5346e389be3d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2754,12 +2754,12 @@
             "size": 2,
             "value": "30"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06248",
-        "platform_name": "Wijdenes"
+        "platform_name": "WIJDENES WP"
     }
 }{
-    "id": "1ea7265f-418e-4df5-9b97-2ffe7bd511ff",
+    "id": "6e8371be-cb22-46ed-802f-50048756b216",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2781,12 +2781,12 @@
             "size": 1,
             "value": "3"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06248",
-        "platform_name": "Wijdenes"
+        "platform_name": "WIJDENES WP"
     }
 }{
-    "id": "b763f279-5081-4b37-b932-33ac0913311b",
+    "id": "0b2e9f9b-3d89-4397-a39f-ceedd61c50bd",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2808,12 +2808,12 @@
             "size": 6,
             "value": "277.35"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06249",
-        "platform_name": "Berkhout"
+        "platform_name": "BERKHOUT AWS"
     }
 }{
-    "id": "c1758ff4-2198-46f6-9fc7-b78be24b18be",
+    "id": "96ac0050-a2ab-41e6-a544-0bf15c94c306",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2835,12 +2835,12 @@
             "size": 6,
             "value": "273.55"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06249",
-        "platform_name": "Berkhout"
+        "platform_name": "BERKHOUT AWS"
     }
 }{
-    "id": "639b8967-676f-4479-8262-f31503d6f405",
+    "id": "34316c68-e81e-4422-8b57-c73365dd75ef",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2862,12 +2862,12 @@
             "size": 2,
             "value": "76"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06249",
-        "platform_name": "Berkhout"
+        "platform_name": "BERKHOUT AWS"
     }
 }{
-    "id": "98b8af6c-8f6f-4acc-a7de-4718293ea6df",
+    "id": "832c0a5d-69bd-4283-8541-bce04d7a794d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2889,13 +2889,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06249",
-        "platform_name": "Berkhout",
+        "platform_name": "BERKHOUT AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "4d924f94-6e5b-4ff5-b79f-5fd62cfe4b42",
+    "id": "a0636e6c-9f63-421d-8080-399ecc7211a0",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2917,13 +2917,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06249",
-        "platform_name": "Berkhout",
+        "platform_name": "BERKHOUT AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "2a18c1c4-bd22-40cf-840b-72f9157deb6b",
+    "id": "2d1ec62e-3aaf-4140-9334-80e0de11ca12",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2945,12 +2945,12 @@
             "size": 2,
             "value": "34"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06249",
-        "platform_name": "Berkhout"
+        "platform_name": "BERKHOUT AWS"
     }
 }{
-    "id": "18dc4462-7d99-4164-947e-8a2cfdb51f82",
+    "id": "14283e2b-c105-4435-a5dc-436b1072eaef",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2972,12 +2972,12 @@
             "size": 1,
             "value": "4"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06249",
-        "platform_name": "Berkhout"
+        "platform_name": "BERKHOUT AWS"
     }
 }{
-    "id": "6774766a-b8b0-4638-8fd6-2d2f0bed9433",
+    "id": "50e608e2-f484-427f-a3df-6096c27731ae",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -2999,12 +2999,12 @@
             "size": 6,
             "value": "103190"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06251",
         "platform_name": "Terschelling Hoorn"
     }
 }{
-    "id": "12028810-66ab-41ec-bbe9-7c53e9e411e2",
+    "id": "20d2151f-9a53-4d4a-a3e0-00f9d13c5421",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3026,12 +3026,12 @@
             "size": 6,
             "value": "103220"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06251",
         "platform_name": "Terschelling Hoorn"
     }
 }{
-    "id": "151d16d3-ee2b-4944-a1fb-cd72e7f95f28",
+    "id": "e62a0f32-70cd-469e-9017-95dc1a70ecdc",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3053,12 +3053,12 @@
             "size": 6,
             "value": "276.45"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06251",
-        "platform_name": "Terschelling Hoorn"
+        "platform_name": "TERSCHELLING HOORN AWS"
     }
 }{
-    "id": "ed0f1528-d31f-44ca-812f-88f2efd1882c",
+    "id": "f4d93f11-8445-4732-adc3-e5b79cd11502",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3080,12 +3080,12 @@
             "size": 6,
             "value": "273.85"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06251",
-        "platform_name": "Terschelling Hoorn"
+        "platform_name": "TERSCHELLING HOORN AWS"
     }
 }{
-    "id": "489bad76-075a-4e99-9c76-a946f0eb08df",
+    "id": "e1453f94-65c8-4e0c-b161-da6f54263990",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3107,12 +3107,12 @@
             "size": 2,
             "value": "83"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06251",
-        "platform_name": "Terschelling Hoorn"
+        "platform_name": "TERSCHELLING HOORN AWS"
     }
 }{
-    "id": "28dde979-cef5-4bba-afa5-033a45533f71",
+    "id": "0897896d-498c-417c-afd3-166c772007cd",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3134,13 +3134,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06251",
-        "platform_name": "Terschelling Hoorn",
+        "platform_name": "TERSCHELLING HOORN AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "6915029f-2d87-435e-960d-3e654c840ef9",
+    "id": "058cae1e-dd43-416a-8fee-ac3789c3cbe8",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3162,13 +3162,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06251",
-        "platform_name": "Terschelling Hoorn",
+        "platform_name": "TERSCHELLING HOORN AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "9d91c095-913e-444f-aa23-9a2e68378eeb",
+    "id": "6b04d9ce-4ac9-4733-9d33-97d7fc0138c6",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3190,12 +3190,12 @@
             "size": 2,
             "value": "33"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06251",
-        "platform_name": "Terschelling Hoorn"
+        "platform_name": "TERSCHELLING HOORN AWS"
     }
 }{
-    "id": "f14f6737-7d04-4fc2-ab2e-f8c94811580c",
+    "id": "8b3b4531-d0df-467e-9e41-3827e7d6e569",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3217,12 +3217,12 @@
             "size": 1,
             "value": "3"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06251",
-        "platform_name": "Terschelling Hoorn"
+        "platform_name": "TERSCHELLING HOORN AWS"
     }
 }{
-    "id": "a96884d7-8a2c-4189-a9f5-d2fb24886a94",
+    "id": "698a767e-80de-44f5-b037-1a423fe155a5",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3244,12 +3244,12 @@
             "size": 6,
             "value": "102910"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06252",
         "platform_name": "K13-Alpha Platform"
     }
 }{
-    "id": "26b66997-e16d-4088-93fb-d9a46d1ee919",
+    "id": "511b2c82-fb06-4a72-8f94-a677fd1afa2e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3271,12 +3271,12 @@
             "size": 6,
             "value": "103300"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06252",
         "platform_name": "K13-Alpha Platform"
     }
 }{
-    "id": "c67cf3ee-9e63-4229-b885-c8215d1b2faf",
+    "id": "50e20162-b438-4410-8d52-09f0f77ac6e8",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3298,12 +3298,12 @@
             "size": 6,
             "value": "279.45"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06252",
-        "platform_name": "K13-Alpha Platform"
+        "platform_name": "K13-A"
     }
 }{
-    "id": "d45d061b-a831-48b3-8c23-fd4ad477eea1",
+    "id": "b1d986df-e29d-4ef8-b01e-16a79ce1ef03",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3325,12 +3325,12 @@
             "size": 6,
             "value": "275.65"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06252",
-        "platform_name": "K13-Alpha Platform"
+        "platform_name": "K13-A"
     }
 }{
-    "id": "b5aaf436-905f-4f42-90a0-fca89c183cb4",
+    "id": "4c4d79c8-838e-4153-9551-4084141e58be",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3352,12 +3352,12 @@
             "size": 2,
             "value": "76"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06252",
-        "platform_name": "K13-Alpha Platform"
+        "platform_name": "K13-A"
     }
 }{
-    "id": "f22a3cff-a5cc-4bc3-9d38-c19d430a8bf0",
+    "id": "7cd646a6-1a42-4855-9a43-dcd32f53b5ca",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3379,12 +3379,12 @@
             "size": 2,
             "value": "43"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06252",
-        "platform_name": "K13-Alpha Platform"
+        "platform_name": "K13-A"
     }
 }{
-    "id": "b0a43c02-c0d6-441c-b27d-d1d497f7a49f",
+    "id": "63fa55cf-beec-4ffc-8f3a-11caa3bb7011",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3406,12 +3406,12 @@
             "size": 1,
             "value": "7"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06252",
-        "platform_name": "K13-Alpha Platform"
+        "platform_name": "K13-A"
     }
 }{
-    "id": "1aa6144b-b8da-4c1c-8c2a-dbc4d126d685",
+    "id": "ee7134d5-7648-430c-991e-f346d8eeef70",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3433,12 +3433,12 @@
             "size": 6,
             "value": "276.95"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06257",
-        "platform_name": "Wijk aan Zee"
+        "platform_name": "WIJK AAN ZEE AWS"
     }
 }{
-    "id": "9c92719b-c092-4e7d-99c1-2181221a4f2c",
+    "id": "f95d2c73-8cd6-4ce7-99d9-2af25de3a720",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3460,12 +3460,12 @@
             "size": 6,
             "value": "272.15"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06257",
-        "platform_name": "Wijk aan Zee"
+        "platform_name": "WIJK AAN ZEE AWS"
     }
 }{
-    "id": "64d4b78e-cd3e-4177-8c51-a5db25337977",
+    "id": "17c09e83-bd07-4ccc-b566-03d32e907c26",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3487,12 +3487,12 @@
             "size": 2,
             "value": "70"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06257",
-        "platform_name": "Wijk aan Zee"
+        "platform_name": "WIJK AAN ZEE AWS"
     }
 }{
-    "id": "e4a27f1e-cfa6-4409-be5d-24717652de65",
+    "id": "afdf4040-93ad-4061-bd2a-6adb4215bffb",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3514,13 +3514,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06257",
-        "platform_name": "Wijk aan Zee",
+        "platform_name": "WIJK AAN ZEE AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "b1c30351-2dbb-42b7-bd14-88a201bc5865",
+    "id": "8bbd9357-aaa3-4912-9e05-342dbbc7464c",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3542,13 +3542,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06257",
-        "platform_name": "Wijk aan Zee",
+        "platform_name": "WIJK AAN ZEE AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "a329a41a-6dd2-4cff-85df-86cfeaedd3ce",
+    "id": "d422e473-c638-4dbf-b85d-faf42794a99b",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3570,12 +3570,12 @@
             "size": 2,
             "value": "44"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06258",
-        "platform_name": "Houtribdijk"
+        "platform_name": "HOUTRIBDIJK WP"
     }
 }{
-    "id": "2c10ba4c-1796-43da-8918-10c64fafc22a",
+    "id": "811ef3c1-9fbc-4910-b548-8bf1c2c704c6",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3597,12 +3597,12 @@
             "size": 1,
             "value": "6"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06258",
-        "platform_name": "Houtribdijk"
+        "platform_name": "HOUTRIBDIJK WP"
     }
 }{
-    "id": "a855dbd1-54b8-441b-96d4-677de5eae5a2",
+    "id": "07643c35-7fcf-43b7-8dd4-51d7fc891213",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3624,12 +3624,12 @@
             "size": 6,
             "value": "103030"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06260",
         "platform_name": "De Bilt"
     }
 }{
-    "id": "983bfd13-f3ec-48f5-9a6a-79108a228df8",
+    "id": "cefffa6c-318e-4089-ac55-6a9978ce2ffb",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3651,12 +3651,12 @@
             "size": 6,
             "value": "103080"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06260",
         "platform_name": "De Bilt"
     }
 }{
-    "id": "f84b5d2e-a2c3-4ffc-929e-6176b897ca28",
+    "id": "8c3471ee-7ac4-434e-a004-5e8b7f1d5d5e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3678,12 +3678,12 @@
             "size": 6,
             "value": "277.35"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06260",
-        "platform_name": "De Bilt"
+        "platform_name": "DE BILT AWS"
     }
 }{
-    "id": "8d3d3d4a-bca9-4fb5-8a4c-8785e81544f2",
+    "id": "d920683d-1062-477a-adf0-bf1d112cd388",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3705,12 +3705,12 @@
             "size": 6,
             "value": "271.45"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06260",
-        "platform_name": "De Bilt"
+        "platform_name": "DE BILT AWS"
     }
 }{
-    "id": "adebd2bb-941b-4e05-9ab6-2d59c126fcfa",
+    "id": "e3f652d8-064c-4ac9-8eef-3076d727d8f8",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3732,12 +3732,12 @@
             "size": 2,
             "value": "65"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06260",
-        "platform_name": "De Bilt"
+        "platform_name": "DE BILT AWS"
     }
 }{
-    "id": "6df18366-baac-4195-809f-76f0cd83de2c",
+    "id": "8ff85a84-be18-4bb5-8305-203d5d307c8c",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3759,13 +3759,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06260",
-        "platform_name": "De Bilt",
+        "platform_name": "DE BILT AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "ec1d77a6-28e1-4b84-b214-a24b05d16e11",
+    "id": "153e7e80-52a6-4c87-8697-b9a5e2488b4c",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3787,13 +3787,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06260",
-        "platform_name": "De Bilt",
+        "platform_name": "DE BILT AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "941fe153-00d2-4f07-9f6f-061172e695c2",
+    "id": "9a0d5674-ed2b-45d6-8892-247fc8c8b498",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3815,12 +3815,12 @@
             "size": 2,
             "value": "42"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06260",
-        "platform_name": "De Bilt"
+        "platform_name": "DE BILT AWS"
     }
 }{
-    "id": "92f74378-e173-402a-88df-7c26580fbad2",
+    "id": "c10dad3f-acea-4fbf-a23d-c9ab571c388d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3842,12 +3842,12 @@
             "size": 1,
             "value": "3"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06260",
-        "platform_name": "De Bilt"
+        "platform_name": "DE BILT AWS"
     }
 }{
-    "id": "82176215-4350-46fb-b6af-bbb4e00515c1",
+    "id": "9f11b386-5819-42ee-8e55-e119da28bf23",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3869,12 +3869,12 @@
             "size": 6,
             "value": "277.55"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06267",
-        "platform_name": "Stavoren"
+        "platform_name": "STAVOREN AWS"
     }
 }{
-    "id": "d2217956-e5d0-41e7-844c-3e05b69a0341",
+    "id": "655683e6-0a16-40c7-84b9-987519cdd1fb",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3896,12 +3896,12 @@
             "size": 6,
             "value": "274.75"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06267",
-        "platform_name": "Stavoren"
+        "platform_name": "STAVOREN AWS"
     }
 }{
-    "id": "dfb3d240-5fb0-485b-a462-5f7b38bd7c0c",
+    "id": "5cdb97d8-3dda-41d8-9558-3e6646b5933e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3923,12 +3923,12 @@
             "size": 2,
             "value": "82"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06267",
-        "platform_name": "Stavoren"
+        "platform_name": "STAVOREN AWS"
     }
 }{
-    "id": "1d9776d4-8811-4a2f-afee-fbde79e881a4",
+    "id": "63097a45-69a6-4394-8098-0afedb0a7a81",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3950,13 +3950,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06267",
-        "platform_name": "Stavoren",
+        "platform_name": "STAVOREN AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "02f190be-802e-4ad9-a63e-d64d68c4209b",
+    "id": "7f2daeec-38c6-478d-9c3c-efc57e72a56e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -3978,13 +3978,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06267",
-        "platform_name": "Stavoren",
+        "platform_name": "STAVOREN AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "ee35a594-cb39-4a16-abc9-0fbdc5705d25",
+    "id": "c341071f-40a9-401a-9c08-d2d2d2a6b634",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4006,12 +4006,12 @@
             "size": 2,
             "value": "35"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06267",
-        "platform_name": "Stavoren"
+        "platform_name": "STAVOREN AWS"
     }
 }{
-    "id": "114d850d-f81e-4b58-a395-00fe743e1c32",
+    "id": "437211bf-8b05-489e-8f55-758d753bcebf",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4033,12 +4033,12 @@
             "size": 1,
             "value": "5"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06267",
-        "platform_name": "Stavoren"
+        "platform_name": "STAVOREN AWS"
     }
 }{
-    "id": "53ddfb09-b5ba-4e8d-b822-a9ac06198061",
+    "id": "ec762e02-5846-4b92-9b55-605b3358d609",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4060,12 +4060,12 @@
             "size": 6,
             "value": "103130"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06269",
         "platform_name": "Lelystad"
     }
 }{
-    "id": "1f01c68f-dd8f-4f82-9728-ad3a64d6112c",
+    "id": "1d6e7fa9-4e6b-42f0-b94f-e075914cd706",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4087,12 +4087,12 @@
             "size": 6,
             "value": "103080"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06269",
         "platform_name": "Lelystad"
     }
 }{
-    "id": "5504e920-acd9-4e11-a3c1-684b914a7ddc",
+    "id": "13f04d50-bd55-4a74-9876-46e4cd465504",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4114,12 +4114,12 @@
             "size": 6,
             "value": "275.55"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06269",
-        "platform_name": "Lelystad"
+        "platform_name": "LELYSTAD AP"
     }
 }{
-    "id": "92c758d4-8c01-4745-8264-cabedbfad4f4",
+    "id": "ef95a078-b292-4981-bdf7-98bd3d59fe0f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4141,12 +4141,12 @@
             "size": 6,
             "value": "272.05"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06269",
-        "platform_name": "Lelystad"
+        "platform_name": "LELYSTAD AP"
     }
 }{
-    "id": "f0d33d15-97f4-49c3-b3b5-16d71e1313f5",
+    "id": "567ce287-f953-4b3f-b064-a688cfd5e63a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4168,12 +4168,12 @@
             "size": 2,
             "value": "77"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06269",
-        "platform_name": "Lelystad"
+        "platform_name": "LELYSTAD AP"
     }
 }{
-    "id": "4e6058c5-6dd2-4eb5-8b51-71f01d5043a8",
+    "id": "766a95e4-e327-4d24-a98f-fe198b54df83",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4195,13 +4195,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06269",
-        "platform_name": "Lelystad",
+        "platform_name": "LELYSTAD AP",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "8e8c0896-6be8-4838-8cc1-ff45ec137782",
+    "id": "a4571f86-bdcb-46c1-9312-a64b774a7251",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4223,13 +4223,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06269",
-        "platform_name": "Lelystad",
+        "platform_name": "LELYSTAD AP",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "fb6d0cb0-fb19-4e17-b944-9c1857a90dcd",
+    "id": "68f070ad-aeba-4c97-ae55-cae56f583826",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4251,12 +4251,12 @@
             "size": 2,
             "value": "31"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06269",
-        "platform_name": "Lelystad"
+        "platform_name": "LELYSTAD AP"
     }
 }{
-    "id": "79269eb1-99ae-416b-a000-5c7a1f533137",
+    "id": "a9adc038-d65b-49d8-ab84-c721a04a48dd",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4278,12 +4278,12 @@
             "size": 1,
             "value": "3"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06269",
-        "platform_name": "Lelystad"
+        "platform_name": "LELYSTAD AP"
     }
 }{
-    "id": "3a20e6b8-0ce8-4357-a336-5eeb9f106cb9",
+    "id": "d13d58b2-b543-4930-ac55-7658151f8c87",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4305,12 +4305,12 @@
             "size": 6,
             "value": "103180"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06270",
         "platform_name": "Leeuwarden"
     }
 }{
-    "id": "c2740895-4836-4770-8342-fe2a55950bab",
+    "id": "fc9da7a2-9ecc-4591-99d2-6e822c287f0f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4332,12 +4332,12 @@
             "size": 6,
             "value": "103190"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06270",
         "platform_name": "Leeuwarden"
     }
 }{
-    "id": "475b1d20-defb-4f86-b6ed-50eeb8690b85",
+    "id": "4eab25eb-47b9-4e49-9725-f80e3bf507cc",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4359,12 +4359,12 @@
             "size": 6,
             "value": "276.45"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06270",
-        "platform_name": "Leeuwarden"
+        "platform_name": "LEEUWARDEN"
     }
 }{
-    "id": "7798242d-f58c-4158-ae40-0ba1cc4d2006",
+    "id": "1c84449b-22fb-4b61-851d-8ecc9a21d0c8",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4386,12 +4386,12 @@
             "size": 6,
             "value": "274.25"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06270",
-        "platform_name": "Leeuwarden"
+        "platform_name": "LEEUWARDEN"
     }
 }{
-    "id": "ef554de8-5aa0-4a54-9151-26b4eb4f1114",
+    "id": "da12cd1b-a301-41b3-9383-9d57d1547220",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4413,12 +4413,12 @@
             "size": 2,
             "value": "85"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06270",
-        "platform_name": "Leeuwarden"
+        "platform_name": "LEEUWARDEN"
     }
 }{
-    "id": "712f00e9-b86b-4bdd-a1b8-03d316e3640e",
+    "id": "dba75848-e550-4ff9-bf88-a30d0e4f6ab1",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4440,13 +4440,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06270",
-        "platform_name": "Leeuwarden",
+        "platform_name": "LEEUWARDEN",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "0059b7bb-80b3-40d0-afec-6595491ce643",
+    "id": "f25d3a0f-4ccf-4eb7-aad4-fbd93867a1ad",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4468,13 +4468,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06270",
-        "platform_name": "Leeuwarden",
+        "platform_name": "LEEUWARDEN",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "fa330b1d-942a-498d-9aa9-1d4e9974446f",
+    "id": "5a8b6be0-1e5f-4ac5-9b79-25b13f4dc3f1",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4496,12 +4496,12 @@
             "size": 2,
             "value": "35"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06270",
-        "platform_name": "Leeuwarden"
+        "platform_name": "LEEUWARDEN"
     }
 }{
-    "id": "633d9eba-54a3-49f2-9687-5d464647fd7d",
+    "id": "7cca8afe-18e4-4595-98c6-be48f5bf9aed",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4523,12 +4523,12 @@
             "size": 1,
             "value": "3"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06270",
-        "platform_name": "Leeuwarden"
+        "platform_name": "LEEUWARDEN"
     }
 }{
-    "id": "db117391-b7bb-492c-97eb-80e3c51fb3b1",
+    "id": "e9c64fe3-716a-426b-add2-7c817f936cd4",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4550,12 +4550,12 @@
             "size": 6,
             "value": "277.25"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06273",
-        "platform_name": "Marknesse"
+        "platform_name": "MARKNESSE AWS"
     }
 }{
-    "id": "a91cbf99-ac6e-40b3-86b5-1ec6f824bcde",
+    "id": "34b54dc4-a049-4956-86d1-add17c5aa19f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4577,12 +4577,12 @@
             "size": 6,
             "value": "272.75"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06273",
-        "platform_name": "Marknesse"
+        "platform_name": "MARKNESSE AWS"
     }
 }{
-    "id": "2e32a830-c1c0-4614-ad80-9021cb13ae91",
+    "id": "9ded30af-6940-4bdd-8552-4c161874cf65",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4604,12 +4604,12 @@
             "size": 2,
             "value": "72"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06273",
-        "platform_name": "Marknesse"
+        "platform_name": "MARKNESSE AWS"
     }
 }{
-    "id": "bb66ff1e-ccfc-4404-82f2-31729361902b",
+    "id": "38e1793d-70fc-46d5-84f9-c321050b2da0",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4631,13 +4631,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06273",
-        "platform_name": "Marknesse",
+        "platform_name": "MARKNESSE AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "6b4410ad-f622-4f82-a0e0-ddda587ee081",
+    "id": "5c41359c-a469-4f9f-98c6-09450f77b580",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4659,13 +4659,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06273",
-        "platform_name": "Marknesse",
+        "platform_name": "MARKNESSE AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "7c6cbd08-efe7-486c-8664-7fb6de8ddfbb",
+    "id": "14c9a997-a674-45c2-8379-f94ea853e78e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4687,12 +4687,12 @@
             "size": 2,
             "value": "38"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06273",
-        "platform_name": "Marknesse"
+        "platform_name": "MARKNESSE AWS"
     }
 }{
-    "id": "7a4cddd8-885b-470a-aca2-bdc7fe61270c",
+    "id": "e5c089b1-99c7-491f-aafc-e8b1eaa068c1",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4714,12 +4714,12 @@
             "size": 1,
             "value": "3"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06273",
-        "platform_name": "Marknesse"
+        "platform_name": "MARKNESSE AWS"
     }
 }{
-    "id": "e87ec947-9f65-4499-a60c-b3ade901fa11",
+    "id": "8dd6bc76-16e6-4515-91df-19b438652b18",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4741,12 +4741,12 @@
             "size": 6,
             "value": "102460"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06275",
         "platform_name": "Deelen"
     }
 }{
-    "id": "030b58f7-f9f7-4702-9aeb-524f49fbd639",
+    "id": "b0f695d8-fe9b-47e8-aaf5-a1d4d1d5f92a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4768,12 +4768,12 @@
             "size": 6,
             "value": "103060"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06275",
         "platform_name": "Deelen"
     }
 }{
-    "id": "671285ff-9d3e-4091-9f7b-c4abd8369f29",
+    "id": "232c5aab-9826-4cc8-9531-0e81af66c7a2",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4795,12 +4795,12 @@
             "size": 6,
             "value": "274.25"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06275",
-        "platform_name": "Deelen"
+        "platform_name": "DEELEN"
     }
 }{
-    "id": "e70143da-4784-4d95-90e3-3953b5240ebf",
+    "id": "862c39f7-26cb-408a-8f6a-4f3d7de513cd",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4822,12 +4822,12 @@
             "size": 6,
             "value": "269.95"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06275",
-        "platform_name": "Deelen"
+        "platform_name": "DEELEN"
     }
 }{
-    "id": "baecf5ae-1c4a-4429-a495-6450c3785631",
+    "id": "1bfdfa60-c309-449a-9a81-c5f66031a2f4",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4849,12 +4849,12 @@
             "size": 2,
             "value": "72"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06275",
-        "platform_name": "Deelen"
+        "platform_name": "DEELEN"
     }
 }{
-    "id": "d9ccf327-6e1d-4054-a94e-0cfdc79d817b",
+    "id": "d00f3f4c-c012-497a-91de-f79c33f0f9bc",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4876,13 +4876,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06275",
-        "platform_name": "Deelen",
+        "platform_name": "DEELEN",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "e4380e81-56e1-4a1c-a26e-c8431386ceaf",
+    "id": "d6b15c53-a873-4589-b155-79cd967c31ce",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4904,13 +4904,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06275",
-        "platform_name": "Deelen",
+        "platform_name": "DEELEN",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "5f164dd5-64fd-40fb-8d01-b1ea8b29a69b",
+    "id": "65b59b47-40f2-49bd-995d-8ff77dffb762",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4932,12 +4932,12 @@
             "size": 2,
             "value": "39"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06275",
-        "platform_name": "Deelen"
+        "platform_name": "DEELEN"
     }
 }{
-    "id": "275db02c-0b11-4e50-a81c-78a6c9a45e42",
+    "id": "58627295-6d61-4dd5-997a-a6649e08927b",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4959,12 +4959,12 @@
             "size": 1,
             "value": "3"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06275",
-        "platform_name": "Deelen"
+        "platform_name": "DEELEN"
     }
 }{
-    "id": "0e79368b-3fc9-47eb-87e8-ef01254f75a5",
+    "id": "f24eeaa8-b839-4ed6-82a4-7bb70f74d5e8",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -4986,12 +4986,12 @@
             "size": 6,
             "value": "278.65"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06277",
-        "platform_name": "Lauwersoog"
+        "platform_name": "LAUWERSOOG AWS"
     }
 }{
-    "id": "41e34e7b-6590-400e-bb7f-2a527b83a12c",
+    "id": "21e4b4f0-8174-436c-a13a-782d2a11af75",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5013,12 +5013,12 @@
             "size": 6,
             "value": "276.45"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06277",
-        "platform_name": "Lauwersoog"
+        "platform_name": "LAUWERSOOG AWS"
     }
 }{
-    "id": "5f8d89d6-630c-4c27-a0e2-18ddd61af9a7",
+    "id": "ac25f437-e062-40af-8a22-c2fc439f63c1",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5040,12 +5040,12 @@
             "size": 2,
             "value": "85"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06277",
-        "platform_name": "Lauwersoog"
+        "platform_name": "LAUWERSOOG AWS"
     }
 }{
-    "id": "f604eaaa-e435-46c5-8ff5-f1bf6b0bef8e",
+    "id": "2aa3d981-a195-441e-be22-2e9976af011f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5067,13 +5067,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06277",
-        "platform_name": "Lauwersoog",
+        "platform_name": "LAUWERSOOG AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "87317a42-196a-423c-a1dc-77cdabf1ad6b",
+    "id": "b164f685-81b0-4490-a05f-aff129c33b32",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5095,13 +5095,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06277",
-        "platform_name": "Lauwersoog",
+        "platform_name": "LAUWERSOOG AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "655d9262-64fb-4e2c-b15a-1c03d1f4a8a9",
+    "id": "2bb54ac9-896e-4256-ac03-0c141862a29b",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5123,12 +5123,12 @@
             "size": 2,
             "value": "38"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06277",
-        "platform_name": "Lauwersoog"
+        "platform_name": "LAUWERSOOG AWS"
     }
 }{
-    "id": "9d19075f-6510-4567-ba77-fde619950eb8",
+    "id": "6a9a6909-d22b-4053-b2c0-e1ab6bcccc5a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5150,12 +5150,12 @@
             "size": 1,
             "value": "5"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06277",
-        "platform_name": "Lauwersoog"
+        "platform_name": "LAUWERSOOG AWS"
     }
 }{
-    "id": "6dec8477-41fd-4c9b-a171-5efad4d67dfb",
+    "id": "75037300-0834-4699-8f83-72368e0df732",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5177,12 +5177,12 @@
             "size": 6,
             "value": "276.45"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06278",
-        "platform_name": "Heino"
+        "platform_name": "HEINO AWS"
     }
 }{
-    "id": "8aa03657-a591-4e30-8c41-080b72154c1d",
+    "id": "710fd7af-7948-4490-be88-633502bcc1a0",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5204,12 +5204,12 @@
             "size": 6,
             "value": "271.55"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06278",
-        "platform_name": "Heino"
+        "platform_name": "HEINO AWS"
     }
 }{
-    "id": "849c1570-e946-4cbf-b822-34269dab2ea6",
+    "id": "6104e975-20c3-4b61-ac30-ec93cef921f5",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5231,12 +5231,12 @@
             "size": 2,
             "value": "70"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06278",
-        "platform_name": "Heino"
+        "platform_name": "HEINO AWS"
     }
 }{
-    "id": "1bd158dc-8fc3-4b81-9070-1fbf697b0558",
+    "id": "c0de9010-4506-418e-99ff-6017b25fe46a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5258,13 +5258,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06278",
-        "platform_name": "Heino",
+        "platform_name": "HEINO AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "5fa0a1e6-7b4b-45fc-a3c8-7ed3b69e4dec",
+    "id": "cf4d1388-243e-43c1-a08f-db0d3a7a846b",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5286,13 +5286,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06278",
-        "platform_name": "Heino",
+        "platform_name": "HEINO AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "ae2b5bfb-5074-47a0-8e4d-0bcab0b82bcf",
+    "id": "a9fdf0d0-a3f8-47ec-b856-c2658167c192",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5314,12 +5314,12 @@
             "size": 2,
             "value": "35"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06278",
-        "platform_name": "Heino"
+        "platform_name": "HEINO AWS"
     }
 }{
-    "id": "d0a9830d-2fa9-4ba9-a360-090dc7c73a77",
+    "id": "e6e4f354-8579-4a61-acfb-352c149d770e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5341,12 +5341,12 @@
             "size": 1,
             "value": "2"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06278",
-        "platform_name": "Heino"
+        "platform_name": "HEINO AWS"
     }
 }{
-    "id": "f0c788b7-862c-44c0-a9e6-560b3e8e2c9f",
+    "id": "74c31b3d-67e7-40d6-a9e0-97a3a36001aa",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5368,12 +5368,12 @@
             "size": 6,
             "value": "102900"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06279",
         "platform_name": "Hoogeveen"
     }
 }{
-    "id": "bce6d17b-4219-4c05-aacd-87f67179c7c8",
+    "id": "56f2298c-a95c-4203-8d47-e28d74e30316",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5395,12 +5395,12 @@
             "size": 6,
             "value": "103120"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06279",
         "platform_name": "Hoogeveen"
     }
 }{
-    "id": "6a2ab62b-8554-4964-8db7-1cd1eb753db7",
+    "id": "a8063b97-36fc-4593-923b-e5e226454def",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5422,12 +5422,12 @@
             "size": 6,
             "value": "276.05"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06279",
-        "platform_name": "Hoogeveen"
+        "platform_name": "HOOGEVEEN AWS"
     }
 }{
-    "id": "92053282-da38-40ab-ba4e-316837e7b727",
+    "id": "0d83ccf9-4a28-4525-ad18-45a4e712877a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5449,12 +5449,12 @@
             "size": 6,
             "value": "272.75"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06279",
-        "platform_name": "Hoogeveen"
+        "platform_name": "HOOGEVEEN AWS"
     }
 }{
-    "id": "5271fd37-8b99-4be0-a84b-e68f3766e0d9",
+    "id": "db6b1de3-4513-4f85-9ad1-caaaaa089950",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5476,12 +5476,12 @@
             "size": 2,
             "value": "79"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06279",
-        "platform_name": "Hoogeveen"
+        "platform_name": "HOOGEVEEN AWS"
     }
 }{
-    "id": "931e7f9c-ac06-4bb3-84bb-4816660985ee",
+    "id": "72c13614-a178-4636-864b-be8c926bac40",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5503,13 +5503,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06279",
-        "platform_name": "Hoogeveen",
+        "platform_name": "HOOGEVEEN AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "9a89fbe4-06c2-4db8-9da5-ddc4d5cd5c85",
+    "id": "00fde647-7891-415d-968c-01d5dde0633a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5531,13 +5531,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06279",
-        "platform_name": "Hoogeveen",
+        "platform_name": "HOOGEVEEN AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "98857dd6-3d69-4b0c-9a9f-672fed72e2ee",
+    "id": "7af335d1-dcc1-431e-a509-1c68b03c752a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5559,12 +5559,12 @@
             "size": 2,
             "value": "35"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06279",
-        "platform_name": "Hoogeveen"
+        "platform_name": "HOOGEVEEN AWS"
     }
 }{
-    "id": "98797ea0-c7af-4126-af4b-6598c02f3fb7",
+    "id": "6195b5fe-f55a-4499-a6a0-90d2f5f08f75",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5586,12 +5586,12 @@
             "size": 1,
             "value": "4"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06279",
-        "platform_name": "Hoogeveen"
+        "platform_name": "HOOGEVEEN AWS"
     }
 }{
-    "id": "8bfc10c1-fae7-4620-b148-04b7dfdb997b",
+    "id": "d211d834-454d-4bfb-b608-4f2432b789d5",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5613,12 +5613,12 @@
             "size": 6,
             "value": "103100"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06280",
         "platform_name": "Groningen"
     }
 }{
-    "id": "92b9ff5b-e9ba-4bf8-b772-870f574a2dd8",
+    "id": "ccbd3437-86ff-4c70-97f2-d79cd1096de7",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5640,12 +5640,12 @@
             "size": 6,
             "value": "103150"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06280",
         "platform_name": "Groningen"
     }
 }{
-    "id": "4d81a535-319e-415c-b60f-1c699f0d8fef",
+    "id": "d18259ed-db78-4730-9a49-225293e2201c",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5667,12 +5667,12 @@
             "size": 6,
             "value": "277.25"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06280",
-        "platform_name": "Groningen"
+        "platform_name": "GRONINGEN AP EELDE"
     }
 }{
-    "id": "924615a5-88ce-4bf6-8295-efbe6464ac77",
+    "id": "f1766361-1e80-41c1-bec2-24070b322e91",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5694,12 +5694,12 @@
             "size": 6,
             "value": "273.75"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06280",
-        "platform_name": "Groningen"
+        "platform_name": "GRONINGEN AP EELDE"
     }
 }{
-    "id": "22374d94-a1a8-4c86-baad-0469c2064027",
+    "id": "3a1b1729-a607-43ef-910f-354d2003ea58",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5721,12 +5721,12 @@
             "size": 2,
             "value": "77"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06280",
-        "platform_name": "Groningen"
+        "platform_name": "GRONINGEN AP EELDE"
     }
 }{
-    "id": "5126680b-44bd-4f9b-9ee4-fb695315393d",
+    "id": "cdbfec1a-cc33-4a17-89fd-8d5329454c71",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5748,13 +5748,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06280",
-        "platform_name": "Groningen",
+        "platform_name": "GRONINGEN AP EELDE",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "b01315bd-687c-47e4-8b30-ad16cac580b2",
+    "id": "0b0ec74a-586f-43bd-a3d2-e95604993e9a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5776,13 +5776,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06280",
-        "platform_name": "Groningen",
+        "platform_name": "GRONINGEN AP EELDE",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "ad33ddc6-783e-461d-b5eb-a18534d271db",
+    "id": "526adbb1-88d5-4c4a-9169-dc0ef71cb9d3",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5804,12 +5804,12 @@
             "size": 2,
             "value": "33"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06280",
-        "platform_name": "Groningen"
+        "platform_name": "GRONINGEN AP EELDE"
     }
 }{
-    "id": "2c5ba170-8836-4cf7-91e0-42531580b751",
+    "id": "ebd157e5-7310-4c1c-b21e-17a43a358733",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5831,12 +5831,12 @@
             "size": 1,
             "value": "3"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06280",
-        "platform_name": "Groningen"
+        "platform_name": "GRONINGEN AP EELDE"
     }
 }{
-    "id": "d592a2c9-6b97-40df-9832-1a7031273e9b",
+    "id": "00da905c-7a84-478c-844b-7f703a9b7b8d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5858,12 +5858,12 @@
             "size": 6,
             "value": "275.45"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06283",
-        "platform_name": "Hupsel"
+        "platform_name": "HUPSEL AWS"
     }
 }{
-    "id": "2e92f03f-af38-40c4-85f8-cfd1fb7673b2",
+    "id": "223bc880-3435-48ee-b33a-c35a15d7e1b1",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5885,12 +5885,12 @@
             "size": 6,
             "value": "269.45"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06283",
-        "platform_name": "Hupsel"
+        "platform_name": "HUPSEL AWS"
     }
 }{
-    "id": "f38f057f-473c-4e25-bfc3-0bbee9066f8c",
+    "id": "88254be6-5190-4214-b372-72c1ca7954a0",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5912,12 +5912,12 @@
             "size": 2,
             "value": "64"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06283",
-        "platform_name": "Hupsel"
+        "platform_name": "HUPSEL AWS"
     }
 }{
-    "id": "c3a02b4f-a3a2-4fd5-931d-4db031f51859",
+    "id": "8e76cd43-13c6-4828-a33b-bb8a774d42a6",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5939,13 +5939,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06283",
-        "platform_name": "Hupsel",
+        "platform_name": "HUPSEL AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "cb9d8239-5dfb-4832-a164-9af8650ebaaf",
+    "id": "a2d7ac72-2eb4-4426-9a9e-251ea585b74c",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5967,13 +5967,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06283",
-        "platform_name": "Hupsel",
+        "platform_name": "HUPSEL AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "4b2622b4-32b8-4cf2-b3a7-150995e9239d",
+    "id": "0de0d64a-1aec-4c27-93ad-1f4a727023bd",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -5995,12 +5995,12 @@
             "size": 2,
             "value": "54"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06283",
-        "platform_name": "Hupsel"
+        "platform_name": "HUPSEL AWS"
     }
 }{
-    "id": "f2a20c80-8f83-4f82-94ec-fb2ab0c01e97",
+    "id": "f0c5f783-f539-4b77-952d-7acd10076e39",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6022,12 +6022,12 @@
             "size": 1,
             "value": "2"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06283",
-        "platform_name": "Hupsel"
+        "platform_name": "HUPSEL AWS"
     }
 }{
-    "id": "91defbb0-0269-4e12-8335-788676b810ff",
+    "id": "6c5bcce1-ee06-4c4c-a068-48aedf57af5f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6049,12 +6049,12 @@
             "size": 2,
             "value": "31"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06285",
-        "platform_name": "Huibertgat"
+        "platform_name": "HUIBERTGAT WP"
     }
 }{
-    "id": "f28ce2d9-b0db-4949-8f72-67868bc3b5e9",
+    "id": "26739f90-2bc8-4dbc-b63f-c461474e5338",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6076,12 +6076,12 @@
             "size": 1,
             "value": "6"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06285",
-        "platform_name": "Huibertgat"
+        "platform_name": "HUIBERTGAT WP"
     }
 }{
-    "id": "5a7e8b26-4797-4bd2-81cc-b7e4b8e287b4",
+    "id": "4ce9b855-57f5-4cf5-9c0b-6be225c4c0f9",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6103,12 +6103,12 @@
             "size": 6,
             "value": "274.95"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06286",
-        "platform_name": "Nieuw Beerta"
+        "platform_name": "NIEUW BEERTA AWS"
     }
 }{
-    "id": "edac667c-9d68-4896-a04a-f90ec9ed56e2",
+    "id": "5ce4502e-82e6-4a73-b239-d64964a2d178",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6130,12 +6130,12 @@
             "size": 6,
             "value": "273.45"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06286",
-        "platform_name": "Nieuw Beerta"
+        "platform_name": "NIEUW BEERTA AWS"
     }
 }{
-    "id": "7ee9fb24-346a-4094-bbab-0ea8f3ac5966",
+    "id": "3a29ca22-2905-4715-ac3f-105b9434c3b8",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6157,12 +6157,12 @@
             "size": 2,
             "value": "89"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06286",
-        "platform_name": "Nieuw Beerta"
+        "platform_name": "NIEUW BEERTA AWS"
     }
 }{
-    "id": "5f43afe4-9478-40fc-923c-39d864ebdc6e",
+    "id": "9ecb8b6f-ef85-4f12-9a2a-44e81961a8f9",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6184,13 +6184,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06286",
-        "platform_name": "Nieuw Beerta",
+        "platform_name": "NIEUW BEERTA AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "96b79203-f035-4c2b-89a6-573aad80b7ff",
+    "id": "8b2c5998-ef12-4bd2-ab49-3bc34fdaef72",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6212,13 +6212,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06286",
-        "platform_name": "Nieuw Beerta",
+        "platform_name": "NIEUW BEERTA AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "509f5c93-b94d-4d98-9e6a-59a3c1629d3a",
+    "id": "f572164d-f961-4e01-a010-147a1ee7ff64",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6240,12 +6240,12 @@
             "size": 2,
             "value": "34"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06286",
-        "platform_name": "Nieuw Beerta"
+        "platform_name": "NIEUW BEERTA AWS"
     }
 }{
-    "id": "614949a2-2f4c-48b4-9085-07354c527eb7",
+    "id": "58148e19-c596-4c8f-8744-20b1731038a4",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6267,12 +6267,12 @@
             "size": 1,
             "value": "4"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06286",
-        "platform_name": "Nieuw Beerta"
+        "platform_name": "NIEUW BEERTA AWS"
     }
 }{
-    "id": "7e46d338-e617-4094-917a-03385d8d3587",
+    "id": "92ae37a4-c825-4861-9654-f55507ce40d6",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6294,12 +6294,12 @@
             "size": 6,
             "value": "102640"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06290",
         "platform_name": "Twenthe"
     }
 }{
-    "id": "048a09ab-2818-447a-94bc-1faf10497316",
+    "id": "e85804c7-cc0f-4307-b79d-a3b59298c58e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6321,12 +6321,12 @@
             "size": 6,
             "value": "103100"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06290",
         "platform_name": "Twenthe"
     }
 }{
-    "id": "616e686f-3c2b-4971-8961-4b6bd3bd350c",
+    "id": "98607a02-6c8f-4c8a-8516-23626f026421",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6348,12 +6348,12 @@
             "size": 6,
             "value": "274.65"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06290",
-        "platform_name": "Twenthe"
+        "platform_name": "TWENTE AWS"
     }
 }{
-    "id": "4b898b5f-83bd-49ba-bc19-a3b78df063b9",
+    "id": "d89cd111-5f6d-46fd-90ed-4da26d57b06c",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6375,12 +6375,12 @@
             "size": 6,
             "value": "269.05"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06290",
-        "platform_name": "Twenthe"
+        "platform_name": "TWENTE AWS"
     }
 }{
-    "id": "c76f4a06-2409-41f5-8dae-5b0ffb135c29",
+    "id": "5d9e6fe7-832d-4691-b639-94a10486014a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6402,12 +6402,12 @@
             "size": 2,
             "value": "66"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06290",
-        "platform_name": "Twenthe"
+        "platform_name": "TWENTE AWS"
     }
 }{
-    "id": "60031a32-4303-4e1d-9e8b-369de599971e",
+    "id": "ed406915-7749-412f-a832-8edfd4474f13",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6429,13 +6429,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06290",
-        "platform_name": "Twenthe",
+        "platform_name": "TWENTE AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "de54b84e-a5d7-4a4f-b381-77e5f089033e",
+    "id": "f374b31c-4792-4542-a65d-c5a87f52e83d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6457,13 +6457,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06290",
-        "platform_name": "Twenthe",
+        "platform_name": "TWENTE AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "0e13b70c-6c42-4534-b5f6-634198602c0c",
+    "id": "4c95a933-62cf-492f-959b-5901147318c5",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6485,12 +6485,12 @@
             "size": 2,
             "value": "73"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06290",
-        "platform_name": "Twenthe"
+        "platform_name": "TWENTE AWS"
     }
 }{
-    "id": "ad928ff1-b634-459e-898d-dde7e304afd5",
+    "id": "14c31a23-59bf-40a7-aea2-05514edfa5b5",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6512,12 +6512,12 @@
             "size": 1,
             "value": "1"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06290",
-        "platform_name": "Twenthe"
+        "platform_name": "TWENTE AWS"
     }
 }{
-    "id": "9352d7f9-7e6d-4b99-91cf-b929cf05d356",
+    "id": "380b8e1d-f260-4969-9a06-54e1b21a348d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6539,12 +6539,12 @@
             "size": 2,
             "value": "45"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06308",
-        "platform_name": "Cadzand"
+        "platform_name": "CADZAND WP"
     }
 }{
-    "id": "a4f12339-be3e-463c-b3b6-f95cb81d9e01",
+    "id": "8db9a2e0-3697-45be-9ef6-f2a5ec47ac70",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6566,12 +6566,12 @@
             "size": 1,
             "value": "8"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06308",
-        "platform_name": "Cadzand"
+        "platform_name": "CADZAND WP"
     }
 }{
-    "id": "83f15fb9-bcd8-434a-a8ac-127bfc0c8242",
+    "id": "dae091a0-5804-4211-82a5-2b2c421d543c",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6593,12 +6593,12 @@
             "size": 6,
             "value": "102910"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06310",
         "platform_name": "Vlissingen"
     }
 }{
-    "id": "aecb14ad-dfe0-495b-ad12-84dde129c439",
+    "id": "3b73b0c6-8573-4c7c-b810-c946acfd276a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6620,12 +6620,12 @@
             "size": 6,
             "value": "103030"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06310",
         "platform_name": "Vlissingen"
     }
 }{
-    "id": "bd55d17d-476d-44e6-bdaf-471c3b903ffe",
+    "id": "2caffb1e-e85b-431e-81bc-94c57be12112",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6647,12 +6647,12 @@
             "size": 6,
             "value": "278.15"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06310",
-        "platform_name": "Vlissingen"
+        "platform_name": "VLISSINGEN AWS"
     }
 }{
-    "id": "9e293b28-ae57-4c21-9e1b-c0a4f29128a7",
+    "id": "c8f19248-02e9-4cab-afaf-b5f2fb590587",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6674,12 +6674,12 @@
             "size": 6,
             "value": "272.25"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06310",
-        "platform_name": "Vlissingen"
+        "platform_name": "VLISSINGEN AWS"
     }
 }{
-    "id": "2d69386e-890f-431b-ac9c-ed05bc6d1aaf",
+    "id": "8ff03e6b-430f-4823-b8ac-ec798f305455",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6701,12 +6701,12 @@
             "size": 2,
             "value": "65"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06310",
-        "platform_name": "Vlissingen"
+        "platform_name": "VLISSINGEN AWS"
     }
 }{
-    "id": "9ce959b9-6914-40df-97ec-9cd0a5c73aa6",
+    "id": "dbcf668e-7400-4e6a-9efd-d1a897e9919b",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6728,13 +6728,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06310",
-        "platform_name": "Vlissingen",
+        "platform_name": "VLISSINGEN AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "b618684b-14a1-4567-8284-b3b450417584",
+    "id": "3162b560-335c-4cae-a4e0-5dac1d51a413",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6756,13 +6756,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06310",
-        "platform_name": "Vlissingen",
+        "platform_name": "VLISSINGEN AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "bc3b3c7e-a502-4e6f-89ae-e25dbf635fe9",
+    "id": "78c779b9-44eb-419e-8d77-fc3ba2fe5ae5",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6784,12 +6784,12 @@
             "size": 2,
             "value": "26"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06310",
-        "platform_name": "Vlissingen"
+        "platform_name": "VLISSINGEN AWS"
     }
 }{
-    "id": "0d8dcf61-c7ec-45c1-907b-b48ea182df61",
+    "id": "e530fbf1-6215-4b76-a47a-0caac93d71fe",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6811,12 +6811,12 @@
             "size": 1,
             "value": "5"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06310",
-        "platform_name": "Vlissingen"
+        "platform_name": "VLISSINGEN AWS"
     }
 }{
-    "id": "581351c5-ce88-4ff7-a6c7-3fae7be9e907",
+    "id": "c2e8582a-ff65-4b98-8b62-30a5449afdbd",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6838,12 +6838,12 @@
             "size": 2,
             "value": "50"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06312",
-        "platform_name": "Oosterschelde"
+        "platform_name": "OOSTERSCHELDE WP"
     }
 }{
-    "id": "7a6a737d-b229-480b-9e6d-93f39fd2753b",
+    "id": "2eb988a8-42fd-4f7d-85ab-c6a3c94b7c31",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6865,12 +6865,12 @@
             "size": 1,
             "value": "9"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06312",
-        "platform_name": "Oosterschelde"
+        "platform_name": "OOSTERSCHELDE WP"
     }
 }{
-    "id": "792b7b19-dbd9-4335-850e-7674f6cccd48",
+    "id": "29949624-3d15-424a-87f6-c3edfc934070",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6892,12 +6892,12 @@
             "size": 2,
             "value": "56"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06313",
-        "platform_name": "Vlakte van de Raan"
+        "platform_name": "VLAKTE VAN RAAN"
     }
 }{
-    "id": "d1ca628c-d91f-48fd-adf0-ea35209e3cd4",
+    "id": "0aa3f198-ba2a-40b1-b805-019d6e17f74e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6919,12 +6919,12 @@
             "size": 2,
             "value": "10"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06313",
-        "platform_name": "Vlakte van de Raan"
+        "platform_name": "VLAKTE VAN RAAN"
     }
 }{
-    "id": "5d9fd761-e5ba-4041-8d7c-2bf42683976d",
+    "id": "10d35821-fb92-4fc9-bbe0-6c58453c8156",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6946,12 +6946,12 @@
             "size": 2,
             "value": "41"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06315",
-        "platform_name": "Hansweert"
+        "platform_name": "HANSWEERT"
     }
 }{
-    "id": "ff6ec617-af24-4119-9d93-2e002d2c10d2",
+    "id": "bae2ac1c-ba88-473b-a9b8-0fc8a25f868f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -6973,12 +6973,12 @@
             "size": 1,
             "value": "4"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06315",
-        "platform_name": "Hansweert"
+        "platform_name": "HANSWEERT"
     }
 }{
-    "id": "55fe96e5-8659-43fa-8cc2-25d31425eab0",
+    "id": "45531e47-2b40-4a06-b035-e32cbb202e96",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7000,12 +7000,12 @@
             "size": 2,
             "value": "50"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06316",
-        "platform_name": "Schaar"
+        "platform_name": "OOSTERSCHELDE 4"
     }
 }{
-    "id": "9cfae503-cee8-4fa0-a3d4-c6d78a581b8c",
+    "id": "b4f208f5-53a7-44e2-96fe-f36288117c43",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7027,12 +7027,12 @@
             "size": 1,
             "value": "7"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06316",
-        "platform_name": "Schaar"
+        "platform_name": "OOSTERSCHELDE 4"
     }
 }{
-    "id": "24e8a269-6a70-47c2-8f6c-c4ffad2739f5",
+    "id": "b6c35eeb-ae73-48df-8d9d-ecd20e8e8482",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7054,12 +7054,12 @@
             "size": 6,
             "value": "102550"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06317",
         "platform_name": "Platform Borssele-A"
     }
 }{
-    "id": "4a0a1b3b-ffa3-44d8-845f-749f3233f696",
+    "id": "99443b95-23f4-4d4a-8e31-fa30f0f093cf",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7081,12 +7081,12 @@
             "size": 6,
             "value": "103080"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06317",
         "platform_name": "Platform Borssele-A"
     }
 }{
-    "id": "30b8196f-6538-43cb-b775-716b59bfaf08",
+    "id": "5c462101-538b-49d6-b8e1-c9a670647968",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7108,12 +7108,12 @@
             "size": 6,
             "value": "279.25"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06317",
-        "platform_name": "Platform Borssele-A"
+        "platform_name": "Borssele Alfa (BSA)"
     }
 }{
-    "id": "46d783e9-9df4-4fd1-89e0-c2eddab61b03",
+    "id": "ae12164f-41f0-419c-8e9c-2e82ad11fef8",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7135,12 +7135,12 @@
             "size": 6,
             "value": "272.45"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06317",
-        "platform_name": "Platform Borssele-A"
+        "platform_name": "Borssele Alfa (BSA)"
     }
 }{
-    "id": "6c7a9d83-03f4-42f6-9de2-f475d0747bdb",
+    "id": "e251bcde-1bf5-46b2-927f-19282625a166",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7162,12 +7162,12 @@
             "size": 2,
             "value": "61"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06317",
-        "platform_name": "Platform Borssele-A"
+        "platform_name": "Borssele Alfa (BSA)"
     }
 }{
-    "id": "fe42442f-e156-46c4-8e2f-dad38c596fc7",
+    "id": "fa0fd2b7-e52d-49b8-869b-0208e746b97a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7189,12 +7189,12 @@
             "size": 2,
             "value": "30"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06317",
-        "platform_name": "Platform Borssele-A"
+        "platform_name": "Borssele Alfa (BSA)"
     }
 }{
-    "id": "c1059ec8-8737-474f-9c2d-cf09a89a97e3",
+    "id": "3c93352e-5414-4653-8eb5-f15ed525af2b",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7216,12 +7216,12 @@
             "size": 1,
             "value": "9"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06317",
-        "platform_name": "Platform Borssele-A"
+        "platform_name": "Borssele Alfa (BSA)"
     }
 }{
-    "id": "1a756756-3440-4dc1-bfa0-94530c7921c7",
+    "id": "da0a90f4-ecc3-4e6b-8a17-46efd497236d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7243,12 +7243,12 @@
             "size": 6,
             "value": "102940"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06319",
         "platform_name": "Westdorpe"
     }
 }{
-    "id": "df7d18b0-3ab3-4bc7-a6f1-302f7847307e",
+    "id": "bf7606a8-15ae-4d42-813c-ea475425a3c8",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7270,12 +7270,12 @@
             "size": 6,
             "value": "102990"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06319",
         "platform_name": "Westdorpe"
     }
 }{
-    "id": "38702d64-5ba7-470f-bd09-51ce5621058d",
+    "id": "42beaad1-5d18-49fe-86e7-b7cf7b1831e9",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7297,12 +7297,12 @@
             "size": 6,
             "value": "276.05"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06319",
-        "platform_name": "Westdorpe"
+        "platform_name": "WESTDORPE AWS"
     }
 }{
-    "id": "44d1a89b-a441-4787-9f98-6bca0ff634c0",
+    "id": "4d84219e-6eb4-4fe4-af2e-34c4b7a201b4",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7324,12 +7324,12 @@
             "size": 6,
             "value": "271.25"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06319",
-        "platform_name": "Westdorpe"
+        "platform_name": "WESTDORPE AWS"
     }
 }{
-    "id": "fb977c95-0cee-40cf-b8e4-8b752f77cb5d",
+    "id": "245ca806-5ad9-4798-92d3-6eb1edb3ccdc",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7351,12 +7351,12 @@
             "size": 2,
             "value": "70"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06319",
-        "platform_name": "Westdorpe"
+        "platform_name": "WESTDORPE AWS"
     }
 }{
-    "id": "43342090-c53e-4a29-8348-a9da5e55aaf2",
+    "id": "e6dab32c-4f42-47e7-8da0-ee8bcfd43f77",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7378,13 +7378,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06319",
-        "platform_name": "Westdorpe",
+        "platform_name": "WESTDORPE AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "5209df84-a87f-4552-a15a-fc13b278b994",
+    "id": "6a325651-e478-4a31-8188-f3017a8b3373",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7406,13 +7406,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06319",
-        "platform_name": "Westdorpe",
+        "platform_name": "WESTDORPE AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "59a15f1d-f4ee-4ba3-810a-71b1208203c7",
+    "id": "5cd2aab8-8a72-4392-a608-80fe0e7daadd",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7434,12 +7434,12 @@
             "size": 2,
             "value": "44"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06319",
-        "platform_name": "Westdorpe"
+        "platform_name": "WESTDORPE AWS"
     }
 }{
-    "id": "6ee4a1ec-2471-4aa4-bc16-2f5cf7865800",
+    "id": "a2bad466-a460-4fe0-8e24-0493ba21b3f7",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7461,12 +7461,12 @@
             "size": 1,
             "value": "3"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06319",
-        "platform_name": "Westdorpe"
+        "platform_name": "WESTDORPE AWS"
     }
 }{
-    "id": "7e36f696-fd53-437b-9d52-0e4af5955fd3",
+    "id": "b5652db5-2e0c-4b28-b2e4-4ea04ff38633",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7488,12 +7488,12 @@
             "size": 6,
             "value": "102940"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06320",
         "platform_name": "Lichteiland Goeree"
     }
 }{
-    "id": "bb0224fc-cd54-4b2c-a532-81da16e554e1",
+    "id": "90b49331-3048-42c9-bc05-03db5262c3cb",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7515,12 +7515,12 @@
             "size": 6,
             "value": "103180"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06320",
         "platform_name": "Lichteiland Goeree"
     }
 }{
-    "id": "d8ebd3fa-c08e-46e9-80e1-60fec27f1338",
+    "id": "4e4b9522-05ec-4954-820f-56b4a0a58a11",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7542,12 +7542,12 @@
             "size": 6,
             "value": "279.45"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06320",
-        "platform_name": "Lichteiland Goeree"
+        "platform_name": "LICHTEILAND GOEREE"
     }
 }{
-    "id": "b4486fa9-05c0-40f6-b4fa-2626b3189303",
+    "id": "f5af982a-a64f-45f6-89d8-0b6f2e7e7c00",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7569,12 +7569,12 @@
             "size": 6,
             "value": "273.65"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06320",
-        "platform_name": "Lichteiland Goeree"
+        "platform_name": "LICHTEILAND GOEREE"
     }
 }{
-    "id": "15f75af4-7ba0-4cea-b281-c9bf24910144",
+    "id": "3021efea-18be-404d-9031-f0d113d1b5ed",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7596,12 +7596,12 @@
             "size": 2,
             "value": "66"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06320",
-        "platform_name": "Lichteiland Goeree"
+        "platform_name": "LICHTEILAND GOEREE"
     }
 }{
-    "id": "5f777e64-7888-4bf0-9c8e-337c5c54fbc4",
+    "id": "53b405e8-3a41-4cf6-b8d8-daa5d1c9d060",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7623,12 +7623,12 @@
             "size": 2,
             "value": "45"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06320",
-        "platform_name": "Lichteiland Goeree"
+        "platform_name": "LICHTEILAND GOEREE"
     }
 }{
-    "id": "49d366c5-83f3-4d5c-a8d4-6fa338d59770",
+    "id": "76b5d0ee-1daf-487d-941d-4626bd3114d0",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7650,12 +7650,12 @@
             "size": 1,
             "value": "9"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06320",
-        "platform_name": "Lichteiland Goeree"
+        "platform_name": "LICHTEILAND GOEREE"
     }
 }{
-    "id": "fad46f9a-23bc-499f-95ea-533c20cf364a",
+    "id": "b51468f4-758e-41c1-8f2d-85cb2bcf466b",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7677,12 +7677,12 @@
             "size": 6,
             "value": "102890"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06321",
         "platform_name": "Euro Platform"
     }
 }{
-    "id": "8eb3eea2-5970-47e1-8563-0c85538f8c1e",
+    "id": "154f8baf-162d-48db-a975-bfe6aa8241cf",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7704,12 +7704,12 @@
             "size": 6,
             "value": "103110"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06321",
         "platform_name": "Euro Platform"
     }
 }{
-    "id": "98919687-3c90-43eb-a323-a96a1c53903a",
+    "id": "50b90380-7685-44ed-81cd-33c2272b9dd5",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7731,12 +7731,12 @@
             "size": 6,
             "value": "279.55"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06321",
-        "platform_name": "Euro Platform"
+        "platform_name": "EURO PLATFORM"
     }
 }{
-    "id": "c3a92914-6259-4df8-ba67-72e82c685405",
+    "id": "bc30b69f-9bcf-4cb8-a3df-399f85e8c4a7",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7758,12 +7758,12 @@
             "size": 6,
             "value": "273.05"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06321",
-        "platform_name": "Euro Platform"
+        "platform_name": "EURO PLATFORM"
     }
 }{
-    "id": "39aaab5d-70a6-4267-b00d-b0a2ddd4597e",
+    "id": "4b8b0ce0-30fa-43e0-9a6d-749457ec26ed",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7785,12 +7785,12 @@
             "size": 2,
             "value": "63"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06321",
-        "platform_name": "Euro Platform"
+        "platform_name": "EURO PLATFORM"
     }
 }{
-    "id": "bb11e503-56cf-4e9a-8fe9-91b77a1ad3bb",
+    "id": "2b1680f8-66f4-44a9-a451-20bbad9594db",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7812,12 +7812,12 @@
             "size": 2,
             "value": "36"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06321",
-        "platform_name": "Euro Platform"
+        "platform_name": "EURO PLATFORM"
     }
 }{
-    "id": "c91959f7-dc62-426a-8512-adf12280b246",
+    "id": "64ad688b-3b65-43a2-9ade-d82f97f84703",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7839,12 +7839,12 @@
             "size": 2,
             "value": "10"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06321",
-        "platform_name": "Euro Platform"
+        "platform_name": "EURO PLATFORM"
     }
 }{
-    "id": "09efe9a2-5a9e-4475-825b-3593e3409f3e",
+    "id": "58872808-ce4e-45f4-8684-a835c8cfe55b",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7866,12 +7866,12 @@
             "size": 6,
             "value": "102990"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06323",
         "platform_name": "Wilhelminadorp"
     }
 }{
-    "id": "b4d221cd-b443-4fe6-8a16-4a3eeae885d8",
+    "id": "0537da06-d160-43f0-b9a2-4eadd7672a26",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7893,12 +7893,12 @@
             "size": 6,
             "value": "103030"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06323",
         "platform_name": "Wilhelminadorp"
     }
 }{
-    "id": "0f360b4c-8486-4e49-95a5-bf5f4a79d2c1",
+    "id": "f1c1553d-da6d-46d2-a4f6-b6b63ac7156a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7920,12 +7920,12 @@
             "size": 6,
             "value": "278.05"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06323",
-        "platform_name": "Wilhelminadorp"
+        "platform_name": "WILHELMINADORP AWS"
     }
 }{
-    "id": "da53e0dc-b6be-47bd-9c49-0dae1c31b199",
+    "id": "7f6376b8-9a29-436c-b291-5faa70f53f54",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7947,12 +7947,12 @@
             "size": 6,
             "value": "272.55"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06323",
-        "platform_name": "Wilhelminadorp"
+        "platform_name": "WILHELMINADORP AWS"
     }
 }{
-    "id": "497a1595-94e9-4030-b2bc-5efadd6d5b0c",
+    "id": "06a06632-1004-4ed1-aced-1510cb01dd6d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -7974,12 +7974,12 @@
             "size": 2,
             "value": "67"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06323",
-        "platform_name": "Wilhelminadorp"
+        "platform_name": "WILHELMINADORP AWS"
     }
 }{
-    "id": "08b449be-a945-4f5e-ba75-783f88004f79",
+    "id": "a111af4b-c464-434b-a1ac-331b80714c48",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8001,13 +8001,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06323",
-        "platform_name": "Wilhelminadorp",
+        "platform_name": "WILHELMINADORP AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "d6181551-b91e-4c21-bcda-bd7b28320b7b",
+    "id": "2b8bed75-f943-4567-bf4d-cbd995a76b20",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8029,13 +8029,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06323",
-        "platform_name": "Wilhelminadorp",
+        "platform_name": "WILHELMINADORP AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "facf44d0-6d8e-49a9-a2d7-a37ba2d7c81d",
+    "id": "612c468b-6024-47b9-b1ed-f8f55a47a4a8",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8057,12 +8057,12 @@
             "size": 2,
             "value": "44"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06323",
-        "platform_name": "Wilhelminadorp"
+        "platform_name": "WILHELMINADORP AWS"
     }
 }{
-    "id": "c75dbd06-7bc7-4f91-8fd2-f6216249efbb",
+    "id": "d322a1e8-bc70-458f-bd11-1da96e7ff1fd",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8084,12 +8084,12 @@
             "size": 1,
             "value": "6"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06323",
-        "platform_name": "Wilhelminadorp"
+        "platform_name": "WILHELMINADORP AWS"
     }
 }{
-    "id": "4740aca8-1f0b-4503-adac-b7fd98cecfb4",
+    "id": "60f85ff8-8950-4d77-97e2-3de526e098e2",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8111,12 +8111,12 @@
             "size": 2,
             "value": "41"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06324",
-        "platform_name": "Stavenisse"
+        "platform_name": "STAVENISSE"
     }
 }{
-    "id": "d84d5c94-dbe3-47ab-9aa7-06ba63fcfd43",
+    "id": "fe4a5ec5-0e4a-42d2-9d84-b8d37042aabb",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8138,12 +8138,12 @@
             "size": 1,
             "value": "7"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06324",
-        "platform_name": "Stavenisse"
+        "platform_name": "STAVENISSE"
     }
 }{
-    "id": "b327f0d8-4c3f-4e19-ae8c-d1740c4ddca1",
+    "id": "4d3f2431-410b-4622-bef4-5662055a7d76",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8165,12 +8165,12 @@
             "size": 6,
             "value": "102930"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06330",
         "platform_name": "Hoek van Holland"
     }
 }{
-    "id": "1bf7e9d4-3323-4efe-81af-bb4ff8cb750b",
+    "id": "d8fd9d0e-9a78-4391-932a-965286cd0615",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8192,12 +8192,12 @@
             "size": 6,
             "value": "103090"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06330",
         "platform_name": "Hoek van Holland"
     }
 }{
-    "id": "a8e59225-a230-45f8-9c7a-65fcf4aff3ce",
+    "id": "a6c19a29-af3e-4ec8-a625-88e0d1bb6de3",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8219,12 +8219,12 @@
             "size": 6,
             "value": "278.05"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06330",
-        "platform_name": "Hoek van Holland"
+        "platform_name": "HOEK VAN HOLLAND AWS"
     }
 }{
-    "id": "1da489f1-e301-4c7b-83f0-4ddd395f6e92",
+    "id": "05d726ab-827d-47ae-974c-aa7154c03bed",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8246,12 +8246,12 @@
             "size": 6,
             "value": "271.05"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06330",
-        "platform_name": "Hoek van Holland"
+        "platform_name": "HOEK VAN HOLLAND AWS"
     }
 }{
-    "id": "c8a348de-461e-4e24-acff-076928f0338d",
+    "id": "4515cd64-349c-4891-aaf1-225459f58974",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8273,12 +8273,12 @@
             "size": 2,
             "value": "60"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06330",
-        "platform_name": "Hoek van Holland"
+        "platform_name": "HOEK VAN HOLLAND AWS"
     }
 }{
-    "id": "2154d267-9fed-4d46-81fa-84d284a7791b",
+    "id": "54f923f5-4215-41fa-8111-8ac7f5802a6b",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8300,13 +8300,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06330",
-        "platform_name": "Hoek van Holland",
+        "platform_name": "HOEK VAN HOLLAND AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "908c3710-f84f-47ac-b7f4-09dbbf7c73f2",
+    "id": "84eb676a-60cb-49cd-b97b-e57736017c92",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8328,13 +8328,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06330",
-        "platform_name": "Hoek van Holland",
+        "platform_name": "HOEK VAN HOLLAND AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "14a7b866-9360-43b5-b413-7d6788256417",
+    "id": "5644155c-d27e-437d-953b-ba64618eb507",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8356,12 +8356,12 @@
             "size": 2,
             "value": "49"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06330",
-        "platform_name": "Hoek van Holland"
+        "platform_name": "HOEK VAN HOLLAND AWS"
     }
 }{
-    "id": "14ea750e-6c15-47c7-afbc-b6776c409b50",
+    "id": "cbd93a7b-1cff-40cf-9963-9608fac8e46d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8383,12 +8383,12 @@
             "size": 1,
             "value": "7"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06330",
-        "platform_name": "Hoek van Holland"
+        "platform_name": "HOEK VAN HOLLAND AWS"
     }
 }{
-    "id": "31f0a8dd-8e4a-45c2-b1c2-63761d1e389e",
+    "id": "064d3212-2b36-4d42-96ba-f0388539f48d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8410,12 +8410,12 @@
             "size": 2,
             "value": "47"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06331",
-        "platform_name": "Tholen"
+        "platform_name": "MAROLLEGAT"
     }
 }{
-    "id": "fa7be926-88bd-4d39-a66c-b7e0c06b04ed",
+    "id": "a04a872b-304d-4625-b14f-9df9bfdb0adf",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8437,12 +8437,12 @@
             "size": 1,
             "value": "5"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06331",
-        "platform_name": "Tholen"
+        "platform_name": "MAROLLEGAT"
     }
 }{
-    "id": "c31726a7-da12-41e2-b292-8c9c0c4ca33f",
+    "id": "80f4cd88-a2ba-479e-aedf-ebb96974c95f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8464,12 +8464,12 @@
             "size": 6,
             "value": "102820"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06340",
         "platform_name": "Woensdrecht"
     }
 }{
-    "id": "f4ea6293-f710-42bc-aa31-c03e1c7481fd",
+    "id": "e9905854-b7b2-4623-b1a0-aaec3756cca9",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8491,12 +8491,12 @@
             "size": 6,
             "value": "103020"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06340",
         "platform_name": "Woensdrecht"
     }
 }{
-    "id": "1b228b1f-048b-432d-949f-f4a6ada7ab44",
+    "id": "e57b414b-8b8f-4292-b093-29e282396935",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8518,12 +8518,12 @@
             "size": 6,
             "value": "275.05"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06340",
-        "platform_name": "Woensdrecht"
+        "platform_name": "WOENSDRECHT"
     }
 }{
-    "id": "be7a86e1-7f83-4530-b399-24effc85c2a9",
+    "id": "351afedd-141f-4147-bcd5-23509e3cb403",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8545,12 +8545,12 @@
             "size": 6,
             "value": "269.95"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06340",
-        "platform_name": "Woensdrecht"
+        "platform_name": "WOENSDRECHT"
     }
 }{
-    "id": "a7315608-d073-4d79-b3e2-c9164775a188",
+    "id": "a69beabe-3c50-4c6b-9987-e5e9bd36dd5e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8572,12 +8572,12 @@
             "size": 2,
             "value": "69"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06340",
-        "platform_name": "Woensdrecht"
+        "platform_name": "WOENSDRECHT"
     }
 }{
-    "id": "cf1e64b1-89c6-4144-b94f-7b4e2bab42ce",
+    "id": "639466a0-fafc-497f-a660-513725129ee2",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8599,13 +8599,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06340",
-        "platform_name": "Woensdrecht",
+        "platform_name": "WOENSDRECHT",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "5892bc6e-15f6-435f-81c7-7d8a0f626f28",
+    "id": "ead7d343-8106-4fc6-80c8-da42c2bb7f87",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8627,13 +8627,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06340",
-        "platform_name": "Woensdrecht",
+        "platform_name": "WOENSDRECHT",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "06b6ec12-d8ce-43e9-893f-05803a3a2416",
+    "id": "fc8c3767-eae9-4f81-b243-c21619fa3291",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8655,12 +8655,12 @@
             "size": 2,
             "value": "57"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06340",
-        "platform_name": "Woensdrecht"
+        "platform_name": "WOENSDRECHT"
     }
 }{
-    "id": "3ca80bd0-3481-4e0f-bfcf-bc7939675c91",
+    "id": "230bcdf2-2061-4a48-ac68-89d983d9588a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8682,12 +8682,12 @@
             "size": 1,
             "value": "3"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06340",
-        "platform_name": "Woensdrecht"
+        "platform_name": "WOENSDRECHT"
     }
 }{
-    "id": "4cfd61bc-e794-4826-8a5e-62e4361004f0",
+    "id": "91fb8787-8155-4b58-aa4b-784da6d52a26",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8709,12 +8709,12 @@
             "size": 2,
             "value": "35"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06343",
-        "platform_name": "Rotterdam Geulhaven"
+        "platform_name": "ROTTERDAM GEULHAVEN"
     }
 }{
-    "id": "dfb7429b-1477-4cff-a71a-66c18f0fd5a5",
+    "id": "4677687b-93d5-462e-aa2f-24ff3fd6ab80",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8736,12 +8736,12 @@
             "size": 1,
             "value": "4"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06343",
-        "platform_name": "Rotterdam Geulhaven"
+        "platform_name": "ROTTERDAM GEULHAVEN"
     }
 }{
-    "id": "ed9acd39-0817-4575-b652-798ed12a26bc",
+    "id": "f9b57ec8-8bd9-4f47-b54d-f8ee2a602703",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8763,12 +8763,12 @@
             "size": 6,
             "value": "103140"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06344",
         "platform_name": "Rotterdam"
     }
 }{
-    "id": "6f020f1c-90e0-49ae-82ce-e7d3e5594000",
+    "id": "83508ab1-7084-4380-a9ac-325294afe526",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8790,12 +8790,12 @@
             "size": 6,
             "value": "103080"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06344",
         "platform_name": "Rotterdam"
     }
 }{
-    "id": "d100768c-cb3c-453e-96de-0decb4b83f9f",
+    "id": "514f2f51-921c-43bc-b914-6cc3aeafc04f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8817,12 +8817,12 @@
             "size": 6,
             "value": "276.55"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06344",
-        "platform_name": "Rotterdam"
+        "platform_name": "ROTTERDAM THE HAGUE AP"
     }
 }{
-    "id": "4567fb8e-252a-4410-bf42-10b10758ed11",
+    "id": "8cbb9e43-8e8c-4e40-8694-5b74e502d90a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8844,12 +8844,12 @@
             "size": 6,
             "value": "272.85"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06344",
-        "platform_name": "Rotterdam"
+        "platform_name": "ROTTERDAM THE HAGUE AP"
     }
 }{
-    "id": "77ae3b13-54e8-4a41-8615-5042b717a9f4",
+    "id": "c8713adb-6af0-4b7b-b132-ada68c6fad3e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8871,12 +8871,12 @@
             "size": 2,
             "value": "76"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06344",
-        "platform_name": "Rotterdam"
+        "platform_name": "ROTTERDAM THE HAGUE AP"
     }
 }{
-    "id": "f1be34b2-89df-4713-ba0a-0a76a5e28b17",
+    "id": "57778566-673e-433a-b22a-eabef5e99c3d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8898,13 +8898,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06344",
-        "platform_name": "Rotterdam",
+        "platform_name": "ROTTERDAM THE HAGUE AP",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "30755193-470a-4236-bf02-689f98d63af1",
+    "id": "f7847181-1080-436c-93ee-ced154e89705",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8926,13 +8926,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06344",
-        "platform_name": "Rotterdam",
+        "platform_name": "ROTTERDAM THE HAGUE AP",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "e9bb98b1-36f9-4a2a-a778-61a731b21601",
+    "id": "616adb97-54c8-4747-96ae-0b8c44d692f0",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8954,12 +8954,12 @@
             "size": 2,
             "value": "46"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06344",
-        "platform_name": "Rotterdam"
+        "platform_name": "ROTTERDAM THE HAGUE AP"
     }
 }{
-    "id": "f3258223-cf90-4339-84b8-a097c6ef37e7",
+    "id": "77ac11b7-6266-4879-81f9-d200f195f623",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -8981,12 +8981,12 @@
             "size": 1,
             "value": "2"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06344",
-        "platform_name": "Rotterdam"
+        "platform_name": "ROTTERDAM THE HAGUE AP"
     }
 }{
-    "id": "31ad48df-010b-4c76-81d5-d415c0ae7bbd",
+    "id": "7073c4b4-fec2-4637-ba8e-bf0a904e5d41",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9008,12 +9008,12 @@
             "size": 6,
             "value": "103040"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06348",
         "platform_name": "Cabauw"
     }
 }{
-    "id": "8dff68e2-2d37-446b-9246-adf7fb824a91",
+    "id": "e3a6be7e-f033-4d79-a08d-020c74045323",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9035,12 +9035,12 @@
             "size": 6,
             "value": "103060"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06348",
         "platform_name": "Cabauw"
     }
 }{
-    "id": "4306ee12-ea2f-49b0-aa0c-5686bac26247",
+    "id": "add6770b-29b6-4af1-a19c-1a36846fc134",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9062,12 +9062,12 @@
             "size": 6,
             "value": "276.35"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06348",
-        "platform_name": "Cabauw"
+        "platform_name": "CABAUW TOWER AWS"
     }
 }{
-    "id": "3004232c-e33a-4fa8-abce-fe5508f51963",
+    "id": "900c1acc-03e6-450e-906f-7c7b84b1ed1a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9089,12 +9089,12 @@
             "size": 6,
             "value": "271.35"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06348",
-        "platform_name": "Cabauw"
+        "platform_name": "CABAUW TOWER AWS"
     }
 }{
-    "id": "2edaf753-6dbc-4e96-8af8-e0d27449f280",
+    "id": "662dff68-23ab-4708-92c6-1b082d6600e7",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9116,12 +9116,12 @@
             "size": 2,
             "value": "69"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06348",
-        "platform_name": "Cabauw"
+        "platform_name": "CABAUW TOWER AWS"
     }
 }{
-    "id": "05a0239b-4f95-4241-82b5-fdfa05ade413",
+    "id": "6a1fb3e4-5257-4f97-b0a6-6bc4c1849251",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9143,13 +9143,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06348",
-        "platform_name": "Cabauw",
+        "platform_name": "CABAUW TOWER AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "a83bb483-bdd4-4565-ac86-d6e080acc80a",
+    "id": "13645320-2198-44d6-b880-76a415fc9e99",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9171,13 +9171,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06348",
-        "platform_name": "Cabauw",
+        "platform_name": "CABAUW TOWER AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "fd5ba3f7-454f-4483-a7c0-3260fce8e593",
+    "id": "4d5701cc-49b6-452c-9ba4-86d0ef9bf7c7",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9199,12 +9199,12 @@
             "size": 2,
             "value": "29"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06348",
-        "platform_name": "Cabauw"
+        "platform_name": "CABAUW TOWER AWS"
     }
 }{
-    "id": "ca8d5431-e8de-4902-9f41-83825b6891a0",
+    "id": "1d09ce43-c267-4a02-9185-95ce23ce28c4",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9226,12 +9226,12 @@
             "size": 1,
             "value": "3"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06348",
-        "platform_name": "Cabauw"
+        "platform_name": "CABAUW TOWER AWS"
     }
 }{
-    "id": "38515438-5517-480f-aea7-d1da01942a24",
+    "id": "66cf44d2-56ee-42e4-b6c3-694ad3e3ca17",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9253,12 +9253,12 @@
             "size": 6,
             "value": "102860"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06350",
         "platform_name": "Gilze Rijen"
     }
 }{
-    "id": "7f9083ab-63c5-42d4-aa48-c0c059d4100c",
+    "id": "fde7c801-3391-4c2b-89a4-63d2364ce01f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9280,12 +9280,12 @@
             "size": 6,
             "value": "103030"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06350",
         "platform_name": "Gilze Rijen"
     }
 }{
-    "id": "b25c2a45-5732-4bbd-b9ce-ec6b58195472",
+    "id": "8f9dae54-6af6-4498-91da-76b716f80c58",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9307,12 +9307,12 @@
             "size": 6,
             "value": "275.65"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06350",
-        "platform_name": "Gilze Rijen"
+        "platform_name": "GILZE RIJEN"
     }
 }{
-    "id": "1429f37b-6d55-4f5c-83d7-894dd95d9fef",
+    "id": "f153c4da-6b79-45c8-8e22-160dcc9af070",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9334,12 +9334,12 @@
             "size": 6,
             "value": "270.05"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06350",
-        "platform_name": "Gilze Rijen"
+        "platform_name": "GILZE RIJEN"
     }
 }{
-    "id": "c9e3a23e-e279-4dcd-bbf1-57c475e576b2",
+    "id": "48b220eb-91e7-4da2-998c-bccd750ec396",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9361,12 +9361,12 @@
             "size": 2,
             "value": "66"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06350",
-        "platform_name": "Gilze Rijen"
+        "platform_name": "GILZE RIJEN"
     }
 }{
-    "id": "cc8c9fa0-674b-4e4b-9c85-c17d2e9599ee",
+    "id": "6c53adfd-6d0b-43c2-8cab-04c7247879a8",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9388,13 +9388,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06350",
-        "platform_name": "Gilze Rijen",
+        "platform_name": "GILZE RIJEN",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "1d4006c7-b13e-4345-990e-36428e4c76d9",
+    "id": "2e5149fa-0737-4077-95b4-c049a8328f73",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9416,13 +9416,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06350",
-        "platform_name": "Gilze Rijen",
+        "platform_name": "GILZE RIJEN",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "27b05629-5134-4732-ba9a-e9c91ef32d10",
+    "id": "fd27cc5e-b19c-4e3a-a993-14a861722548",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9444,12 +9444,12 @@
             "size": 2,
             "value": "48"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06350",
-        "platform_name": "Gilze Rijen"
+        "platform_name": "GILZE RIJEN"
     }
 }{
-    "id": "09c7c557-b546-4cbf-a1a2-b10adf412013",
+    "id": "75c37aad-bf75-4578-b6de-0861c436ceb7",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9471,12 +9471,12 @@
             "size": 1,
             "value": "3"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06350",
-        "platform_name": "Gilze Rijen"
+        "platform_name": "GILZE RIJEN"
     }
 }{
-    "id": "0884adf1-8053-4ae4-81f0-a6678076a6d6",
+    "id": "5dc7a79d-1d8c-40df-ac65-eb92d7f2cdd3",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9498,12 +9498,12 @@
             "size": 6,
             "value": "103020"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06356",
         "platform_name": "Herwijnen"
     }
 }{
-    "id": "a5e2f47c-5bd2-415e-8e80-a99d59566d60",
+    "id": "6ac8400d-aa86-4b37-a1fa-3644cc07fe28",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9525,12 +9525,12 @@
             "size": 6,
             "value": "103060"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06356",
         "platform_name": "Herwijnen"
     }
 }{
-    "id": "ee1760c6-3988-4c27-abd9-3c367ea2cbea",
+    "id": "c0a6222e-d8b3-43f8-b56d-05d440d621f2",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9552,12 +9552,12 @@
             "size": 6,
             "value": "275.55"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06356",
-        "platform_name": "Herwijnen"
+        "platform_name": "HERWIJNEN AWS"
     }
 }{
-    "id": "5ccc2950-659a-45a6-ae0b-5b8a72d4775b",
+    "id": "cba96343-8fc9-4cfc-9201-d073da294651",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9579,12 +9579,12 @@
             "size": 6,
             "value": "270.65"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06356",
-        "platform_name": "Herwijnen"
+        "platform_name": "HERWIJNEN AWS"
     }
 }{
-    "id": "7e5d6fb4-b415-4147-a075-1c4eceff8709",
+    "id": "9cd0a307-b80e-40ad-98b9-cce0666b94ec",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9606,12 +9606,12 @@
             "size": 2,
             "value": "70"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06356",
-        "platform_name": "Herwijnen"
+        "platform_name": "HERWIJNEN AWS"
     }
 }{
-    "id": "e4dffea7-01cc-4048-a817-a3e0ec73b23b",
+    "id": "39979cac-4e36-4809-8908-a9f756c0fbdf",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9633,13 +9633,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06356",
-        "platform_name": "Herwijnen",
+        "platform_name": "HERWIJNEN AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "2f5b8bdb-8083-4d4d-a735-9e95028dcbe8",
+    "id": "db0a67c5-484d-48c0-80ed-47702cb90abe",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9661,13 +9661,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06356",
-        "platform_name": "Herwijnen",
+        "platform_name": "HERWIJNEN AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "08d90351-8ba9-481a-b4ff-54662f7aeca6",
+    "id": "962424bc-b9cc-47b9-8636-e3c1bdc2be5b",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9689,12 +9689,12 @@
             "size": 2,
             "value": "65"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06356",
-        "platform_name": "Herwijnen"
+        "platform_name": "HERWIJNEN AWS"
     }
 }{
-    "id": "8f8bde47-8386-4e6f-8077-cd1254dfbb88",
+    "id": "75ff3807-b5be-4dd7-8a77-fd5f589a85a7",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9716,12 +9716,12 @@
             "size": 1,
             "value": "3"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06356",
-        "platform_name": "Herwijnen"
+        "platform_name": "HERWIJNEN AWS"
     }
 }{
-    "id": "517bf2df-8f15-46ae-a16d-1ff81b86c82c",
+    "id": "a981f8c6-bda7-47c9-85e0-0604d65a366a",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9743,12 +9743,12 @@
             "size": 6,
             "value": "102730"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06370",
         "platform_name": "Eindhoven"
     }
 }{
-    "id": "4dbe9ae5-fec7-4305-9b60-a6527e0aa881",
+    "id": "8d782bf5-372d-43e2-a51a-5852196486e7",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9770,12 +9770,12 @@
             "size": 6,
             "value": "103020"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06370",
         "platform_name": "Eindhoven"
     }
 }{
-    "id": "f30cd988-50da-41c9-bfc3-3dd8e598af29",
+    "id": "d0875af8-ee9c-4889-8643-faf62ab11902",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9797,12 +9797,12 @@
             "size": 6,
             "value": "273.95"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06370",
-        "platform_name": "Eindhoven"
+        "platform_name": "EINDHOVEN AP"
     }
 }{
-    "id": "74f0801a-164c-473a-9bfc-782d83eef055",
+    "id": "dec20870-163e-48cf-b2a4-46be703fe383",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9824,12 +9824,12 @@
             "size": 6,
             "value": "268.45"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06370",
-        "platform_name": "Eindhoven"
+        "platform_name": "EINDHOVEN AP"
     }
 }{
-    "id": "4bac9ec4-0913-4bec-bee4-d6e7b981cb6f",
+    "id": "f4fb3aac-e97c-4c81-99f5-3a60d184c961",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9851,12 +9851,12 @@
             "size": 2,
             "value": "66"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06370",
-        "platform_name": "Eindhoven"
+        "platform_name": "EINDHOVEN AP"
     }
 }{
-    "id": "4b9e115d-c7bb-4002-9b5c-757aea8ce570",
+    "id": "0987c01a-9640-4d23-ade5-cd0acfa6e6f9",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9878,13 +9878,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06370",
-        "platform_name": "Eindhoven",
+        "platform_name": "EINDHOVEN AP",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "535d3c12-9d22-4683-97a1-dbb07f32439b",
+    "id": "d411c332-d21d-4404-a1d4-3e60fad91971",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9906,13 +9906,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06370",
-        "platform_name": "Eindhoven",
+        "platform_name": "EINDHOVEN AP",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "3cd54034-d1f2-44fc-a897-62ffcd8e3818",
+    "id": "089aad4f-3d75-4783-afd6-2eeb4885a51d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9934,12 +9934,12 @@
             "size": 2,
             "value": "34"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06370",
-        "platform_name": "Eindhoven"
+        "platform_name": "EINDHOVEN AP"
     }
 }{
-    "id": "58b34e63-597e-42cf-964d-ba3743e1f2f3",
+    "id": "87b9ff95-5fc9-4159-ae0f-fc84d5a52f71",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9961,12 +9961,12 @@
             "size": 1,
             "value": "3"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06370",
-        "platform_name": "Eindhoven"
+        "platform_name": "EINDHOVEN AP"
     }
 }{
-    "id": "d7349ca9-832f-4c04-b022-a4590bcde9e5",
+    "id": "baa51952-a5de-4d56-90c7-970336144839",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -9988,12 +9988,12 @@
             "size": 6,
             "value": "102760"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06375",
         "platform_name": "Volkel"
     }
 }{
-    "id": "04a88231-91ff-4915-8afc-67033eecc654",
+    "id": "2d85c9c0-60d2-476a-b67f-7e3333d7a833",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10015,12 +10015,12 @@
             "size": 6,
             "value": "103020"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06375",
         "platform_name": "Volkel"
     }
 }{
-    "id": "ed5336af-7130-4bf1-84af-855e3f35cb25",
+    "id": "b954d426-4390-4fed-a3b8-0d45946ace73",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10042,12 +10042,12 @@
             "size": 6,
             "value": "276.55"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06375",
-        "platform_name": "Volkel"
+        "platform_name": "VOLKEL"
     }
 }{
-    "id": "4ed8ba1d-ff32-458b-99e7-67ac3d836ad8",
+    "id": "7a534c1c-7769-4675-852d-6e98df5018df",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10069,12 +10069,12 @@
             "size": 6,
             "value": "269.45"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06375",
-        "platform_name": "Volkel"
+        "platform_name": "VOLKEL"
     }
 }{
-    "id": "3e433622-ca17-4602-a6db-e1236ce8d4c5",
+    "id": "77c75210-b454-45a2-98fd-82b1d0b9cded",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10096,12 +10096,12 @@
             "size": 2,
             "value": "59"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06375",
-        "platform_name": "Volkel"
+        "platform_name": "VOLKEL"
     }
 }{
-    "id": "533fa508-80d7-45c8-8b64-95e0a9066a47",
+    "id": "9badb701-8565-44b1-8aa8-02a239ae81dd",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10123,13 +10123,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06375",
-        "platform_name": "Volkel",
+        "platform_name": "VOLKEL",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "fdd00ee4-9114-45e2-9c6c-a6916ec39bcd",
+    "id": "b8556128-1081-419e-96f1-cb5995223c98",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10151,13 +10151,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06375",
-        "platform_name": "Volkel",
+        "platform_name": "VOLKEL",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "f865f50c-12e3-4062-864d-9a4208a3f9c5",
+    "id": "4e1ec9f0-7751-4c2c-8bb9-9265ee89656c",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10179,12 +10179,12 @@
             "size": 2,
             "value": "38"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06375",
-        "platform_name": "Volkel"
+        "platform_name": "VOLKEL"
     }
 }{
-    "id": "6014a172-1aee-4bf7-8cc1-161df2ef4b1f",
+    "id": "c2017b11-1036-442e-9014-34fdf7cc46a0",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10206,12 +10206,12 @@
             "size": 1,
             "value": "3"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06375",
-        "platform_name": "Volkel"
+        "platform_name": "VOLKEL"
     }
 }{
-    "id": "0c23496d-0231-40c3-91a2-d5151918cf5f",
+    "id": "87c4821b-6add-45c1-8485-03a06168f793",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10233,12 +10233,12 @@
             "size": 6,
             "value": "275.15"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06377",
-        "platform_name": "Ell"
+        "platform_name": "ELL AWS"
     }
 }{
-    "id": "988c6b44-4095-44dc-971f-a40ee519721b",
+    "id": "9289b8f3-802e-4756-8388-10be6f00935b",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10260,12 +10260,12 @@
             "size": 6,
             "value": "270.15"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06377",
-        "platform_name": "Ell"
+        "platform_name": "ELL AWS"
     }
 }{
-    "id": "50735001-d832-4e32-a593-25a79dafad5f",
+    "id": "a425782c-2d8d-4e47-bdc9-c87d87a41a91",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10287,12 +10287,12 @@
             "size": 2,
             "value": "69"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06377",
-        "platform_name": "Ell"
+        "platform_name": "ELL AWS"
     }
 }{
-    "id": "5f592bf8-2200-4ce7-b709-dce5349cde20",
+    "id": "709570b3-042b-4bd8-92a0-67f460bf2ccd",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10314,13 +10314,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06377",
-        "platform_name": "Ell",
+        "platform_name": "ELL AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "ff1c4f0e-9b87-4e43-a5b7-be5d186f4bb2",
+    "id": "b9aeedbb-8e77-4bec-8fbc-870b0fba5eef",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10342,13 +10342,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06377",
-        "platform_name": "Ell",
+        "platform_name": "ELL AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "51394ea7-5b5d-4322-bd09-fed83d92d579",
+    "id": "a8d2bb6b-3012-46ee-b1be-508b4c3c3318",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10370,12 +10370,12 @@
             "size": 2,
             "value": "36"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06377",
-        "platform_name": "Ell"
+        "platform_name": "ELL AWS"
     }
 }{
-    "id": "62a6bfc2-223c-4f5e-87d0-0e9e3a55a07a",
+    "id": "ed55e639-08fc-4a4b-81f8-a7fd7f0192e4",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10397,12 +10397,12 @@
             "size": 1,
             "value": "2"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06377",
-        "platform_name": "Ell"
+        "platform_name": "ELL AWS"
     }
 }{
-    "id": "740efc90-59ee-4049-ae2d-938651c83a82",
+    "id": "c124238b-7f8b-49f3-8e48-319ebe00f961",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10424,12 +10424,12 @@
             "size": 6,
             "value": "101500"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06380",
         "platform_name": "Maastricht"
     }
 }{
-    "id": "fa52bae8-7e7e-41d0-99c2-72aab851c0ec",
+    "id": "a3d22b6e-5b36-466c-9dad-64952818e128",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10451,12 +10451,12 @@
             "size": 6,
             "value": "102960"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06380",
         "platform_name": "Maastricht"
     }
 }{
-    "id": "f90dcc19-0d65-4d2c-9b92-bd41e8a12898",
+    "id": "1e9da246-4562-4f8b-83ad-40af4d689ca5",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10478,12 +10478,12 @@
             "size": 6,
             "value": "274.35"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06380",
-        "platform_name": "Maastricht"
+        "platform_name": "MAASTRICHT AACHEN AP"
     }
 }{
-    "id": "a262dd26-7088-414c-b357-d07d51009c0c",
+    "id": "e609d426-00ab-4bb4-8499-66e85b1671c5",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10505,12 +10505,12 @@
             "size": 6,
             "value": "268.85"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06380",
-        "platform_name": "Maastricht"
+        "platform_name": "MAASTRICHT AACHEN AP"
     }
 }{
-    "id": "e8ba30f7-8bf4-4690-aefa-49b4339b9f88",
+    "id": "dc3781b0-a60d-41ec-a196-2975499890a0",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10532,12 +10532,12 @@
             "size": 2,
             "value": "66"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06380",
-        "platform_name": "Maastricht"
+        "platform_name": "MAASTRICHT AACHEN AP"
     }
 }{
-    "id": "a3d2009a-1fe9-463d-a5c5-1904af325921",
+    "id": "f1b8ef7d-b641-473e-b6bd-6406bd6f6ac7",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10559,13 +10559,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06380",
-        "platform_name": "Maastricht",
+        "platform_name": "MAASTRICHT AACHEN AP",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "29de8dcb-8881-4f31-ae34-0743676cd77e",
+    "id": "ce9f4700-4fa7-49a3-baf0-0870a7ebfd51",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10587,13 +10587,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06380",
-        "platform_name": "Maastricht",
+        "platform_name": "MAASTRICHT AACHEN AP",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "6ae02b5e-d5a5-4969-b52e-4bb9a22053d1",
+    "id": "bcc00cd9-b64c-4041-b7b9-ebc261a5a420",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10615,12 +10615,12 @@
             "size": 2,
             "value": "46"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06380",
-        "platform_name": "Maastricht"
+        "platform_name": "MAASTRICHT AACHEN AP"
     }
 }{
-    "id": "20145c99-abff-4e01-a907-419b26fd723f",
+    "id": "c1a86259-f5c8-4d02-a327-63b182102932",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10642,12 +10642,12 @@
             "size": 1,
             "value": "4"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06380",
-        "platform_name": "Maastricht"
+        "platform_name": "MAASTRICHT AACHEN AP"
     }
 }{
-    "id": "c9362a00-d656-4346-8a7a-7fa36a71cfd6",
+    "id": "aea44734-b8d3-4a06-8f28-85b2cf6bd063",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10669,12 +10669,12 @@
             "size": 6,
             "value": "276.05"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06391",
-        "platform_name": "Arcen"
+        "platform_name": "ARCEN AWS"
     }
 }{
-    "id": "87823814-30d6-4ec7-81a3-0157b2198a12",
+    "id": "289b85ee-544c-486a-8135-9eb2137c2766",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10696,12 +10696,12 @@
             "size": 6,
             "value": "269.15"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06391",
-        "platform_name": "Arcen"
+        "platform_name": "ARCEN AWS"
     }
 }{
-    "id": "e9daa5c8-5058-4983-a2fb-d2b0320ebf6f",
+    "id": "ca0071fb-00f1-4bc4-9b86-9bd59dc39c7f",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10723,12 +10723,12 @@
             "size": 2,
             "value": "60"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06391",
-        "platform_name": "Arcen"
+        "platform_name": "ARCEN AWS"
     }
 }{
-    "id": "da3f7956-ce53-4bd3-bd90-2e421aa1bf32",
+    "id": "5ce787f5-d9a3-4d2c-a919-bc44f987e1e9",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10750,13 +10750,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06391",
-        "platform_name": "Arcen",
+        "platform_name": "ARCEN AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "7a4233c6-730c-4e83-89aa-7ee24cf08cb8",
+    "id": "1aef18b8-06f3-4652-be37-e524aa6e7e21",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10778,13 +10778,13 @@
             "size": 1,
             "value": "0"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06391",
-        "platform_name": "Arcen",
+        "platform_name": "ARCEN AWS",
         "end_datetime": "2023-02-27T18:00:00.000000"
     }
 }{
-    "id": "ae2217b4-09e9-4999-a726-06e009bdf920",
+    "id": "7cd327a6-26e5-460b-9eba-3d4d7a81f82d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10806,12 +10806,12 @@
             "size": 2,
             "value": "35"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06391",
-        "platform_name": "Arcen"
+        "platform_name": "ARCEN AWS"
     }
 }{
-    "id": "899c142e-40f5-47cf-86d5-914abc4bda00",
+    "id": "74dc8b0f-efb4-4b6f-b7cd-7c38647dbda8",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -10833,8 +10833,8 @@
             "size": 1,
             "value": "2"
         },
-        "pubtime": "2023-09-25T13:45:53.000000",
+        "pubtime": "2023-09-28T15:39:40.000000",
         "platform": "0-20000-0-06391",
-        "platform_name": "Arcen"
+        "platform_name": "ARCEN AWS"
     }
 }
