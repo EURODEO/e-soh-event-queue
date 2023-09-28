@@ -61,6 +61,11 @@ bool norbufr_init_bufrtables(std::string tables_dir)
 
 }
 
+bool norbufr_init_oscar(std::string oscardb_dir)
+{
+    bool ret = oscar.addStation(oscardb_dir.c_str());
+    return ret;
+}
 
 std::string norbufr_bufresohmsg(std::string fname)
 {
@@ -73,6 +78,7 @@ std::string norbufr_bufresohmsg(std::string fname)
     {
 
         ESOHBufr *bufr = new ESOHBufr;
+        bufr->setOscar(&oscar);
 
         if ( bufrFile >> *bufr )
         {
@@ -144,6 +150,7 @@ PYBIND11_MODULE(bufresohmsg_py, m) {
     m.def("bufresohmsg_py", &norbufr_bufresohmsg, "bufresoh MQTT message generator");
     m.def("bufrprint_py", &norbufr_bufrprint, "Print bufr message");
 
+    m.def("init_oscar_py", &norbufr_init_oscar, "Init OSCAR db");
 }
 
 

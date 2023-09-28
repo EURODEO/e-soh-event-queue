@@ -29,6 +29,7 @@ if __name__ == "__main__":
 
     #init_bufrtables_py("/usr/share/eccodes/definitions/bufr/tables/0/wmo/")
     init_bufrtables_py("")
+    init_oscar_py("../oscar/oscar_stations_all.json")
 
     if len(sys.argv) > 1 :
         for i,file_name in enumerate(sys.argv) :

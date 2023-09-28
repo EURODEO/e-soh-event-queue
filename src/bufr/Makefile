@@ -16,10 +16,10 @@ PYFLAGS := -Wall -Wextra -O2 -shared -std=c++17 -fPIC
 
 all: bufrprint descriptor_info esoh
 
-esoh: bufresohmsg_py
+esoh: bufresohmsg_py oscar_test
 
-bufresohmsg_py: bufresohmsg_py.h bufresohmsg_py.cpp ESOHBufr.o Sections.o NorBufrIO.o Tables.o Descriptor.o NorBufr.o WSI.o
-	$(CXX) $(PYFLAGS) $$(python3 -m pybind11 --includes) bufresohmsg_py.cpp ESOHBufr.cpp Sections.cpp NorBufrIO.cpp Tables.cpp Descriptor.cpp NorBufr.cpp WSI.cpp -o ./e-soh/bufresohmsg_py$$(python3-config --extension-suffix)
+bufresohmsg_py: bufresohmsg_py.h bufresohmsg_py.cpp ESOHBufr.o Sections.o NorBufrIO.o Tables.o Descriptor.o NorBufr.o WSI.o Oscar.o
+	$(CXX) $(PYFLAGS) $$(python3 -m pybind11 --includes) bufresohmsg_py.cpp ESOHBufr.cpp Sections.cpp NorBufrIO.cpp Tables.cpp Descriptor.cpp NorBufr.cpp WSI.cpp Oscar.cpp -o ./e-soh/bufresohmsg_py$$(python3-config --extension-suffix)
 
 bufresohmsg: bufresohmsg.o ESOHBufr.o Sections.o NorBufrIO.o Tables.o Descriptor.o NorBufr.o
 	$(CXX) $(LDFLAGS) bufresohmsg.o ESOHBufr.o Sections.o NorBufrIO.o Tables.o Descriptor.o NorBufr.o -o bufresohmsg -lcrypto
@@ -29,6 +29,15 @@ bufresohmsg.o: ESOHBufr.h bufresohmsg.h bufresohmsg.cpp
 
 ESOHBufr.o: ESOHBufr.h ESOHBufr.cpp
 	$(CXX) $(CXXFLAGS) ESOHBufr.cpp
+
+oscar_test: oscar_test.o Oscar.o WSI.o NorBufrIO.o
+	$(CXX) $(LDFLAGS) oscar_test.o Oscar.o WSI.o NorBufrIO.o -o oscar_test
+
+oscar_test.o: Oscar.h oscar_test.cpp
+	$(CXX) $(CXXFLAGS) oscar_test.cpp
+
+Oscar.o: Oscar.h Oscar.cpp WSI.h
+	$(CXX) $(CXXFLAGS) Oscar.cpp
 
 WSI.o: WSI.h WSI.cpp
 	$(CXX) $(CXXFLAGS) WSI.cpp
@@ -62,5 +71,5 @@ NorBufrIO.o : NorBufrIO.h NorBufrIO.cpp
 
 
 clean:
-	rm -f descriptor_info bufrprint *.o *.so */*.so *.cpp~ *.h~
+	rm -f descriptor_info bufrprint oscar_test *.o *.so */*.so *.cpp~ *.h~
 
