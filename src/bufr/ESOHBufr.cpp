@@ -20,7 +20,12 @@
 
 ESOHBufr::ESOHBufr()
 {
+    oscar = 0;
+}
 
+void ESOHBufr::setOscar(Oscar * o)
+{
+    oscar = o;
 }
 
 std::string ESOHBufr::msg() const
@@ -77,7 +82,6 @@ std::string ESOHBufr::msg() const
         double lon = -99999;
         double hei = -99999;
         std::string platform;
-        std::string platform_name;
         bool platform_check = false;
 
         WSI wigos_id;
@@ -105,7 +109,22 @@ std::string ESOHBufr::msg() const
                     {
                         // Check station_id at OSCAR
                         platform_check = true;
-                        //std::cerr << "OSCAR check" << v << "\n";
+                        if( wigos_id.getWigosLocalId().size() )
+                        {
+                            std::string wigos_oscar = oscar->findWigosId(wigos_id);
+                            if( wigos_oscar.size() )
+                            {
+                                if( wigos_oscar != wigos_id.to_string() )
+                                {
+                                    wigos_id = WSI(wigos_oscar);
+                                }
+                                const rapidjson::Value & st_value = oscar->findStation(wigos_id);
+                                if( st_value.HasMember("name") )
+                                {
+                                    setPlatformName(std::string(st_value["name"].GetString()),subset_message,true);
+                                }
+                            }
+                        }
                     }
 
                     switch ( v.x() )
@@ -131,7 +150,7 @@ std::string ESOHBufr::msg() const
                                     }
                                     wigos_id.setWmoId(wmo_block*1000+wmo_station);
                                     skip_platform = false;
-                                    platform_check = true;
+                                    //platform_check = true;
                                     break;
                                 }
                                 case   2 : // see above (case 1)
@@ -142,6 +161,8 @@ std::string ESOHBufr::msg() const
                                 case  18 : // Short station or site name
                                 case  19 : // Long station or site name
                                 {
+                                    setPlatformName(value_str,subset_message,false);
+                                    /*
                                     if( NorBufrIO::strTrim(value_str).size() == 0 ) break;
                                     rapidjson::Value platform_name;
                                     platform_name.SetString(NorBufrIO::strTrim(value_str).c_str(),subset_message_allocator);
@@ -155,7 +176,34 @@ std::string ESOHBufr::msg() const
                                     {
                                         subset_properties.AddMember("platform_name",platform_name,subset_message_allocator);
                                     }
+                                    */
 
+                                    break;
+                                }
+                                case 101 : // STATE IDENTIFIER
+                                {
+                                    int bufr_state_id = 0;
+                                    bufr_state_id = getValue(v,bufr_state_id);
+                                    int wigos_state_id = 0;
+                                    for( auto cc : country_codes )
+                                    {
+                                        if( cc.bufr_code == bufr_state_id )
+                                        {
+                                            wigos_state_id = cc.iso_code;
+                                            break;
+                                        }
+                                    }
+                                    wigos_id.setWigosIssuerId(wigos_state_id);
+                                    skip_platform = false;
+                                    break;
+                                }
+                                case 102 : // NATIONAL STATION NUMBER
+                                {
+                                    if( wigos_id.getWigosLocalId().size() == 0 )
+                                    {
+                                        wigos_id.setWigosLocalId(value_str);
+                                    }
+                                    skip_platform = false;
                                     break;
                                 }
                                 case 125 :
@@ -602,6 +650,38 @@ bool ESOHBufr::addContent(const Descriptor & v, std::string cf_name, rapidjson::
             munit.SetString(cf_names[v].second.c_str(),message_allocator);
             content["unit"]= munit;
         }
+    }
+
+    return true;
+}
+
+bool ESOHBufr::setPlatformName(std::string value, rapidjson::Document & message, bool force) const
+{
+    if( NorBufrIO::strTrim(value).size() == 0 ) return false;
+    rapidjson::Document::AllocatorType & message_allocator = message.GetAllocator();
+    rapidjson::Value & message_properties = message["properties"];
+    rapidjson::Value platform_name;
+    platform_name.SetString(NorBufrIO::strTrim(value).c_str(),message_allocator);
+
+    if( message_properties.HasMember("platform_name") )
+    {
+        rapidjson::Value & platform_old_value = message_properties["platform_name"];
+        std::string platform_old_name = platform_old_value.GetString();
+        if( platform_old_name != value )
+        {
+            if( force )
+            {
+                message_properties["platform_name"].SetString(value.c_str(),message_allocator);
+            }
+            else
+            {
+                message_properties["platform_name"].SetString(std::string(platform_old_name + "," + value).c_str(),message_allocator);
+            }
+        }
+    }
+    else
+    {
+        message_properties.AddMember("platform_name",platform_name,message_allocator);
     }
 
     return true;
