@@ -1,5 +1,5 @@
 {
-    "id": "3698993e-a646-4253-9eef-032e0cbe84d1",
+    "id": "141a3160-3623-451a-952a-d7234c5a7aa5",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -21,11 +21,12 @@
             "size": 5,
             "value": "96460"
         },
-        "pubtime": "2023-09-25T13:45:50.000000",
+        "pubtime": "2023-09-28T15:39:34.000000",
+        "platform": "0-578-0-96890",
         "platform_name": "KORGAASEN"
     }
 }{
-    "id": "b0fb7673-c635-4b0c-9889-613279cf29cd",
+    "id": "562d65a0-80de-4dca-8dd3-9f3bcbc72a7e",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -47,11 +48,12 @@
             "size": 6,
             "value": "101480"
         },
-        "pubtime": "2023-09-25T13:45:50.000000",
+        "pubtime": "2023-09-28T15:39:34.000000",
+        "platform": "0-578-0-96890",
         "platform_name": "KORGAASEN"
     }
 }{
-    "id": "83202637-7306-452f-bcfc-c21b578b7653",
+    "id": "d98ad384-143d-4f46-a1d0-d5eea7e8f492",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -73,11 +75,12 @@
             "size": 6,
             "value": "279.15"
         },
-        "pubtime": "2023-09-25T13:45:50.000000",
+        "pubtime": "2023-09-28T15:39:34.000000",
+        "platform": "0-578-0-96890",
         "platform_name": "KORGAASEN"
     }
 }{
-    "id": "6f58c879-7773-4a3c-ab06-1dc8a7093865",
+    "id": "55145ad3-2735-41cf-b8bb-53674ae3a3b7",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -99,11 +102,12 @@
             "size": 6,
             "value": "277.48"
         },
-        "pubtime": "2023-09-25T13:45:50.000000",
+        "pubtime": "2023-09-28T15:39:34.000000",
+        "platform": "0-578-0-96890",
         "platform_name": "KORGAASEN"
     }
 }{
-    "id": "6ce5b67c-387d-43a3-bfb8-d62876253b33",
+    "id": "3c553375-b890-4656-a687-225f28286377",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -125,11 +129,12 @@
             "size": 2,
             "value": "89"
         },
-        "pubtime": "2023-09-25T13:45:50.000000",
+        "pubtime": "2023-09-28T15:39:34.000000",
+        "platform": "0-578-0-96890",
         "platform_name": "KORGAASEN"
     }
 }{
-    "id": "0628144d-c04a-4878-93e3-8144a91acf97",
+    "id": "b8ed50e6-9f4c-435d-8858-d96b4bdab85d",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -151,11 +156,12 @@
             "size": 3,
             "value": "116"
         },
-        "pubtime": "2023-09-25T13:45:50.000000",
+        "pubtime": "2023-09-28T15:39:34.000000",
+        "platform": "0-578-0-96890",
         "platform_name": "KORGAASEN"
     }
 }{
-    "id": "955cc6fa-da44-4903-982b-79d8cd78ad99",
+    "id": "62d4221c-f076-4def-8ad4-47002ca661d0",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -177,11 +183,12 @@
             "size": 3,
             "value": "3.3"
         },
-        "pubtime": "2023-09-25T13:45:50.000000",
+        "pubtime": "2023-09-28T15:39:34.000000",
+        "platform": "0-578-0-96890",
         "platform_name": "KORGAASEN"
     }
 }{
-    "id": "78851551-92e0-4894-89f3-2e7996bd0336",
+    "id": "086251b1-609b-4ab3-b000-456c8eea6d1b",
     "version": "v04",
     "type": "Feature",
     "geometry": {
@@ -203,7 +210,8 @@
             "size": 9,
             "value": "1.234e+06"
         },
-        "pubtime": "2023-09-25T13:45:50.000000",
+        "pubtime": "2023-09-28T15:39:34.000000",
+        "platform": "0-578-0-96890",
         "platform_name": "KORGAASEN",
         "end_datetime": "2023-08-23T00:00:00.000000"
     }
