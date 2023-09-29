@@ -3,12 +3,12 @@ import os
 from bufresohmsg_py import *
 
 
-def bufrprint(bufr_file) -> str :
+def bufrprint(bufr_file: str) -> str :
     """
     This function dumps a BUFR file.
 
     Keyword arguemnts:
-    bufr_file : BUFR file path
+    bufr_file (str): BUFR file path
 
     Return:
     str -- bufr content string
@@ -22,7 +22,6 @@ def bufrprint(bufr_file) -> str :
 
 
 if __name__ == "__main__":
-
 
     test_path = "../test/test_data/SYNOP_BUFR_2718.bufr"
     msg = ""
@@ -39,12 +38,10 @@ if __name__ == "__main__":
                 else :
                     print("File not exists: {0}".format(file_name))
                     exit(1)
-
     else :
         msg = bufrprint(test_path)
         print(msg)
 
     destroy_bufrtables_py()
-
     exit(0)
 
