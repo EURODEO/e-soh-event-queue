@@ -3,26 +3,25 @@ import os
 from bufresohmsg_py import *
 
 
-def bufr2mqtt(bufr_file) -> str :
+def bufr2mqtt(bufr_file_path: str) -> str :
     """
-    This function create an e-soh-message-spec json schema from BUFR file.
+    This function creates the e-soh-message-spec json schema(s) from a BUFR file.
 
-    Keyword arguemnts:
-    bufr_file : BUFR file path
+    ### Keyword arguments:
+    bufr_file_path (str) -- A BUFR File Path
 
-    Return:
-    str -- a json in string format
+    Returns:
+    str -- mqtt message(s)
 
     Raises:
     ---
     """
 
-    ret_str = bufresohmsg_py(bufr_file)
+    ret_str = bufresohmsg_py(bufr_file_path)
     return ret_str
 
 
 if __name__ == "__main__":
-
 
     test_path = "../test/test_data/SYNOP_BUFR_2718.bufr"
     msg = ""
