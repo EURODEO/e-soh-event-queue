@@ -3,7 +3,4 @@ netCDF4<=1.6.4, <2.0.0
 numpy<=1.25.2, <2.0.0
 paho-mqtt<=1.6.1, <2.0.0
 jsonschema<=4.19.0, <5.0.0
-# BUFR
-libeccodes-data==2.24.2, <3.0.0
-rapidjson-dev==1.1.0
-pybind11-dev==2.9.1
+pybind11==2.11.1
