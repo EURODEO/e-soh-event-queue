@@ -19,7 +19,7 @@ all: bufrprint descriptor_info esoh
 esoh: bufresohmsg_py oscar_test
 
 bufresohmsg_py: bufresohmsg_py.h bufresohmsg_py.cpp ESOHBufr.o Sections.o NorBufrIO.o Tables.o Descriptor.o NorBufr.o WSI.o Oscar.o
-	$(CXX) $(PYFLAGS) $$(python3 -m pybind11 --includes) bufresohmsg_py.cpp ESOHBufr.cpp Sections.cpp NorBufrIO.cpp Tables.cpp Descriptor.cpp NorBufr.cpp WSI.cpp Oscar.cpp -o ./e-soh/bufresohmsg_py$$(python3-config --extension-suffix)
+	$(CXX) $(PYFLAGS) $$(python3 -m pybind11 --includes) bufresohmsg_py.cpp ESOHBufr.cpp Sections.cpp NorBufrIO.cpp Tables.cpp Descriptor.cpp NorBufr.cpp WSI.cpp Oscar.cpp -o ./esoh/bufresohmsg_py$$(python3-config --extension-suffix)
 
 bufresohmsg: bufresohmsg.o ESOHBufr.o Sections.o NorBufrIO.o Tables.o Descriptor.o NorBufr.o
 	$(CXX) $(LDFLAGS) bufresohmsg.o ESOHBufr.o Sections.o NorBufrIO.o Tables.o Descriptor.o NorBufr.o -o bufresohmsg -lcrypto
