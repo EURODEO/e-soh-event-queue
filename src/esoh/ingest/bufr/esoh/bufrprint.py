@@ -1,6 +1,6 @@
 import sys
 import os
-from bufresohmsg_py import *
+from bufresohmsg_py import bufrprint_py, init_bufrtables_py, destroy_bufrtables_py
 
 
 def bufrprint(bufr_file: str) -> str:
