@@ -1,6 +1,9 @@
 import sys
 import os
-from bufresohmsg_py import *
+from bufresohmsg_py import bufresohmsg_py, \
+    init_bufrtables_py, \
+    init_oscar_py, \
+    destroy_bufrtables_py
 
 
 def bufr2mqtt(bufr_file_path: str) -> str:
