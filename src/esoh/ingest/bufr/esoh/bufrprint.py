@@ -3,7 +3,7 @@ import os
 from bufresohmsg_py import *
 
 
-def bufrprint(bufr_file: str) -> str :
+def bufrprint(bufr_file: str) -> str:
     """
     This function dumps a BUFR file.
 
@@ -26,22 +26,21 @@ if __name__ == "__main__":
     test_path = "../test/test_data/SYNOP_BUFR_2718.bufr"
     msg = ""
 
-    #init_bufrtables_py("/usr/share/eccodes/definitions/bufr/tables/0/wmo/")
+    # init_bufrtables_py("/usr/share/eccodes/definitions/bufr/tables/0/wmo/")
     init_bufrtables_py("")
 
-    if len(sys.argv) > 1 :
-        for i,file_name in enumerate(sys.argv) :
-            if i > 0 :
-                if os.path.exists(file_name) :
+    if len(sys.argv) > 1:
+        for i, file_name in enumerate(sys.argv):
+            if i > 0:
+                if os.path.exists(file_name):
                     msg = bufrprint(file_name)
                     print(msg)
-                else :
+                else:
                     print("File not exists: {0}".format(file_name))
                     exit(1)
-    else :
+    else:
         msg = bufrprint(test_path)
         print(msg)
 
     destroy_bufrtables_py()
     exit(0)
-
