@@ -16,6 +16,7 @@
 #include <sstream>
 #include <string>
 #include <filesystem>
+#include <list>
 
 
 #include "Descriptor.h"
@@ -23,7 +24,6 @@
 #include "ESOHBufr.h"
 #include "bufresohmsg_py.h"
 
-#include <pybind11/pybind11.h>
 
 bool norbufr_init_bufrtables(std::string tables_dir)
 {
@@ -67,10 +67,10 @@ bool norbufr_init_oscar(std::string oscardb_dir)
     return ret;
 }
 
-std::string norbufr_bufresohmsg(std::string fname)
+std::list<std::string> norbufr_bufresohmsg(std::string fname)
 {
 
-    std::string ret;
+    std::list<std::string> ret;
 
     std::ifstream bufrFile(fname.c_str(),std::ios_base::in | std::ios_base::binary);
 
@@ -89,7 +89,8 @@ std::string norbufr_bufresohmsg(std::string fname)
 
             bufr->extractDescriptors();
 
-            ret += bufr->msg();
+            std::list<std::string> msg = bufr->msg();
+            ret.insert(ret.end(),msg.begin(),msg.end());
 
         }
     }

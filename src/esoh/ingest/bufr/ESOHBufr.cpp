@@ -14,6 +14,7 @@
 #include <sstream>
 #include <algorithm>
 #include <bitset>
+#include <list>
 
 #include "ESOHBufr.h"
 #include "WSI.h"
@@ -28,10 +29,10 @@ void ESOHBufr::setOscar(Oscar * o)
     oscar = o;
 }
 
-std::string ESOHBufr::msg() const
+std::list<std::string> ESOHBufr::msg() const
 {
 
-    std::string ret;
+    std::list<std::string> ret;
 
     rapidjson::Document message;
 
@@ -388,7 +389,7 @@ std::string ESOHBufr::msg() const
                         {
                             if( v.y() == 4 || v.y() == 51 ) // PRESSURE, PRESSURE REDUCED TO MEAN SEA LEVEL
                             {
-                                ret += addMessage(ci,subset_message);
+                                ret.push_back(addMessage(ci,subset_message));
                             }
                             if( v.y() == 9 ) // Geopotential height, TODO: unit conversion?
                             {
@@ -402,7 +403,7 @@ std::string ESOHBufr::msg() const
                         {
                             if( v.y() ==1 || v.y() == 2 ) //WIND SPEED, WIND DIRECTION
                             {
-                                ret += addMessage(ci,subset_message);
+                                ret.push_back(addMessage(ci,subset_message));
                             }
 
                             break;
@@ -411,7 +412,7 @@ std::string ESOHBufr::msg() const
                         {
                             if( v.y() == 1 || v.y() == 101 || v.y() == 3 || v.y() == 103 )
                             {
-                                ret += addMessage(ci,subset_message);
+                                ret.push_back(addMessage(ci,subset_message));
                             }
 
                             break;
@@ -421,7 +422,7 @@ std::string ESOHBufr::msg() const
                         {
                             if( v.y() == 3 )
                             {
-                                ret += addMessage(ci,subset_message);
+                                ret.push_back(addMessage(ci,subset_message));
                             }
 
                             break;
@@ -432,7 +433,7 @@ std::string ESOHBufr::msg() const
 
                             if( v.y() == 42 || v.y() == 43 || v.y() == 45 )
                             {
-                                ret += addMessage(ci,subset_message);
+                                ret.push_back(addMessage(ci,subset_message));
                             }
 
                             break;
@@ -476,7 +477,7 @@ std::string ESOHBufr::msg() const
                                             start_datetime =  mktime(&meas_datetime);
                                             start_datetime -= 60*60*24;
 
-                                            ret += addMessage(ci,subset_message,&start_datetime);
+                                            ret.push_back(addMessage(ci,subset_message,&start_datetime));
 
                                         }
                                     }
@@ -514,7 +515,7 @@ std::string ESOHBufr::msg() const
                                             precip = getValue(*ci,precip);
                                             if( precip != std::numeric_limits<uint64_t>::max() )
                                             {
-                                                ret += addMessage(ci,subset_message,&start_datetime);
+                                                ret.push_back(addMessage(ci,subset_message,&start_datetime));
                                             }
                                         }
                                     }
@@ -540,7 +541,7 @@ std::string ESOHBufr::msg() const
                                         long_wave = getValue(*ci,long_wave);
                                         if( long_wave != std::numeric_limits<uint64_t>::max() )
                                         {
-                                            ret += addMessage(ci,subset_message,&start_datetime);
+                                            ret.push_back(addMessage(ci,subset_message,&start_datetime));
                                         }
                                     }
 
@@ -551,7 +552,7 @@ std::string ESOHBufr::msg() const
                                         short_wave = getValue(*ci,short_wave);
                                         if( short_wave != std::numeric_limits<uint64_t>::max() )
                                         {
-                                            ret += addMessage(ci,subset_message,&start_datetime);
+                                            ret.push_back(addMessage(ci,subset_message,&start_datetime));
                                         }
                                     }
                                     ++ci; // [ 0 14 16 ] NET RADIATION, INTEGRATED OVER PERIOD SPECIFIED

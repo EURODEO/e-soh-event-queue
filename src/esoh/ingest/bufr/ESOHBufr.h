@@ -13,6 +13,7 @@
 
 #include <string>
 #include <map>
+#include <list>
 
 #include "rapidjson/document.h"
 #include "rapidjson/prettywriter.h"
@@ -61,7 +62,7 @@ class ESOHBufr : public NorBufr
 
 public:
     ESOHBufr();
-    std::string msg() const;
+    std::list<std::string> msg() const;
     void setOscar(Oscar *);
 private:
     std::string addMessage(std::list<Descriptor>::const_iterator ci, rapidjson::Document & message, time_t * start_datetime = 0 ) const;
