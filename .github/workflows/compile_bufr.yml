@@ -7,7 +7,7 @@ on:
     branches: [main]
 
 jobs:
-  pyTestCov:
+  Compile_bufr:
     strategy:
       matrix:
         python-version: ["3.10", "3.11"]
@@ -28,3 +28,5 @@ jobs:
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
+      - name: build application
+        run: cd ./src/esoh/ingest/bufr && make
