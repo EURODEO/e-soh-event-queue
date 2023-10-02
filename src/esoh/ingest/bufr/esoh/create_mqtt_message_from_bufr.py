@@ -3,7 +3,7 @@ import os
 from bufresohmsg_py import *
 
 
-def bufr2mqtt(bufr_file_path: str) -> str :
+def bufr2mqtt(bufr_file_path: str) -> str:
     """
     This function creates the e-soh-message-spec json schema(s) from a BUFR file.
 
@@ -26,25 +26,24 @@ if __name__ == "__main__":
     test_path = "../test/test_data/SYNOP_BUFR_2718.bufr"
     msg = ""
 
-    #init_bufrtables_py("/usr/share/eccodes/definitions/bufr/tables/0/wmo/")
+    # init_bufrtables_py("/usr/share/eccodes/definitions/bufr/tables/0/wmo/")
     init_bufrtables_py("")
     init_oscar_py("../oscar/oscar_stations_all.json")
 
-    if len(sys.argv) > 1 :
-        for i,file_name in enumerate(sys.argv) :
-            if i > 0 :
-                if os.path.exists(file_name) :
+    if len(sys.argv) > 1:
+        for i, file_name in enumerate(sys.argv):
+            if i > 0:
+                if os.path.exists(file_name):
                     msg = bufr2mqtt(file_name)
                     print(msg)
-                else :
+                else:
                     print("File not exists: {0}".format(file_name))
                     exit(1)
 
-    else :
+    else:
         msg = bufr2mqtt(test_path)
         print(msg)
 
     destroy_bufrtables_py()
 
     exit(0)
-
