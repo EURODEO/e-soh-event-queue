@@ -15,8 +15,8 @@ jobs:
     steps:
       - name: Install C++ Dependencies
         run: |
-          apt update
-          apt install pybind11-dev libeccodes-data rapidjson-dev
+          sudo apt update
+          sudo apt install pybind11-dev libeccodes-data rapidjson-dev
       - name: Python Setup
         uses: actions/setup-python@v4
         with:
