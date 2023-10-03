@@ -1,8 +1,14 @@
 from esoh.ingest.send_mqtt import mqtt_connection
-from esoh.ingest.messages import load_files, build_message
-from eosh.ingest.datastore import datastore_connection
+from esoh.ingest.messages import messages
 
-import xarray as xr
+from jsonschema import Draft202012Validator, ValidationError
+import json
+
+
+import logging
+
+
+logger = logging.getLogger(__name__)
 
 
 class ingest_to_pipeline():
@@ -11,38 +17,71 @@ class ingest_to_pipeline():
     Should accept paths or objects to pass on to the datastore and mqtt broker.
     """
 
-    def __init__(self, mqtt_conf: dict, dstore_conn: str, uuid_prefix: str, testing: bool = False):
+    def __init__(self, mqtt_conf: dict,
+                 uuid_prefix: str,
+                 testing: bool = False,
+                 esoh_mqtt_schema="schemas/e-soh-message-spec.json"):
         self.uuid_prefix = uuid_prefix
 
         if testing:
             return
 
-        self.dstore = datastore_connection(dstore_conn)
-        self.mqtt = mqtt_connection(mqtt_conf["host"], mqtt_conf["topic"])
+        self.mqtt = mqtt_connection(mqtt_conf["host"])
 
-    def ingest_message(self, message: [str, object], input_type: str = None):
+        with open(esoh_mqtt_schema, "r") as file:
+            self.esoh_mqtt_schema = json.load(file)
+
+        self.schema_validator = Draft202012Validator(self.esoh_mqtt_schema)
+
+    def ingest(self, message: [str, object], input_type: str = None):
+        """
+        Method designed to be main interaction point with this package.
+        Will interpret call all methods for deciding input type, build the mqtt messages, and
+        publish them.
+
+        """
         if not input_type:
             input_type = self.decide_input_type(message)
 
-        self.build_message(message, input_type)
+        self.publish_messages(self._build_message(message, input_type))
 
-    def decide_input_type(self):
-        pass
+    def publish_messages(self, messages: list):
+        """
+        This method accepts a list of json strings ready to be published to the mqtt topic.
+        """
+        for msg in messages:
+            try:
+                self.schema_validator.validate(msg)
+                self.mqtt.send_message(msg)
+            except ValidationError as v_error:
+                logging.error("Message did not pass schema validation, " + v_error)
+                continue
+            except Exception as e:
+                raise e
 
-    def build_messages(self, message: [str, object], input_type: str = None):
-        match input_type:
-            case "netCDF":
-                if isinstance(message, str):
-                    return load_files(message, input_type=input_type, uuid_prefix=self.uuid_prefix)
-                elif isinstance(message, xr.Dataset):
-                    return build_message(message,
-                                         input_type=input_type,
-                                         uuid_prefix=self.uuid_prefix)
-                else:
-                    raise TypeError("Unknown netCDF type, expected path"
-                                    + f"or xarray.Dataset, got {type(message)}")
+    def _decide_input_type(self, message) -> str:
+        """
+        Internal method for deciding what type of input is being provided.
+        """
+        match message.split(".")[-1]:
+            case "nc":
+                return "netCDF"
             case "bufr":
-                raise NotImplementedError("Handeling of bufr not implemented")
+                return "bufr"
+            case _:
+                logger.critical(f"Unknown filetype provided. Got {message.split('.')[-1]}")
+                raise ValueError(f"Unknown filetype provided. Got {message.split('.')[-1]}")
 
-    def publish_messages(self):
-        pass
+    def _build_messages(self, message: [str, object], input_type: str = None) -> list:
+        """
+        Internal method for calling the message building.
+        """
+        if not input_type:
+            if isinstance(message, str):
+                input_type = self._decide_input_type(message)
+            else:
+                logger.critical("Illegal usage, not allowed to input"
+                                + "objects without specifying input type")
+                raise TypeError("Illegal usage, not allowed to input"
+                                + "objects without specifying input type")
+        return messages(message, input_type, self.uuid_prefix)

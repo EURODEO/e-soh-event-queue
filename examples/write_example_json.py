@@ -1,4 +1,4 @@
-from ingest.netCDF.extract_metadata_netcdf import build_all_json_payloads_from_netCDF
+from esoh.ingest.main import ingest_to_pipeline
 import xarray as xr
 import json
 
@@ -10,6 +10,7 @@ Supply path to netCDF file at commandline.
 
 # Only writes last message from the list of messages created in build_all_json_payloads_from_netCDF
 
+ingest = ingest_to_pipeline(None, "testing", testing=True)
 
 print("Load METno data")
 path = "test/test_data/air_temperature_gullingen_skisenter-parent.nc"
