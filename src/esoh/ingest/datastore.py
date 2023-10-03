@@ -9,9 +9,10 @@ from google.protobuf import json_format
 
 logger = logging.getLogger(__name__)
 
+
 class datastore_connection():
-    def __init__(self, DSHOST, DSPORT) -> None:
-        self._channel = grpc.insecure_channel(f"{DSHOST}:{DSPORT}")
+    def __init__(self, DSHOST: str, DSPORT: str) -> None:
+        self._channel = grpc.insecure_channel(DSHOST + ":" + DSPORT)
         self._stub = dstore_grpc.Datastorestub(self._channel)
 
     def ingest(self, msg: str) -> None:
@@ -23,7 +24,7 @@ class datastore_connection():
 
         request = dstore.PutObsRequest(
             observations=[
-                dstore.Metadta1(
+                dstore.Metadata1(
                     ts_mdata=ts_metadata,
                     obs_mdata=Observation_data
                 )
@@ -31,8 +32,10 @@ class datastore_connection():
         )
 
         try:
-            response = self._stub.PutObservations(request)
+            self._stub.PutObservations(request)
         except grpc.RpcError as e:
+            logger.critical(str(e))
 
-
-        response
+    def ingest_list(self, msg_list: list) -> None:
+        for i in msg_list:
+            self.ingest(i)
