@@ -1,6 +1,6 @@
 from esoh.ingest.send_mqtt import mqtt_connection
 from esoh.ingest.messages import load_files, build_message
-
+from eosh.ingest.datastore import datastore_connection
 
 import xarray as xr
 
@@ -11,19 +11,20 @@ class ingest_to_pipeline():
     Should accept paths or objects to pass on to the datastore and mqtt broker.
     """
 
-    def __init__(self, mqtt_conf: dict, uuid_prefix: str, testing: bool = False):
+    def __init__(self, mqtt_conf: dict, dstore_conn: str, uuid_prefix: str, testing: bool = False):
         self.uuid_prefix = uuid_prefix
 
         if testing:
             return
 
+        self.dstore = datastore_connection(dstore_conn)
         self.mqtt = mqtt_connection(mqtt_conf["host"], mqtt_conf["topic"])
 
     def ingest_message(self, message: [str, object], input_type: str = None):
         if not input_type:
             input_type = self.decide_input_type(message)
 
-        return self.build_message(message, input_type)
+        self.build_message(message, input_type)
 
     def decide_input_type(self):
         pass
