@@ -1,12 +1,14 @@
 from esoh.ingest.send_mqtt import mqtt_connection
 from esoh.ingest.messages import messages
+from esoh.ingest.datastore import datastore_connection
 
 from jsonschema import Draft202012Validator, ValidationError
 import json
 
+import pkg_resources
 
 import logging
-
+import os
 
 logger = logging.getLogger(__name__)
 
@@ -18,15 +20,24 @@ class ingest_to_pipeline():
     """
 
     def __init__(self, mqtt_conf: dict,
+                 dstore_conn: dict,
                  uuid_prefix: str,
                  testing: bool = False,
-                 esoh_mqtt_schema="schemas/e-soh-message-spec.json"):
+                 schema_path=None):
         self.uuid_prefix = uuid_prefix
+
+        if not schema_path:
+            self.schema_path = pkg_resources.resource_filename("esoh", "schemas")
+        else:
+            self.schema_path = schema_path
+
+        esoh_mqtt_schema = os.path.join(self.schema_path, "e-soh-message-spec.json")
 
         if testing:
             return
 
-        self.mqtt = mqtt_connection(mqtt_conf["host"])
+        self.dstore = datastore_connection(dstore_conn["dshost"], dstore_conn["dsport"])
+        self.mqtt = mqtt_connection(mqtt_conf["host"], mqtt_conf["topic"])
 
         with open(esoh_mqtt_schema, "r") as file:
             self.esoh_mqtt_schema = json.load(file)
@@ -43,21 +54,24 @@ class ingest_to_pipeline():
         if not input_type:
             input_type = self.decide_input_type(message)
 
-        self.publish_messages(self._build_message(message, input_type))
+        self.publish_messages(self._build_messages(message, input_type))
 
     def publish_messages(self, messages: list):
         """
-        This method accepts a list of json strings ready to be published to the mqtt topic.
+        This method accepts a list of json strings ready to be ingest to datastore
+         and published to the mqtt topic.
         """
         for msg in messages:
             try:
                 self.schema_validator.validate(msg)
+                self.dstore.ingest(msg)
                 self.mqtt.send_message(msg)
             except ValidationError as v_error:
-                logging.error("Message did not pass schema validation, " + v_error)
+                logging.error("Message did not pass schema validation, " + "\n" + str(v_error))
                 continue
             except Exception as e:
-                raise e
+                logger.critical(str(e))
+                raise
 
     def _decide_input_type(self, message) -> str:
         """
@@ -84,4 +98,4 @@ class ingest_to_pipeline():
                                 + "objects without specifying input type")
                 raise TypeError("Illegal usage, not allowed to input"
                                 + "objects without specifying input type")
-        return messages(message, input_type, self.uuid_prefix)
+        return messages(message, input_type, self.uuid_prefix, self.schema_path)
