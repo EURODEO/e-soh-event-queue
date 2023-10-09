@@ -1,14 +1,14 @@
 import json
-
-
+import os
 class mapper():
     """
     Delivers and loads json mappings for netCDF metadata parsing
     Will lazy load maps.
     """
 
-    def __init__(self):
-        with open("schemas/institution_mapping.json", "r") as file:
+    def __init__(self, schema_path):
+        self.schema_path = schema_path
+        with open(os.path.join(self.schema_path, "institution_mapping.json"), "r") as file:
             self.path_to_maps = json.load(file)
 
         self.maps = {}
@@ -24,7 +24,7 @@ class mapper():
         """
         self._verify_known_institution(institution)
         if institution not in self.maps:
-            with open(self.path_to_maps[institution], "r") as file:
+            with open(os.path.join(self.schema_path, self.path_to_maps[institution]), "r") as file:
                 self.maps[institution] = json.load(file)
 
         return self.maps[institution]
