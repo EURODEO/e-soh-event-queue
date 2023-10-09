@@ -1,5 +1,7 @@
 import json
 import os
+
+
 class mapper():
     """
     Delivers and loads json mappings for netCDF metadata parsing
@@ -19,7 +21,7 @@ class mapper():
 
     def __call__(self, institution: str) -> dict:
         """
-        Call an instance of this class for the correct json mapping given the intitution name.
+        Call an instance of this class for the correct json mapping given the institution name.
         Must be same name as the global field from netCDF.
         """
         self._verify_known_institution(institution)

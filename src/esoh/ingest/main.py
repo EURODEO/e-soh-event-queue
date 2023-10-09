@@ -2,7 +2,7 @@ from esoh.ingest.send_mqtt import mqtt_connection
 from esoh.ingest.messages import messages
 from esoh.ingest.datastore import datastore_connection
 
-from jsonschema import Draft202012Validator, ValidationError
+from jsonschema import Draft202012Validator
 import json
 
 import pkg_resources
@@ -62,16 +62,8 @@ class ingest_to_pipeline():
          and published to the mqtt topic.
         """
         for msg in messages:
-            try:
-                self.schema_validator.validate(msg)
-                self.dstore.ingest(msg)
-                self.mqtt.send_message(msg)
-            except ValidationError as v_error:
-                logging.error("Message did not pass schema validation, " + "\n" + str(v_error))
-                continue
-            except Exception as e:
-                logger.critical(str(e))
-                raise
+            self.dstore.ingest(msg)
+            self.mqtt.send_message(msg)
 
     def _decide_input_type(self, message) -> str:
         """
@@ -98,4 +90,8 @@ class ingest_to_pipeline():
                                 + "objects without specifying input type")
                 raise TypeError("Illegal usage, not allowed to input"
                                 + "objects without specifying input type")
-        return messages(message, input_type, self.uuid_prefix, self.schema_path)
+        return messages(message,
+                        input_type,
+                        self.uuid_prefix,
+                        self.schema_path,
+                        self.schema_validator)

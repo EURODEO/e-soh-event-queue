@@ -239,7 +239,7 @@ def build_all_json_payloads_from_netCDF(ds: xr.Dataset,
                 "value": content_str
             }
 
-            json_msg["content"] = content
+            json_msg["properties"]["content"] = content
 
             messages.append(copy.deepcopy(json_msg))
 
