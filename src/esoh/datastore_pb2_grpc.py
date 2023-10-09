@@ -2,7 +2,7 @@
 """Client and server classes corresponding to protobuf-defined services."""
 import grpc
 
-import datastore_pb2 as datastore__pb2
+import esoh.datastore_pb2 as datastore__pb2
 
 
 class DatastoreStub(object):
@@ -28,15 +28,15 @@ class DatastoreStub(object):
             channel: A grpc.Channel.
         """
         self.PutObservations = channel.unary_unary(
-                '/datastore.Datastore/PutObservations',
-                request_serializer=datastore__pb2.PutObsRequest.SerializeToString,
-                response_deserializer=datastore__pb2.PutObsResponse.FromString,
-                )
+            '/datastore.Datastore/PutObservations',
+            request_serializer=datastore__pb2.PutObsRequest.SerializeToString,
+            response_deserializer=datastore__pb2.PutObsResponse.FromString,
+        )
         self.GetObservations = channel.unary_unary(
-                '/datastore.Datastore/GetObservations',
-                request_serializer=datastore__pb2.GetObsRequest.SerializeToString,
-                response_deserializer=datastore__pb2.GetObsResponse.FromString,
-                )
+            '/datastore.Datastore/GetObservations',
+            request_serializer=datastore__pb2.GetObsRequest.SerializeToString,
+            response_deserializer=datastore__pb2.GetObsResponse.FromString,
+        )
 
 
 class DatastoreServicer(object):
@@ -70,23 +70,24 @@ class DatastoreServicer(object):
 
 def add_DatastoreServicer_to_server(servicer, server):
     rpc_method_handlers = {
-            'PutObservations': grpc.unary_unary_rpc_method_handler(
-                    servicer.PutObservations,
-                    request_deserializer=datastore__pb2.PutObsRequest.FromString,
-                    response_serializer=datastore__pb2.PutObsResponse.SerializeToString,
-            ),
-            'GetObservations': grpc.unary_unary_rpc_method_handler(
-                    servicer.GetObservations,
-                    request_deserializer=datastore__pb2.GetObsRequest.FromString,
-                    response_serializer=datastore__pb2.GetObsResponse.SerializeToString,
-            ),
+        'PutObservations': grpc.unary_unary_rpc_method_handler(
+            servicer.PutObservations,
+            request_deserializer=datastore__pb2.PutObsRequest.FromString,
+            response_serializer=datastore__pb2.PutObsResponse.SerializeToString,
+        ),
+        'GetObservations': grpc.unary_unary_rpc_method_handler(
+            servicer.GetObservations,
+            request_deserializer=datastore__pb2.GetObsRequest.FromString,
+            response_serializer=datastore__pb2.GetObsResponse.SerializeToString,
+        ),
     }
     generic_handler = grpc.method_handlers_generic_handler(
-            'datastore.Datastore', rpc_method_handlers)
+        'datastore.Datastore', rpc_method_handlers)
     server.add_generic_rpc_handlers((generic_handler,))
 
-
  # This class is part of an EXPERIMENTAL API.
+
+
 class Datastore(object):
     """Notes:
     - A _time series_ is a context defined by a set of metadata (defined in TSMetadata below) that
@@ -105,34 +106,34 @@ class Datastore(object):
 
     @staticmethod
     def PutObservations(request,
-            target,
-            options=(),
-            channel_credentials=None,
-            call_credentials=None,
-            insecure=False,
-            compression=None,
-            wait_for_ready=None,
-            timeout=None,
-            metadata=None):
+                        target,
+                        options=(),
+                        channel_credentials=None,
+                        call_credentials=None,
+                        insecure=False,
+                        compression=None,
+                        wait_for_ready=None,
+                        timeout=None,
+                        metadata=None):
         return grpc.experimental.unary_unary(request, target, '/datastore.Datastore/PutObservations',
-            datastore__pb2.PutObsRequest.SerializeToString,
-            datastore__pb2.PutObsResponse.FromString,
-            options, channel_credentials,
-            insecure, call_credentials, compression, wait_for_ready, timeout, metadata)
+                                             datastore__pb2.PutObsRequest.SerializeToString,
+                                             datastore__pb2.PutObsResponse.FromString,
+                                             options, channel_credentials,
+                                             insecure, call_credentials, compression, wait_for_ready, timeout, metadata)
 
     @staticmethod
     def GetObservations(request,
-            target,
-            options=(),
-            channel_credentials=None,
-            call_credentials=None,
-            insecure=False,
-            compression=None,
-            wait_for_ready=None,
-            timeout=None,
-            metadata=None):
+                        target,
+                        options=(),
+                        channel_credentials=None,
+                        call_credentials=None,
+                        insecure=False,
+                        compression=None,
+                        wait_for_ready=None,
+                        timeout=None,
+                        metadata=None):
         return grpc.experimental.unary_unary(request, target, '/datastore.Datastore/GetObservations',
-            datastore__pb2.GetObsRequest.SerializeToString,
-            datastore__pb2.GetObsResponse.FromString,
-            options, channel_credentials,
-            insecure, call_credentials, compression, wait_for_ready, timeout, metadata)
+                                             datastore__pb2.GetObsRequest.SerializeToString,
+                                             datastore__pb2.GetObsResponse.FromString,
+                                             options, channel_credentials,
+                                             insecure, call_credentials, compression, wait_for_ready, timeout, metadata)
