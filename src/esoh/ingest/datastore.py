@@ -5,10 +5,9 @@ import esoh.datastore_pb2_grpc as dstore_grpc
 import grpc
 import logging
 
-from google.protobuf import json_format
 from google.protobuf.timestamp_pb2 import Timestamp
 
-from datetime import datetime, timezone
+from datetime import datetime
 
 logger = logging.getLogger(__name__)
 
@@ -68,7 +67,8 @@ class datastore_connection():
             pubtime=dtime2tstamp(datetime.strptime(
                 msg["properties"]["pubtime"], "%Y-%m-%dT%H:%M:%S.%f%z")),
             obstime_instant=dtime2tstamp(
-                datetime.strptime(nstime2stime(msg["properties"]["datetime"]), "%Y-%m-%dT%H:%M:%S")),
+                datetime.strptime(nstime2stime(msg["properties"]["datetime"]),
+                                  "%Y-%m-%dT%H:%M:%S")),
             geo_point=dstore.Point(lat=int(msg["geometry"]["coordinates"][0]),
                                    lon=int(msg["geometry"]["coordinates"][1]))
         )
