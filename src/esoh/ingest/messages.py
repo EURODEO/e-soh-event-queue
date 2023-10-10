@@ -1,9 +1,8 @@
-from datetime import datetime
+from datetime import datetime, timezone
 
 import xarray as xr
 
 import uuid
-import json
 import logging
 
 from esoh.ingest.netCDF.extract_metadata_netcdf import build_all_json_payloads_from_netCDF
@@ -32,15 +31,13 @@ def build_message(file: [object],
         json_msg["properties"]["metadata_id"] = message_uuid
         json_msg["properties"]["data_id"] = message_uuid
 
-        json_msg["properties"][
-            "pubtime"] = datetime.now().isoformat()
-
+        json_msg["properties"]["pubtime"] = datetime.now(timezone.utc).isoformat()
         try:
             validator.validate(json_msg)
         except ValidationError as v_error:
-            logging.error("Message did not pass schema validation, " + "\n" + str(v_error.message))
-
-    unfinished_messages = [json.dumps(i) for i in unfinished_messages]
+            logger.error("Message did not pass schema validation, " + "\n" + str(v_error.message))
+            json_msg = None
+            raise
 
     return unfinished_messages  # now populated with timestamps and uuids
 

@@ -1,5 +1,6 @@
 import paho.mqtt.client as mqtt
 
+import json
 import logging
 
 logger = logging.getLogger(__name__)
@@ -21,7 +22,13 @@ class mqtt_connection():
 
     def send_message(self, message: str):
         try:
-            self.pub_client.publish(self.mqtt_topic, message)
+            if isinstance(message, str):
+                self.pub_client.publish(self.mqtt_topic, message)
+            else:
+                self.pub_client.publish(self.mqtt_topic, json.dumps(message))
         except Exception as e:
+            print("Did exception")
             logger.critical(str(e))
             raise
+        print(
+            f"sent message to mqtt {self.mqtt_host} with topic {self.mqtt_topic}, \n{message}\n\n")

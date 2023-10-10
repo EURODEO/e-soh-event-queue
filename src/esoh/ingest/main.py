@@ -62,8 +62,9 @@ class ingest_to_pipeline():
          and published to the mqtt topic.
         """
         for msg in messages:
-            self.dstore.ingest(msg)
-            self.mqtt.send_message(msg)
+            if msg:
+                self.dstore.ingest(msg)
+                self.mqtt.send_message(msg)
 
     def _decide_input_type(self, message) -> str:
         """

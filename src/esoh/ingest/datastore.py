@@ -8,9 +8,23 @@ import logging
 from google.protobuf import json_format
 from google.protobuf.timestamp_pb2 import Timestamp
 
-from datetime import datetime
+from datetime import datetime, timezone
 
 logger = logging.getLogger(__name__)
+
+
+def dtime2tstamp(dtime):
+    tstamp = Timestamp()
+    tstamp.FromDatetime(dtime)
+    return tstamp
+
+
+def nstime2stime(nstime):
+    nstime = nstime.split(".")
+    if len(nstime) == 1:
+        return nstime[0]
+    else:
+        return ".".join(nstime[:-1])
 
 
 class datastore_connection():
@@ -19,12 +33,10 @@ class datastore_connection():
         self._stub = dstore_grpc.DatastoreStub(self._channel)
 
     def ingest(self, msg: str) -> None:
-        print(msg)
         ts_metadata = dstore.TSMetadata()
         # json_format.ParseDict(msg, ts_metadata, ignore_unknown_fields=True,
         #   max_recursion_depth=100)
         # json_format.ParseDict(msg["properties"], ts_metadata, ignore_unknown_fields=True)
-
         for i in ['version',
                   'type',
                   'title',
@@ -53,12 +65,13 @@ class datastore_connection():
                 setattr(ts_metadata, i, msg["properties"]["content"][i])
 
         Observation_data = dstore.ObsMetadata(
-            pubtime=Timestamp().FromDatetime(
-                datetime.fromisoformat(msg["properties"]["pubtime"])),
-            obstime_instant=Timestamp().FromDatetime(
-                datetime.fromisoformat(msg["properties"]["datetime"])),
+            pubtime=dtime2tstamp(datetime.strptime(
+                msg["properties"]["pubtime"], "%Y-%m-%dT%H:%M:%S.%f%z")),
+            obstime_instant=dtime2tstamp(
+                datetime.strptime(nstime2stime(msg["properties"]["datetime"]), "%Y-%m-%dT%H:%M:%S")),
             geo_point=dstore.Point(lat=int(msg["geometry"]["coordinates"][0]),
-                                   lon=int(msg["geometry"]["coordinates"][1])))
+                                   lon=int(msg["geometry"]["coordinates"][1]))
+        )
 
         for i in ['id',
                   'history',
@@ -82,10 +95,6 @@ class datastore_connection():
         # Observation_data["obstime"] = Timestamp().FromDatetime(
         #     datetime.strptime(msg["properties"]["datetime"],
         #                       "%Y-%m-%dT%H:%M:%S"))
-
-        print(Observation_data)
-
-        print(ts_metadata)
 
         request = dstore.PutObsRequest(
             observations=[
