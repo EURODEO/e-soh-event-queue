@@ -30,5 +30,3 @@ class mqtt_connection():
             print("Did exception")
             logger.critical(str(e))
             raise
-        print(
-            f"sent message to mqtt {self.mqtt_host} with topic {self.mqtt_topic}, \n{message}\n\n")
