@@ -32,17 +32,15 @@ class ingest_to_pipeline():
             self.schema_path = schema_path
 
         esoh_mqtt_schema = os.path.join(self.schema_path, "e-soh-message-spec.json")
+        with open(esoh_mqtt_schema, "r") as file:
+            self.esoh_mqtt_schema = json.load(file)
+        self.schema_validator = Draft202012Validator(self.esoh_mqtt_schema)
 
         if testing:
             return
 
         self.dstore = datastore_connection(dstore_conn["dshost"], dstore_conn["dsport"])
         self.mqtt = mqtt_connection(mqtt_conf["host"], mqtt_conf["topic"])
-
-        with open(esoh_mqtt_schema, "r") as file:
-            self.esoh_mqtt_schema = json.load(file)
-
-        self.schema_validator = Draft202012Validator(self.esoh_mqtt_schema)
 
     def ingest(self, message: [str, object], input_type: str = None):
         """
