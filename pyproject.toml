@@ -9,7 +9,7 @@ dependencies = [
 	"numpy ~= 1.25.2",
 	"paho-mqtt ~= 1.6.1",
 	"jsonschema ~= 4.19.0",
-	"python3-pybind11 == 2.11.1",
+	"pybind11 ~= 2.11.1",
 	"protobuf ~= 4.24.3",
 	"grpcio == 1.59.0",
 ]
