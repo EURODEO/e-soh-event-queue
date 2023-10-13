@@ -34,6 +34,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Install lib dep
+        run: sudo apt update && sudo apt install libeccodes-data	rapidjson-dev	pybind11-dev
+
       - uses: pypa/cibuildwheel@v2.16
         env:
           CIBW_ARCHS_MACOS: auto universal2
