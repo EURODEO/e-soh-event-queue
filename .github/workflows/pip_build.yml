@@ -39,3 +39,7 @@ jobs:
 
       - name: Build and install
         run: pip install --verbose .
+
+      - uses: pypa/gh-action-pip-audit@v1.0.8
+        with:
+          inputs: .
