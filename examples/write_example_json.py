@@ -8,7 +8,7 @@ Supply path to netCDF file at commandline.
 
 """
 
-# Only writes last message from the list of messages created in build_all_json_payloads_from_netCDF
+# Only writes last message from the list of messages created in ingest._build_messages
 
 ingest = ingest_to_pipeline(None, "testing", testing=True)
 
@@ -19,7 +19,7 @@ ds = xr.load_dataset(path)
 with open("schemas/netcdf_to_e_soh_message_metno.json") as file:
     j_read_netcdf = json.load(file)
 
-json_msg = build_all_json_payloads_from_netCDF(
+json_msg = ingest._build_messages(
     ds, j_read_netcdf)[0]
 json_msg["version"] = "v04"
 
@@ -33,7 +33,7 @@ with open("schemas/netcdf_to_e_soh_message_knmi.json") as file:
     j_read_netcdf = json.load(file)
 
 for station in ds.station:
-    json_msg = build_all_json_payloads_from_netCDF(
+    json_msg = ingest._build_messages(
         ds.sel(station=station), j_read_netcdf)[0]
     break
 
