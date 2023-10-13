@@ -35,7 +35,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Install lib dep
-        run: sudo apt update && sudo apt install libeccodes-data rapidjson-dev pybind11-dev libssl-dev
+        run: sudo apt update && sudo apt upgrade && sudo apt install libeccodes-data rapidjson-dev pybind11-dev libssl-dev
 
       - uses: pypa/cibuildwheel@v2.16
         with:
