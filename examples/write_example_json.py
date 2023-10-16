@@ -8,8 +8,8 @@ Supply path to netCDF file at commandline.
 
 """
 
-# Only writes last message from the list of messages created in ingest._build_messages
-
+# Only writes last message from the list of messages created in build_all_json_payloads_from_netCDF
+#
 ingest = ingest_to_pipeline(None, "testing", testing=True)
 
 print("Load METno data")
