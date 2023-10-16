@@ -36,4 +36,4 @@ build-frontend = "build"
 
 
 [tool.cibuildwheel.linux]
-before-all = "yum install -y rapidjson-devel-x86-64 python3.11-pybind11-devel.x86_64"
+before-all = "yum install -y rapidjson-devel.x86-64 python3.11-pybind11-devel.x86_64"
