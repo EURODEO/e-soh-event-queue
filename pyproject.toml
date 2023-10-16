@@ -33,7 +33,7 @@ pythonpath = "."
 
 [tool.cibuildwheel]
 build-frontend = "build"
-CIBW_BUILD = ["cp310-manylinux_x86_64"]
+build = ["cp310-manylinux_x86_64"]
 
 
 [tool.cibuildwheel.linux]
