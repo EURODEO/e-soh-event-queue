@@ -33,3 +33,7 @@ pythonpath = "."
 
 [tool.cibuildwheel]
 build-frontend = "build"
+
+
+[tool.cibuildwheel.linux]
+before-all = "yum install -y rapidjson-dev pybind11-dev libeccodes-data"
